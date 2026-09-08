@@ -1,4 +1,8 @@
-# 🧹 DataClean Pro --- One-Click Data Cleaning & Quality Analyzer
+# 🧹 DataClean Pro — One-Click Data Cleaning & Quality Analyzer
+
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/) [![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+**Portfolio project:** a practical, reusable data-quality workflow for messy CSV and Excel datasets.
 
 > **Turn messy CSV and Excel files into cleaner, validated,
 > analysis-ready datasets in one click.**
@@ -48,7 +52,7 @@ quality → Produce analysis-ready datasets**
 
 ## 📸 Application Preview
 
-Add your screenshots to an `assets/` folder and use them here:
+Add screenshots to the `assets/` folder and replace the placeholders below with your final screenshots.
 
   ------------------------------------------------------------------------------
   Dashboard                            Cleaning Controls
@@ -138,7 +142,7 @@ Available approaches include:
 #### Outlier treatment
 
 Optional **IQR-based outlier capping** can be enabled for eligible
-numeric columns.
+numeric columns when the analyst chooses that treatment.
 
 Identifier-like columns are protected from inappropriate outlier
 treatment.
@@ -169,7 +173,7 @@ Sales
 the application can compare:
 
 ``` text
-Expected Sales = Quantity × Unit Price
+Expected Sales = Quantity × Unit Price × (1 − Discount)
 ```
 
 A tolerance is used rather than requiring exact equality.
@@ -520,7 +524,14 @@ Data-Clean-Pro-One-Click/
 │   └── history.png
 │
 ├── sample_data/
-│   └── messy_ecommerce.csv
+│   ├── messy/
+│   │   ├── messy_hr.csv
+│   │   ├── messy_ecommerce.csv
+│   │   └── messy_small_ecommerce.csv
+│   └── cleaned/
+│       ├── cleaned_hr.csv
+│       ├── cleaned_ecommerce.csv
+│       └── cleaned_small_ecommerce.csv
 │
 └── data/
     └── history/
@@ -895,4 +906,4 @@ data-quality workflows, consider giving the repository a ⭐.
 
 ## 📄 License
 
-This project is available for educational and portfolio purposes.
+This project is available for educational and portfolio purposes. If you plan to reuse or redistribute the code, add an explicit license file (for example, MIT) to the repository and update this section accordingly.
