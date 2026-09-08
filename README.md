@@ -20,7 +20,7 @@ collection of isolated Pandas operations.
 ------------------------------------------------------------------------
 ## 🚀 Live Demo
 
-👉 [Launch DataClean Pro](https://data-clean-pro-one-click-mx7jbnsdj4mwnghfcpj6da.streamlit.app/)
+👉 [Launch DataClean Pro](https://data-clean-pro-one-click.streamlit.app/)
 
 Try the live application to upload a messy CSV/Excel file, clean and validate it,
 analyze data quality and outliers, and export the cleaned dataset.
