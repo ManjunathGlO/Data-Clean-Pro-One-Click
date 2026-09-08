@@ -1,0 +1,45 @@
+Cleaning Action,Result
+Original rows,800.0
+Original columns,22.0
+Blank rows removed,0.0
+Blank columns removed,0.0
+Column names standardized,0.0
+Missing-value tokens standardized,69.0
+Text cells cleaned,731.0
+Gender values standardized,119.0
+City values standardized,72.0
+State values standardized,67.0
+Customer_Segment values standardized,117.0
+Category values standardized,142.0
+Product values standardized,80.0
+Payment_Method values standardized,116.0
+Order_Status values standardized,112.0
+Sales_Channel values standardized,129.0
+Customer names standardized,71.0
+Email values normalized,15.0
+Phone values normalized,45.0
+Invalid phone values converted to missing,18.0
+Columns converted to numeric,5.0
+Invalid numeric values converted to missing,1.0
+Columns converted to dates,1.0
+Invalid date values converted to missing,0.0
+Invalid email values detected,25.0
+Invalid email values converted to missing,25.0
+Invalid Age values converted to missing,21.0
+Invalid Quantity values converted to missing,12.0
+Invalid Unit_Price values converted to missing,0.0
+Invalid Sales values converted to missing,0.0
+Invalid Rating values converted to missing,17.0
+City/State consistency fixes,12.0
+Sales calculation mismatches (>5%),38.0
+Total business-rule violations,50.0
+Duplicate rows removed,44.0
+Missing cells before strategy,718.0
+Missing cells after strategy,79.0
+Outlier cells capped,0.0
+Sales values recalculated from business rule,37.0
+Cleaned rows,756.0
+Cleaned columns,22.0
+Final missing cells,79.0
+Final duplicate rows,0.0
+Final quality score,99.7

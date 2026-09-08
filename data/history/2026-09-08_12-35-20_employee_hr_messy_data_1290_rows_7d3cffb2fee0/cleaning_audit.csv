@@ -1,0 +1,36 @@
+Cleaning Action,Result
+Original rows,1290
+Original columns,24
+Blank rows removed,0
+Blank columns removed,0
+Column names standardized,0
+Missing tokens normalized,730
+Text cells whitespace/name-normalized,234
+Formatting-only categorical variants standardized,1224
+Invalid Age values set to missing,27
+Invalid Experience_Years values set to missing,17
+Invalid Job_Satisfaction values set to missing,19
+Invalid Overtime_Hours values set to missing,11
+Columns type-converted,9
+Invalid numeric values converted to missing,141
+Invalid date values converted to missing,0
+Inferred column types,"Employee_ID: id, Employee_Name: text, Email: email, Phone: phone, Gender: text, Date_of_Birth: date, Age: numeric, Department: text, Job_Title: text, Employment_Type: text, Joining_Date: date, Location: text, Education: text, Experience_Years: numeric, Annual_Salary: currency, Bonus: currency, Performance_Rating: text, Manager: text, Employee_Status: text, Marital_Status: text, Leave_Days: numeric, Job_Satisfaction: numeric, Overtime_Hours: numeric, Notes: text"
+Duplicate rows removed,90
+Missing cells imputed,1118
+Missing cells before strategy,1182
+Missing cells after strategy,64
+Outlier cells capped,0
+Outlier columns detected,7
+Outlier observations detected,87
+Invalid emails converted to missing,32
+Invalid phones converted to missing,27
+Final invalid emails,0
+Final invalid phones,0
+Final Sales mismatches,0
+Final City/State mismatches,0
+Cleaned rows,1200
+Cleaned columns,24
+Final missing cells,123
+Final duplicate rows,0
+Final quality score,99.8
+Domain-specific rules applied,None — universal mode

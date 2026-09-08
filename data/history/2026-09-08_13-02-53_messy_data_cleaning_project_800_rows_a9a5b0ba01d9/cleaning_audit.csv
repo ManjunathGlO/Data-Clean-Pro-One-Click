@@ -1,0 +1,36 @@
+Cleaning Action,Result
+Original rows,800
+Original columns,22
+Blank rows removed,0
+Blank columns removed,0
+Column names standardized,0
+Missing tokens normalized,675
+Text cells whitespace/name-normalized,192
+Formatting-only categorical variants standardized,958
+Semantic categorical aliases standardized,8
+Invalid Age values set to missing,21
+Invalid Quantity values set to missing,7
+Invalid Rating values set to missing,17
+Columns type-converted,7
+Invalid numeric values converted to missing,52
+Invalid date values converted to missing,0
+Inferred column types,"Customer_ID: id, Customer_Name: text, Email: email, Phone: phone, Gender: text, Age: numeric, City: text, State: text, Customer_Segment: text, Order_ID: id, Order_Date: date, Product: text, Category: text, Quantity: numeric, Unit_Price: currency, Discount: percentage, Sales: currency, Payment_Method: text, Order_Status: text, Sales_Channel: text, Rating: numeric, Notes: text"
+Duplicate rows removed,44
+Missing cells imputed,651
+Missing cells before strategy,688
+Missing cells after strategy,37
+Outlier cells capped,0
+Outlier columns detected,6
+Outlier observations detected,218
+Invalid emails converted to missing,24
+Invalid phones converted to missing,18
+Final invalid emails,0
+Final invalid phones,0
+Final Sales mismatches,0
+Final City/State mismatches,0
+Cleaned rows,756
+Cleaned columns,22
+Final missing cells,79
+Final duplicate rows,0
+Final quality score,99.7
+Domain-specific rules applied,None — universal mode

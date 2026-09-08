@@ -1,0 +1,801 @@
+Customer_ID,Customer_Name,Email,Phone,Gender,Age,City,State,Customer_Segment,Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,Discount,Sales,Payment_Method,Order_Status,Sales_Channel,Rating,Notes
+10001,Sneha Sharma,snehasharma768@example.com,9685582861,Male,55,Chennai,Tamil Nadu,corporate,ORD-100000,2025-11-23,,Electronics,2.0,999,0.0,1998.0,Credit Card,Completed,Website,2,Fast delivery
+10002,Nikhil Mehta,nikhilmehta235@example.com,9582334538,Other,35,Bengaluru,Karnataka,corporate,ORD-100001,2025-03-05,Printer,Electronics,2.0,49999,0.2,79998.4,Debit Card,CANCELLED,Store,3,Fast delivery
+10003,Kiran Shetty,kiranshetty877@example.com  ,9469319644,OTHER,34,Pune,Maharashtra,Consumer,ORD-100002,2025-01-02,smartphone,Electronics,1.0,3499,0.0,3499.0,PayPal,RETURNED,Social Media,1,Urgent
+10004,Arjun Das  ,arjundas731@example.com  ,9174684276,Male,60,Chennai,Tamil Nadu,Corporate,ORD-100003,2024-07-15,USB Hub,Accessories,5.0,"2,499",0.2,9996.0,UPI,CANCELLED,web site,1,Urgent
+10005,Rohit Nair,rohitnair283@example.com  ,9853573823,Other,59,  Pune,Maharashtra,Consumer,ORD-100004,2025-11-17,Headphones,Accessories,3.0,2499,0.05,7122.15,Net Banking,Pending,sOCIAL  mEDIA,2,
+10006,Sanjay Verma,sanjayverma796@example.com,9933223566,Male,32,Chennai,tamil nadu,Consumer  ,ORD-100005,2026-05-13,USB HUB, Accessories ,5.0,1499,5 %,6745.5, ,Returned,Store,1,Fast delivery
+10007,Akash Bhat,akashbhat281@example.com,9249926919,Male,65,Pune,Maharashtra,Small Business,ORD-100006,2024-05-26,Monitor,Electronics,4.0,3499,0.15,11896.6,PayPal,Shipped,app,5,Urgent
+10008,kavya singh,kavyasingh122@example.com,9264112119,Other,28,Delhi,Delhi,Student  ,ORD-100007,2026-05-31,Printer,Electronics,4.0,799,0.0,3196.0,Net  Banking,Completed,Marketplace,4,
+10009,Sanjay Das,sanjaydas916@example.com,9676567501,Female,59,Chennai,Tamil Nadu,Small Business,ORD-100008,2025-11-29,Printer,Electronics,1.0,19999,0.0,19999.0, Credit Card ,Cancelled,Marketplace,2,Urgent
+10010,Rahul Rao,rahulrao650@example.com,9420452650,Other,50,Chennai,Tamil Nadu,Corporate,ORD-100009,2026-06-10,Printer,Electronics,2.0,7999,0.0,15998.0,Netbanking,Cancelled,Mobile App,5,
+10011,NIKHIL BHAT,nikhilbhat961@example.com,9489747629,Female,33,Bengaluru,Karnataka,Consumer,ORD-100010,2024-04-24,External HDD,storage,,4999,0.0,14997.0,Debit Card,Shipped,website,1,
+10012,Meera Iyer,meeraiyer179@example.com,9384602384,Other,56,Mumbai,Maharashtra,Student,ORD-100011,2025-07-16,Printer,Electronics,2.0,999,0.15,1698.3,Debit Card,complete,Mobile App,3,Urgent
+10013,Kavya Nair,kavyanair356@example.com,9122585366,Other,53,Jaipur,Rajasthan,Corporate,ORD-100012,2024-03-06,Smartwatch,Wearables,1.0,1499,10%,1424.05,Net Banking,Pending,Website,1,
+10014,Priya Singh,  priyasingh295@example.com,9818309417,Female,31,Mumbai,Maharashtra,Corporate,ORD-100013,2024-08-31,Laptop,Electronics,3.0,799,0.2,1917.6,PayPal,Shipped,Social Media,4,
+10015,Meera Shetty,meerashetty443@example.com,9541417711,Female,64,Kolkata,West  Bengal,Consumer,ORD-100014,2024-12-28,MONITOR,Electronics,1.0,799,0.15,679.15,PayPal,  Completed,Website,4,
+10016,Amit Shetty,amitshetty153@example.com,9552991960,Male,35,Mumbai,Maharashtra,Student,ORD-100015,2025-04-04,Monitor,  Electronics,2.0,1499,0.2,2398.4,dEBIT cARD,Completed,Marketplace,5,Good
+10017,Priya Joshi,priyajoshi507@example.com,9616854671,Male,43,  Jaipur,Rajasthan,Consumer,ORD-100016,2025-02-20,Laptop,electronic,1.0,1499,0.05,1424.05,Debit Card,Returned,  Website,4,Customer happy
+10018,Sanjay Reddy,sanjayreddy204@example.com,9418587604,Male,21,Kolkata,West Bengal,Consumer,ORD-100017,2024-06-07,Webcam,electronics,5.0,19999,0.15,84995.75,PayPal,Cancelled,Website,1,
+10019,Meera Das,,9173574218,Other,22,Jaipur,Rajasthan,Corporate,ORD-100018,2026-05-21,Headphones,Accessories,1.0,7999,0.0,7999.0,Cash,Completed,Social Media,2,
+10020,Isha Sharma,ishasharma545@example.com,9439699535,F,31,Mysuru,Karnataka,Small Business,ORD-100019,2025-08-01,Smartphone,Electronics,4.0,19999,0.2,63996.8,DEBIT CARD,Cancelled,Marketplace,2,
+10021,Pooja Nair,poojanair112@example.com,9178663096,Other,31,Pune,Maharashtra,Small Business,ORD-100020,2025-07-30,Smartphone,Electronics,1.0,4999,0.2,3999.2,Debit Card,Cancelled,Website,2,Customer happy
+10022,Pooja Kumar,poojakumar693@example.com,9977358886,Other,37,Ahmedabad,Gujarat,Consumer,ORD-100021,2024-01-09,Printer,Electronics,3.0,"12,999",0.2,31197.6,dEBIT cARD,Cancelled  ,Website,1,
+10023,Shreya Kumar,shreyakumar713@example.com,9781007818,Female,50,Chennai,tAMIL nADU,Student,ORD-100022,2024-07-27,Keyboard,Accessories,5.0,1499,0.1,6745.5,Upi,cancelled,Website,4,
+10024,Rohit Sharma,rohitsharma769@example.com,9574417266,other,63,Bengaluru,  Karnataka,Student,ORD-100023,2024-06-14,Mouse,accessories,2.0,19999,0.1,35998.2,NET BANKING,Completed,Website,1,
+10025,Vikram Das,vikramdas140@ example.com,9144913399,MALE,41,Bengaluru,Karnataka,Consumer,ORD-100024,2025-03-16,Mouse,Accessories,5.0,7999,0.05,37995.25,UPI,Pending,Mobile App,1,Customer happy
+10026,,shreyabhat840@example.com,9290108532,Female,19,Kolkata,West Bengal,Corporate,ORD-100025,2026-03-30,External HDD,Storage,2.0,1499,0.05,2848.1, ,Cancelled,Marketplace,2,Customer happy
+10027,Ananya Shetty,ananyashetty846@example.com,9594246837,Female,37,Mumbai,Maharashtra,Corporate,ORD-100026,2024-07-23,Tablet,Electronics,1.0,4999,,4749.05,Debit Card,Completed,Mobile App,4,Customer happy
+10028,Rohit Iyer,rohitiyer705@example.com,9675757257,Female,19,Mumbai,Maharashtra,Consumer,ORD-100027,2025-02-13,Keyboard  ,Accessories,3.0,19999,0.2,47997.6,UPI, Pending ,Social Media,3,
+10029,Sneha Mehta,snehamehta128@example.com,9513600440,Other,30,Kolkata,West Bengal, Small Business ,ORD-100028,2025-06-07,,Accessories,3.0,3499,0.2,8397.6,Credit Card,Returned,Website,5,
+10030,Shreya Joshi,shreyajoshi331@example.com,9812306873,Male,64,Hyderabad,telangana,Small Business,ORD-100029,2025-09-30,Mouse,Accessories,4.0,799,0.1,2876.4,Net  Banking,Cancelled,Marketplace,3,Urgent
+10031,Pooja Das,poojadas776@example.com,9286860433,Other,54,Delhi,Delhi,small business,ORD-100030,2025-11-24,Monitor,eLECTRONICS,4.0,19999,0.15,67996.6,Cash,Shipped,Website,3,Customer happy
+10032, , kiranverma701@example.com ,9329460134,Other,48,Mysuru,Karnataka,Corporate ,ORD-100031,2025-03-28,External HDD,Storage,3.0,4999,0.15,12747.45,PayPal,Completed,Store,5,
+10033,Isha Gowda,ishagowda35@example.com,9149621604,Male,-5,Mumbai,Maharashtra,Consumer,ORD-100032,2024-05-30,monitor, Electronics ,3.0,1499,0.05,4272.15,CASH,Returned  ,STORE,,
+10034,manish nair,manishnair891@example.com,9926830795,Male,45,Kolkata,West  Bengal,  corporate,ORD-100033,2026-02-07,Monitor,Electronics,2.0,19999,0.0,39998.0,Debit Card,Shipped,Marketplace,1,
+10035,Neha Bhat,nehabhat619@example.com,9440696084,Female,57,Mumbai,Maharashtra,Student,ORD-100034,2025-07-26,Smartwatch,Wearables,2.0,4999,0.2,7998.4,NET BANKING,cancelled,Mobile App,4,Urgent
+10036,Rohit Shetty,rohitshetty254@example.com,9394846763,Female,22,Hyderabad,Telangana,Small Business,ORD-100035,2025-10-03,Usb Hub, Accessories ,3.0,7999,0.15,20397.45,Debit Card,Cancelled,Store,3,
+10037,Arjun Kumar,arjunkumar229@example.com,9168965204,Female,44,Delhi,Delhi,SMALL BUSINESS,ORD-100036,2025-12-24,Monitor,Electronics,4.0,49999,0.05,189996.2,Net Banking,returned,Marketplace,1,Fast delivery
+10038,Divya Verma,divyaverma16@example.com, 9477698143 , m ,42,Mysuru,Karnataka,Student,ORD-100037,2025-05-03,Webcam,Accessories,1.0,12999,0.15,11049.15, Net Banking ,Shipped,Social Media,2,
+10039,Neha Reddy,nehareddy705@example.com,9956998797,Female,64,Kolkata,West Bengal,  Corporate,ORD-100038,2025-11-15,Smartwatch,accessories,1.0,3499,0.1,3149.1, Cash ,returned ,Mobile app,5,Good
+10040,MANISH MEHTA,manishmehta897@example.com,9595744935,Male,21,Mysuru,  Karnataka,Small Business,ORD-100039,2024-05-18,Usb Hub,Accessories,1.0,799,0.15,679.15,Cash,Cancelled,MOBILE APP,4,Customer happy
+10041,Amit Shetty,amitshetty29@example.com,990-425-8674,Other,21,Kolkata,West Bengal,Small Business,ORD-100040,2025-04-26,Keyboard,Accessories,4.0,1999,0.0,7996.0,DEBIT CARD,Completed,Website,1,Fast delivery
+10042,Kiran Iyer,kiraniyer695@example.com,9222824732,Other,31,Bengaluru,Karnataka,Student,ORD-100041,2025-04-29,External HDD,Storage,2.0,1499,0.05,2848.1,PayPal,Cancelled,Store,2,
+10043,Isha Rao,isharao961@example.com,98765ABCDE,Other,,Mumbai,Maharashtra,Student,ORD-100042,2024-01-27,  hEADPHONES,Accessories,3.0, 799 ,0.2,1917.6,Cash,Pending,Website,5,
+10044,Neha Patel,nehapatel52@example.com,,Other,45,Chennai,Tamil Nadu,Small Business,ORD-100043,2026-03-12,USB HUB,Accessories,5.0,799,0.2,3196.0,Credit Card,Shipped,  Store,1,
+10045,Divya Iyer,divyaiyer166@example.com,95676 00762,Male,64,Ahmedabad,Gujarat,small business,ORD-100044,2025-12-25,Smartphone,electronics,4.0,2499,0.15,8496.6,CreditCard,Completed ,Marketplace,4,Urgent
+10046,Akash Reddy,akashreddy778@example.com,9598976917,Other,,Pune,Maharashtra,Student,ORD-100045,2024-09-06,Monitor,Electronics,1.0,1999,0.15,1699.15,UPI,Completed,mobileapp,3,Fast delivery
+10047,Meera Singh,meerasingh911@example.com,9396641124, f ,18,Pune,Maharashtra,Corporate,ORD-100046,2025-12-19,Keyboard,Accessories,3.0,1999,0.2,4797.6,Credit Card,Pending,Marketplace,4,
+10048,Neha Rao,neharao311@example.com,9337937327,Female,62,Ahmedabad,Gujarat,Corporate,ORD-100047,2024-04-05,USB Hub,Accessories,4.0,4999,0.0,19996.0,UPI,Shipped,Store,4,
+10049,Nikhil Gowda,nikhilgowda474@example.com,9390894296,Female,34,Kolkata,West Bengal, Corporate ,ORD-100048,2025-12-20,Webcam,Accessories,5.0,2499,0.1,11245.5,Credit Card,Pending,,1,
+10050,Shreya Shetty,shreyashetty751@example.com  ,9733064117,female,56,Delhi,Delhi,Small Business,ORD-100049,2024-10-10,Monitor,Electronics,2.0,49999,0.15,84998.3,Credit  Card,Pending,Store,2,Customer happy
+10051,Ananya Reddy,ananyareddy65@example.com  ,9694164665,Female,62,Bengaluru,Karnataka,Corporate,ORD-100050,2024-02-16,,Accessories,5.0,999,0.1,4495.5,UPI ,Returned,website,1,
+10052,Pooja Nair,poojanair973@example.com,9612957813,Male,22,AHMEDABAD,Gujarat,sTUDENT,ORD-100051,2024-09-15,Smartwatch,Wearables,3.0,999,0.0,2997.0,Cash,Completed,web site,1,Fast delivery
+10053,Vikram Shetty,vikramshetty792@example.com,9546863451,OTHER,56,Mysuru,Karnataka,corporate,ORD-100052,2025-07-25,Keyboard,Accessories,1.0, 1499 ,0.0,1499.0,Net Banking,Returned,mARKETPLACE,4,Customer happy
+10054, Akash Verma ,akashverma111@example.com,1882730,Male,58,Chennai,Tamil Nadu,  Corporate,ORD-100053,2026-01-27,External HDD,Storage,5.0,499,0.2,1996.0,UPI,Completed  ,Mobile App,6,Fast delivery
+10055,Shreya Patel,shreyapatel308@example.com,9135046782,Male,36,Delhi,Delhi,Small Business,ORD-100054,2025-04-26,Laptop,Electronics,4.0,4999,0.2,15996.8,PayPal,Returned,Website,2,Customer happy
+10056,Akash Joshi,akashjoshi162@example.com,9385220694,Male,22,Hyderabad,Telangana,Consumer,ORD-100055,2025-10-25,Tablet,Electronics,1.0,7999,0.05,7599.05,Debit Card,PENDING,Social Media,5,Customer happy
+10057,Sanjay Patel,sanjaypatel522@example.com,,Female,46,Ahmedabad,Gujarat,Consumer,ORD-100056,2024-10-05,Webcam,Accessories,3.0,49999,0.15,127497.45,Net Banking,Completed,Marketplace,3,
+10058,Rohit Sharma,rohitsharma698@example.com,9981994345,Female,54,Mumbai,mAHARASHTRA,corporate,ORD-100057,2026-02-22,monitor,Electronics,5.0,12999,0.0,64995.0,Debit Card,Returned,STORE,4,Customer happy
+10059,Ananya Mehta,ananyamehta428@example.com,,Female,60,Kolkata,West Bengal,Consumer,ORD-100058,2024-12-22,USB Hub,Accessories,4.0,799,0.15,2716.6,  Debit Card,cancelled,Marketplace,4,Customer happy
+10060,Manish Iyer,manishiyer341@example.com,9224469868,female,50,Jaipur,Rajasthan,Consumer,ORD-100059,2024-09-15,Laptop,eLECTRONICS,4.0,799,0.1,2876.4,PayPal,Completed ,Marketplace,4,Good
+10061,Kiran  Das,kirandas62@example.com  ,9318568997,Female,53,Pune,Maharashtra,Corporate,ORD-100060,2026-02-17,External HDD,Storage,4.0,"19,999",0.15,67996.6,UPI,Returned,Marketplace,1,Good
+10062,Isha Shetty,ishashetty575@example.com,9538076670,F,32,Hyderabad,Telangana,CONSUMER,ORD-100061,2024-01-15,Webcam,Accessories,2.0,1999,,3198.4,Cash,Completed,Mobile App,4,
+10063,Pooja Das,poojadas574@example.com,9255308128,Female,30,Chennai,Tamil Nadu,Corporate,ORD-100062,2025-04-12,Tablet,Electronics,4.0,4999,0.05,18996.2, Credit Card ,Cancelled,Marketplace,3,
+10064,NIKHIL REDDY,nikhilreddy511@example.com,9259553112,Female,0,Bengaluru,Karnataka,sTUDENT,ORD-100063,2025-11-06,Keyboard,accessories,3.0,12999,0.2,31197.6, ,Cancelled,Social Media,5,Urgent
+10065,Sanjay Bhat,sanjaybhat886@example.com,9932734539,Female,20, ,,Small Business,ORD-100064,2024-08-27,Monitor,Electronics,2.0,12999,0.15,22098.3,PayPal,Returned,Marketplace,4,
+10066,VIKRAM NAIR,vikramnair112@example.com,9572775194,Male,51,bengaluru,Karnataka  ,Student,ORD-100065,2026-06-09,Headphones,accessories,5.0,12999,0.1,58495.5,Credit Card,Pending,Marketplace,2,Good
+10067,MEERA SHETTY,meerashetty92@example.com,9452794611,Other,52,Chennai,tAMIL nADU,Student,ORD-100066,2025-10-27,Mouse,ACCESSORIES,5.0,49999,0.15,212495.75,UPI,Returned,Social Media,1,
+10068,Arjun Singh,arjunsingh658@example.com,9855797020,Male,46, ,Tamil Nadu,Corporate,ORD-100067,2026-02-17,Monitor,Electronics,1.0,3499,0.0,3499.0,PayPal,Cancelled,Website,1,
+10069,Priya Reddy,priyareddy431@example.com,9707660630,Other,29, Pune ,Maharashtra,Corporate,ORD-100068,2025-06-27,Mouse,Accessories,4.0, 999 ,0.05,3796.2,,Completed  ,Social Media,4,
+10070,Neha Nair,nehanair271@example,9816014770,Male,47,Mysuru,Karnataka,Small Business,ORD-100069,2025-04-15,Headphones,Accessories  ,2.0,4999,,8998.2,PayPal,Shipped,Mobile App,1,
+10071,Kavya Mehta,kavyamehta875@example.com,9424400672,Male,42,cHENNAI,Tamil Nadu,Student,ORD-100070,2025-04-12,USB Hub,Accessories,4.0,49999,0.1,179996.4,CreditCard,Pending,Marketplace,5,Customer happy
+10072,Akash Reddy,akashreddy895@example.COM,9836371599,Other,21,Chennai,Tamil Nadu,Student,ORD-100071,2025-08-02,,eLECTRONICS,4.0,1999,0.0,7996.0,UPI,Pending,Social Media,3,Fast delivery
+10073,kiran mehta,kiranmehta671@example.com,9142329671,Female,46,Chennai,Tamil Nadu,Consumer,ORD-100072,2025-10-04,USB Hub,Accessories,2.0,19999,0.0,39998.0,Net Banking,Cancelled,Mobile app,1,Customer happy
+10074,Amit Rao,amitrao384@example.com,9669998399,Other,35,Kolkata,West Bengal,Corporate,ORD-100073,2026-06-16,Headphones,Accessories,2.0,999,0.2,1598.4,UPI,Returned,Store,3,
+10075,Sneha Nair,snehanair833@example.com,9698409868,Female,23,Mumbai,Maharashtra,Student,ORD-100074,2026-05-16,Headphones,Accessories,2.0,19999,0.15,33998.3,Credit Card,Cancelled,Social Media,1,Urgent
+10076,Kavya Joshi,kavyajoshi701@example.com,9351064359,Female,19,Chennai,Tamil Nadu,Small Business,ORD-100075,2024-04-20,External HDD,Storage,4.0,19999,0.1,71996.4,  Net Banking,Completed ,Website,4,
+10077,POOJA JOSHI,  poojajoshi514@example.com,+91-9224683417,Male,33,kOLKATA,West Bengal,  corporate,ORD-100076,2024-11-07,Smartphone,Electronics,2.0,499,0.0,998.0,Cash,Returned,sTORE,5,Urgent
+10078,AKASH RAO,,9400368694,Male,62,Delhi,Delhi,Small Business,ORD-100077,2025-02-21,Tablet,electronic,1.0,4999,0.2,3999.2,Debit Card,Returned,Marketplace,2,
+10079,kAVYA pATEL,kavyapatel204@example.com,9231167999,Female,23,Pune,Maharashtra,Corporate,ORD-100078,2024-10-09,Printer,electronics,3.0,499,0.15,1272.45,PayPal,Shipped,Website,4 ,
+10080,Amit Singh,amitsingh610@example.com,9331875999,Male,39,Delhi,Delhi,Corporate,ORD-100079,2024-07-31,external hdd,Storage,5 ,799,0.2,1278.4,net banking,COMPLETED,Store,2,Fast delivery
+10081,Shreya  Reddy,shreyareddy818@example.com,4657118,Male,55,Delhi,Delhi,Small Business,ORD-100080,2025-01-01,Smartphone,Electronics,1.0,999,0.0,999.0,Credit Card,complete,Store,1,
+10082,dIVYA dAS,divyadas380@example.com,9651085057,Other,24,Mumbai,Maharashtra,Student,ORD-100081,2026-07-03,Webcam,Accessories,1.0,4999,0.15,4249.15,Net Banking  ,Pending,Social Media,1,
+10083,Nikhil Reddy,nikhilreddy421@example.com,,Other,24,Ahmedabad,gUJARAT,Student,ORD-100082,2026-05-17,USB Hub,Accessories,1.0,499,0.15,424.15,PayPal,Returned,Website,1,Customer happy
+10084,Isha Kumar,ishakumar739@example.com,9449165212,Female,56,Mumbai,Maharashtra,Small Business,ORD-100083,2025-07-15,Headphones,Accessories,3.0,12999,0.2,31197.6,Cash,Shipped,Social Media,4,Good
+10085,Sneha Iyer,snehaiyer433@example.com,9463925049,Female,43,Jaipur,Rajasthan,Student,ORD-100084,2024-08-21,wEBCAM,Accessories,2.0,3499,0.15,5948.3,PayPal,Completed,Store,4,Customer happy
+10086,Rohit Gowda  ,rohitgowda97@example.com,9200105056,Female,24,Delhi,Delhi,SMB,ORD-100085,2026-05-01,USB Hub,Accessories,4.0,799,0.0,3196.0,Debit Card,Shipped,Website,0,
+10087,Shreya Gowda,shreyagowda947@example.com,9874233009,Male,36,Mumbai,Maharashtra,Small Business,ORD-100086,2026-06-07,Tablet,Electronics,3.0,19999,0.15,50997.45,UPI,Completed,Social Media,5,Fast delivery
+10088, ,vikramjoshi127@example.com,9918841563,FEMALE,54,Ahmedabad,Gujarat,Corporate,ORD-100087,2025-01-11,Monitor,Electronics,1.0,2499,0.2,1999.2,Cash,Shipped,Social Media,5,
+10089,Shreya Sharma,shreyasharma729@example.com,9918630985,FEMALE,25 years,Mysuru,Karnataka,  Small Business,ORD-100088,2024-10-06,USB Hub,Accessories,3.0,499,0.05,1422.15,Credit Card,Pending,Mobile App,5,
+10090,Manish Patel,manishpatel395@example.com,9550791704,Female,39, ,Delhi,Corporate,ORD-100089,2024-08-08,WEBCAM,Accessories,1.0,799,0.2,639.2, UPI ,Cancelled,Store,5,
+10091,Arjun Bhat,arjunbhat93@example.com,9392168202,FEMALE,60,BENGALURU,Karnataka,STUDENT,ORD-100090,2025-11-21,Headphones,Accessories,2.0,12999,0.0,25998.0,Cash,shipped,web site,4,
+10092,Kiran Shetty,kiranshetty704@example.com,9828519068,Other,49,Jaipur,Rajasthan,Small Business,ORD-100091,2024-10-17,Smartphone,Electronics,3.0,3499,0.0,10497.0,Credit  Card,Pending,Marketplace,5,
+10093,Rahul Singh,rahulsingh132 @example.com,9108299923,Female,65,Chennai,Tamil Nadu,sTUDENT,ORD-100092,2024-12-01,Monitor,Electronics,2.0,1999,,3598.2,Debit Card,Pending,Marketplace,5,
+10094,Neha Das,nehadas769@example.com  ,9145421708,Female,19,Jaipur,Rajasthan,STUDENT,ORD-100093,2026-06-01,  USB Hub,Accessories,3.0,799,0.15,2037.45, Credit Card ,Cancelled,Social Media,4,
+10095,Manish Rao,manishrao185@example.com,9960413104,Other,47, Kolkata ,West Bengal,Small Business,ORD-100094,2024-11-28,keyboard,Accessories,1.0,3499,0.0,3499.0,Credit Card,Returned,Mobile app,0,Urgent
+10096,Akash Verma,akashverma351@example.com,9936571442,Male,22,Jaipur,Rajasthan,Consumer,ORD-100095,2024-08-14,Smartphone,Electronics,4.0,1999,0.1,7196.4,Net Banking,, Mobile App ,3,Customer happy
+10097,Vikram Singh,vikramsingh166@example.com,9916274954,Other,22, Mumbai ,Maharashtra,Corporate,ORD-100096,2025-09-08,HEADPHONES,Accessories,3.0,1499,0.05,4272.15,PayPal,Returned,Marketplace,5,
+10098,AKASH NAIR,akashnair460@example.com,9173321814,Female,150,Mysuru,Karnataka,Small Business,ORD-100097,2024-06-03,USB Hub,Accessories,5.0,2499,0.1,11245.5, UPI ,Shipped  ,Website,3,
+10099,Arjun Reddy,arjunreddy303@example.com,+91-9182389284,Other,23,Ahmedabad,Gujarat,Student,ORD-100098,2026-05-01, Smartwatch ,Wearables,1.0,499,0.1,449.1,Cash,Shipped,Social Media,1,Urgent
+10100,Akash Joshi,akashjoshi990@example.COM,9166436383,Female,24, ,Telangana,Small Business  ,ORD-100099,2024-06-03,Mouse,Accessories,5.0,4999,0.2,19996.0,pAYpAL,return,website,2,Good
+10101,Neha Rao,neharao382@example.com,,Female,42,Ahmedabad,,Student,ORD-100100,2024-06-11,Smartwatch,WEARABLES,-2, 7999 ,0.2,31996.0,UPI,Shipped,Website,3,Good
+10102,Amit Patel,amitpatel882@example.com,9804980312,oTHER,27,Jaipur,Rajasthan,sMALL bUSINESS,ORD-100101,2026-01-11,USB Hub,Accessories,4.0,1999,0.1,7196.4,Credit Card,Shipped,Mobile App,3,Customer happy
+10103,Manish Kumar,manishkumar668@example.com,9950040559,Female,26,Mysuru,  Karnataka,Consumer,ORD-100102,2025-01-20,Webcam,Accessories,1.0,1999,0.2,1599.2,PayPal,Returned,sOCIAL mEDIA,3,Good
+10104,Kavya Reddy,kavyareddy150@example.com,9266371119,Male,36,Delhi,dELHI,Consumer,ORD-100103,2024-08-19,Monitor,Electronics  ,3.0,4999,0.05,14247.15,Net Banking,complete,Social Media,1,
+10105,Amit Bhat,amitbhat195@example.com,9992649957,Other,57,mysuru,Karnataka,Corporate,ORD-100104,2024-06-15,Headphones,Accessories,5.0,3499,0.05,16620.25,PayPal,Returned,Website,4,Customer happy
+10106,Neha Nair,nehanair326@example.com,9968253265,Female,30,Mysuru,Karnataka,Small Business,ORD-100105,2024-09-01,Keyboard,Accessories  ,4.0,1499,0.2,4796.8,PayPal,Shipped,,4,
+10107,Pooja Shetty,poojashetty214@example.com,9960345542,OTHER,26,Kolkata,West Bengal,Small Business,ORD-100106,2026-04-16,Printer,Electronics,5.0,3499,0.05,16620.25,Credit Card,Returned,Store,5,Good
+10108,Nikhil  Iyer,nikhiliyer937@example.com,9651208305,Male,45, Mumbai ,Maharashtra,Consumer,ORD-100107,2025-04-05,Keyboard,Accessories,1.0,999,0.1,899.1,Debit Card,Returned,Store,1,Urgent
+10109,Priya Verma,priyaverma239@example.com,9130266145,Female,24,Jaipur,Rajasthan,student,ORD-100108,2025-01-18,Mouse,Accessories,2.0,3499,0.0,6998.0,Debit Card,Pending,WEB,3,
+10110,mEERA rAO,meerarao937@example.com  ,9185068029,Male,34,Delhi,Delhi, Corporate ,ORD-100109,2024-01-06,Webcam,Accessories,4.0,4999,0.2,15996.8,Debit Card,Shipped,,5,Urgent
+10111,Sneha Shetty,snehashetty439@example.com,9786069196,OTHER,47, ,Tamil Nadu,Consumer,ORD-100110,2024-09-01,Monitor,Electronics,3.0,799,0.0,2397.0,Credit Card,  Returned,Social Media,5,Good
+10112,Nikhil Mehta,nikhilmehta639@example.com,9478833337,Male,54,Hyderabad,telangana,SMB,ORD-100111,2024-01-02,Webcam,Accessories,2.0,1999,0.15,3398.3,Debit Card,Completed,Social Media,3,Good
+10113,Nikhil Das,nikhildas491@example.com,9146744734,,42,Jaipur,Rajasthan,Small Business,ORD-100112,2026-06-13, Printer , Electronics ,5.0,499,0.15,2120.75,CreditCard,Completed,WEB,1,Customer happy
+10114,Neha Rao,neharao569@example.com,9463512350,Other,29,Mumbai,Maharashtra,Student  ,ORD-100113,2024-12-26,External HDD,Storage,3.0,999,0.0,2997.0,PayPal,RETURNED,Mobile App,2,Good
+10115,Sanjay Sharma,sanjaysharma965@example.com,9432941445,Other,43,Chennai,Tamil Nadu,Student,ORD-100114,2024-11-19,Monitor,eLECTRONICS,1.0,1499,0.0,1499.0,UPI,Completed,Mobile App,3,Customer happy
+10116,,priyaiyer771@example.com,9572163615,Female,39,pune,Maharashtra, Corporate ,ORD-100115,2025-02-13,Keyboard,Accessories,1.0, 2499 ,0.15,2124.15,CreditCard,Returned,web site,5,Customer happy
+10117,Arjun Rao,arjunrao310@example.com  ,9444898148,Male,23,Kolkata,West Bengal,Small Business,ORD-100116,2025-12-07,Smartphone  ,Electronics,4.0,12999,0.05,49396.2, PayPal ,Cancelled,Store,4,
+10118,Divya Kumar,divyakumar455@example.com,9394801573,Other,21,Ahmedabad,Gujarat,Consumer,ORD-100117,2025-09-21, Mouse ,Accessories,4.0,499,0.1,1796.4,PayPal,completed, Store ,5,
+10119,Ananya Sharma,ananyasharma251@example.com,9935924516,Other,41,Delhi,Delhi,small business,ORD-100118,2024-03-09,External HDD,Storage,4.0,499,0.05,1896.2,Netbanking,Shipped,Website,5,Fast delivery
+10120,Sanjay Gowda,sanjaygowda385@example.com,9527385805,Female,59,Pune,Maharashtra,Small Business,ORD-100119,2025-06-26,Smartwatch,Wearables,1.0,12999,0.05,12349.05,Debit Card,returned ,Website,2,Urgent
+10121,,nikhilverma636@example.com,9406635834,Other,49,Jaipur,Rajasthan,Consumer ,ORD-100120,2024-08-07,Smartphone,Electronics,3.0,1999,0.15,5097.45,cREDIT cARD,Pending,Website,4,Fast delivery
+10122,Sanjay Patel,sanjaypatel565@example.com, 9411774120 ,Female,28,Pune,Maharashtra,Corporate,ORD-100121,2025-07-17,USB Hub,Accessories,3.0,49999,0.0,149997.0,CreditCard,Shipped,Mobile App,1,Fast delivery
+10123,Vikram Singh,vikramsingh488@example.com,+91 9962925204,Other,26,Ahmedabad,Gujarat,Consumer,ORD-100122,2025-01-12,Laptop,Electronics,3.0,7999,0.2,19197.6,Credit Card,Cancelled,Marketplace,4,
+10124,Divya Shetty,  divyashetty85@example.com,9583156434,Female,61,kOLKATA,West Bengal,  Small Business,ORD-100123,2025-10-19,External HDD,Storage,1.0,999,0.1,899.1,Debit Card,CANCELLED,Social Media,2,
+10125,Vikram Verma,vikramverma178@example.com,9273910700,Female,63,Jaipur,Rajasthan,Corporate  ,ORD-100124,2024-11-07,Laptop,Electronics,5 ,7999,0.05,7599.05,UPI,Shipped,Store,1,
+10126,Kiran Joshi,kiranjoshi556@example.com,9200317984,OTHER,59,Jaipur,Rajasthan,  Corporate,ORD-100125,2025-09-21,Keyboard,Accessories  ,-2,19999,0.1,35998.2,Net Banking,SHIPPED,Mobile App,2,
+10127,Isha Rao,isharao56@example.com,9788755699,Other,34,Mysuru,Karnataka,Corporate,ORD-100126,2024-03-24,Mouse,Accessories  ,5.0, 499 ,0.0,2495.0,Net Banking,Returned,Social Media,1,
+10128,Shreya Reddy,shreyareddy474@example.com,9178354184,Other,21,Chennai,Tamil Nadu,Corporate,ORD-100127,2024-10-31,Smartwatch,Wearables,2.0,19999,0.15,33998.3,Cash,Returned,Marketplace,4,Fast delivery
+10129,Amit Mehta,amitmehta143@example.com,9916757816,Female,50,  Delhi,Delhi,Consumer,ORD-100128,2025-02-12,mouse,Accessories,3.0,49999,0.1,134997.3,UPI,Pending,Marketplace,1,Customer happy
+10130,Sanjay Singh,sanjaysingh640@example.com,+91 9548968760,Male,28,Delhi,Delhi,Small Business,ORD-100129,2026-06-03,sMARTPHONE,eLECTRONICS,1.0,1999,0.15,1699.15,Net  Banking,return,Mobile App,2,Urgent
+10131,Nikhil Nair,nikhilnair527@example.com,9590947659,Male,31,Ahmedabad,Gujarat,Small Business,ORD-100130,2025-02-06,KEYBOARD,Accessories,4.0,499,0.0,1996.0,Credit Card,Completed,Store,4,
+10132,Meera Reddy,meerareddy754@example.com,9492750748,Female,41,Jaipur,Rajasthan,Consumer,ORD-100131,2024-09-27,Laptop,Electronics,1.0,3499,0.05,3324.05,Cash,completed,Social Media,5,Fast delivery
+10133,Kavya Das,kavyadas573@example.com,9400347789,oTHER,61,Chennai,  Tamil Nadu,CONSUMER,ORD-100132,2026-02-21,Smartphone,accessory,4.0,7999,0.15,27196.6,credit-card,Completed,Marketplace,3,
+10134,aMIT dAS,amitdas522@example.com,9143223380,Male,20,Pune,MAHARASHTRA,Corporate,ORD-100133,2025-02-15,Headphones,Accessories,2.0,12999,0.2,20798.4,PayPal,CANCELLED,Marketplace,5,Urgent
+10135,Vikram Mehta,vikrammehta412@example.com,9761962359,Other,37,Jaipur,rajasthan,Small Business,ORD-100134,2024-06-15,Headphones,Accessories,3.0,12999,0.1,35097.3,net banking,Shipped,WEB,4,
+10136,Akash  Reddy,akashreddy607@example.com,9430366556,Other,62,Ahmedabad,Gujarat  ,small business,ORD-100135,2025-03-02,Laptop,ELECTRONICS,3.0,2499,0.0,7497.0,Net Banking,Returned,STORE,5,
+10137,Neha Rao,neharao748@example.com,9765436255,Female,27,Bengaluru  ,Karnataka,Corporate,ORD-100136,2025-06-10,External HDD,Storage,4.0,999,0.2,3196.8,Credit Card,Shipped,Website,2,Good
+10138,Sanjay Gowda,sanjaygowda523@example.com,9932120169,M,48,Kolkata,West Bengal,Consumer,ORD-100137,2025-02-24,Headphones,Accessories,4.0,49999,0.05,189996.2,PayPal,PENDING,Social Media  ,2,
+10139,,amitjoshi944@example.com,9672440825,Female,52,Ahmedabad,Gujarat,Small Business,ORD-100138,2025-04-15,Printer,Electronics,4.0,2499,0.05,9496.2,PayPal,CANCELLED,Social Media,4,Fast delivery
+10140,Neha Reddy,nehareddy222@example.com,,Other,49,Jaipur,RAJASTHAN,Small Business,ORD-100139,2025-12-22,,Accessories,2.0,1999,0.1,3598.2,Cash,Cancelled,Social Media,3,Customer happy
+10141,Sneha Mehta,snehamehta53@example.com,9408840720,Other,23,Jaipur,Rajasthan,  Small Business,ORD-100140,2024-10-24,Tablet,Electronics,4.0,2499,0.05,9496.2,cASH,Cancelled,Marketplace,2,Fast delivery
+10142,Shreya Reddy,shreyareddy768@example.com,973-010-4453,Male,33,JAIPUR,Rajasthan,Consumer,ORD-100141,2025-09-22,Webcam,Accessories,3.0,,0.1,2997.0,PayPal,Shipped,Mobile App,2,
+10143,Sneha Verma,snehaverma997@example.com,9690936560,Male,44,Pune,Maharashtra,Student,ORD-100142,2024-01-06,,Accessories,4.0,799,0.05,3036.2,Cash,Pending,Store,3,Customer happy
+10144,Priya Bhat,priyabhat750@example.com,9140048684,Male,44,Mumbai,Maharashtra,Consumer ,ORD-100143,2026-01-26,USB Hub,accessories,5.0,1499,0.2,5996.0,Credit Card,cancelled,market place,2,
+10145,Pooja  Bhat,poojabhat960@example.com,9459748735,Female,47,Bengaluru,Karnataka,Student,ORD-100144,2024-04-19,Laptop,Electronics,3.0,12999,0.2,31197.6,Debit Card,Shipped,Marketplace,3,Fast delivery
+10146,Sneha Gowda,snehagowda200@example.com,9115122787,Other,39,Delhi,Delhi,Small Business,ORD-100145,2026-01-05,webcam,accessories,4.0,19999,0.1,71996.4,Net Banking,Pending,Mobile App,5,
+10147,Manish Iyer,manishiyer107@example.com,9298407302,Male,48,Kolkata,West Bengal,Small Business,ORD-100146,2025-11-16,Printer,accessory,3.0,799,0.15,2037.45,Debit Card,CANCELLED,Store,4,Fast delivery
+10148,Sanjay Shetty  ,sanjayshetty277@example.com,9801887172,Female,62,Chennai,tAMIL nADU,Corporate,ORD-100147,2024-01-12,Mouse,Accessories,3.0,12999,0.2,31197.6,Credit Card,Completed,Marketplace,0,
+10149,Manish Joshi,manishjoshi948@example.com,9416794215,Female,57, ,Rajasthan,Corporate,ORD-100148,2025-10-16,Webcam,Accessories,3.0,49999,0.0,149997.0,Debit Card,Pending,Marketplace,2,
+10150,Isha Gowda,  ishagowda690@example.com,9986485022,Male,33,Kolkata,West Bengal,Consumer,ORD-100149,2026-04-01,Webcam,Accessories,5.0,4999,0.2,19996.0,Net Banking,Returned,sOCIAL mEDIA,3,Good
+10151,Akash Patel,akashpatel163@example.com,92766 70424,Female,51,Bengaluru  ,Karnataka,Student,ORD-100150,2025-07-03,Printer,ELECTRONICS,5.0, 1499 ,0.2,5996.0,Credit Card,Pending  ,Social Media,4,Good
+10152,Nikhil  Nair,nikhilnair587@example.com,9161994392,Other,47,Bengaluru,Karnataka,Corporate ,ORD-100151,2025-04-12,Smartwatch,storage,2.0,7999,0.15,13598.3,pAYpAL,Completed,Marketplace,3,
+10153,Rahul Rao,rahulrao727@example.com,9168461684,Other,21,Hyderabad, Telangana ,Consumer,ORD-100152,2024-12-18,External HDD,accessories,,499,0.15,424.15,cASH,Completed  ,Store,4,Fast delivery
+10154,Vikram Shetty,vikramshetty92@example.com,9833076128,Other,52,Kolkata,West Bengal,Corporate,ORD-100153,2025-01-19,Mouse,Accessories,4.0,4999,0.15,16996.6,Paypal,Cancelled,Website  ,0,
+10155,Manish Das,manishdas484@example.com,9823164961,Other,52,Delhi,,Student,ORD-100154,2024-11-01,Webcam,Accessories,2.0,,0.0,998.0,Net Banking,returned,Mobile App,2,Urgent
+10156,kAVYA kUMAR,kavyakumar794@example.com,9116799547,Male,31,Chennai,Tamil Nadu,Consumer,ORD-100155,2025-09-21,Monitor,electronic,1.0,499,0.15,424.15,Credit Card,Shipped,WEBSITE,4,
+10157,Priya Singh, priyasingh782@example ,9933291969,Male,26,Bengaluru,Karnataka,Small Business,ORD-100156,2024-08-10,Tablet,Electronics,4.0,1499,0.2,4796.8,Debit Card,SHIPPED,Store,5,
+10158, Amit Singh ,amitsingh291@example.com,9165452764,,55,Chennai,Tamil Nadu,Corporate,ORD-100157,2024-11-03,Headphones,aCCESSORIES,5.0,1499,0.15,6370.75, ,Returned,Social Media,4,Good
+10159,Kavya Joshi,kavyajoshi162@example.com,9422002819, f ,29,Kolkata,West Bengal,Student,ORD-100158,2025-02-22,  Printer,accessory,3.0,49999,0.15,127497.45,Debit Card,Pending,website,2,
+10160,  Sanjay Bhat,sanjaybhat147@example.com,9517061783,MALE,34,Bengaluru  ,Karnataka,Corporate,ORD-100159,2025-06-26,Printer,ELECTRONICS,4.0,3499,0.2,11196.8,credit-card,Completed,  Marketplace,3,Good
+10161,Shreya Rao,shreyarao50@example.com,9178151583,Male,55, ,Telangana,Corporate,ORD-100160,2025-09-09,Laptop,Electronics,3.0,3499,0.2,8397.6,Cash,Pending,Store,3,
+10162,Kiran Bhat,kiranbhat722@example.com,9748971205,Other,31,Hyderabad,Telangana,Student,ORD-100161,2024-09-05,Webcam,accessories,1.0,49999,0.15,42499.15,dEBIT cARD,Shipped,Store,3,Urgent
+10163,Sanjay Das,sanjaydas487@example.com,9205879779,FEMALE,48,Pune,Maharashtra,Small Business,ORD-100162,2025-05-24,Keyboard,Accessories,3.0,2499,0.2,5997.6,Debit Card,Cancelled,sTORE,4,Good
+10164,Akash Iyer,akashiyer967@example.com, 9727099478 ,Other,64,Hyderabad,Telangana,Student,ORD-100163,2025-07-20,Webcam,Accessories,2.0,499,0.1,898.2,credit-card,Pending,Mobile App,3,Fast delivery
+10165,Manish Mehta,manishmehta791@example.com,9982177625,Female,64,Hyderabad,Telangana,corporate,ORD-100164,2024-09-20,Smartwatch,Wearables,5.0,19999,0.1,89995.5,Cash,Pending,Store,2,Fast delivery
+10166,Shreya Nair,shreyanair877@example.com,9179811669,Other,21,Delhi,Delhi,CONSUMER,ORD-100165,2026-05-09,pRINTER,Electronics,1.0,7999,0.0,7999.0,Cash,Pending,  Mobile App,1,
+10167,Vikram Sharma,vikramsharma663@example.com,9815922437,Other,48,Hyderabad,telangana,Student,ORD-100166,2025-09-24,Printer,Electronics,4.0,2499,0.0,9996.0,Credit Card,Completed,sOCIAL mEDIA,5,Urgent
+10168,Rahul  Sharma,rahulsharma524@example.com,9973120912,Other,25 years,Jaipur,Rajasthan,sTUDENT,ORD-100167,2024-01-18,Webcam,Accessories,three,7999,0.1,21597.3,Debit Card,completed,Website,5,
+10169,Neha Singh,nehasingh416@example.com,9184846271,Female,43,mysuru,Karnataka,Student,ORD-100168,2026-03-25,Printer,Electronics,3.0,2499,0.1,6747.3,net banking, Pending ,website,3,
+10170,Arjun Joshi,arjunjoshi497@example.com,9160252954,Other,-5,Bengaluru,Karnataka,Corporate,ORD-100169,2025-07-19,Smartphone,Electronics,three,3499,0.15,11896.6,net banking,Returned  ,MARKETPLACE,3,
+10171,Sneha Bhat,snehabhat287@example.com,9149995533,Male,61,Jaipur,Rajasthan,Consumer ,ORD-100170,2025-05-01,Laptop,Electronics,2.0,1499,0.2,2398.4,Net Banking,Shipped,Website,2,
+10172,Amit Sharma,amitsharma316@example.com,9274429624,Other,33,Hyderabad,Telangana,SMB,ORD-100171,2024-03-19,External HDD,Storage,2.0,49999,0.15,84998.3,pAYpAL,Shipped,Store,4,
+10173,,vikramshetty247@example.com,9181623972,Female,56,Mumbai,Maharashtra,  Student,ORD-100172,2025-03-23,Printer,Electronics,3.0,499,0.0,1497.0,net banking,Completed,Store,five,Urgent
+10174,Neha Gowda,nehagowda399@example.com,9192013357,Other,36,Jaipur,Rajasthan,Corporate,ORD-100173,2025-07-11,Tablet,Electronics,4.0,999,0.1,3196.8,PayPal,COMPLETED,Website,3,Fast delivery
+10175,Manish Rao,manishrao103@example.com,9105578324,Female,46,Delhi,Delhi,small business,ORD-100174,2024-04-19,,Accessories,4.0,2499,0.1,8996.4,UPI,Completed,Mobile App,1,Fast delivery
+10176,Divya Nair,divyanair101@example.com,9480012570,oTHER,25 years,Jaipur,Rajasthan,Small Business,ORD-100175,2024-01-27,,accessory,5.0,3499,0.0,17495.0,Cash,Completed,,4,Urgent
+10177,Arjun Rao,arjunrao399@example.com,9282001119,,35,Jaipur,Rajasthan,Small Business,ORD-100176,2025-12-02,  monitor,Electronics,5.0,7999,0.05,37995.25,UPI  ,Returned  ,Mobile App,1,Fast delivery
+10178,Divya Reddy, divyareddy976@example.com ,9364774064,Other,58,Kolkata,West Bengal,Student,ORD-100177,2024-09-14,Keyboard,Accessories,4.0,799,0.1,2876.4,Net Banking,Shipped,Mobile App,4,Good
+10179,, vikramreddy892@example.com ,9453842723,Female,39,Bengaluru,Karnataka,Student,ORD-100178,2026-03-04,Tablet,Electronics,3.0,12999,0.15,33147.45,PayPal,Shipped,Mobile App,3,Customer happy
+10180,Isha Rao,isharao308@example,9889065340,Other,58, Hyderabad ,TELANGANA,Student,ORD-100179,2024-11-22,Smartwatch,electronic,3.0,999,0.15,2547.45,Net Banking,Pending,web site,4,Customer happy
+10181, ,manishgowda708 @example.com,9924223452,female,19,Mumbai,Maharashtra,Student,ORD-100180,2024-03-07,External  HDD,Storage,2.0,12999,0.2,20798.4, PayPal ,Pending,mARKETPLACE,3,
+10182,Arjun Iyer,arjuniyer268@example.com,9807233980,Male,63,Kolkata,wEST bENGAL,Student,ORD-100181,2024-09-04,usb hub,Accessories,4.0, 999 ,0.1,3596.4,Cash,Completed,Marketplace,5,
+10183, Akash Verma ,,9853374076,Other,56,Jaipur,Rajasthan,Consumer,ORD-100182,2026-03-20,Printer,Electronics,4.0, 7999 ,5 %,31996.0,Credit Card,Pending,Store,2,
+10184,Isha Sharma,ishasharma20@example.com,9205877984,Female,32,Mysuru,Karnataka,Corporate,ORD-100183,2024-04-18,USB Hub,storage,4.0,2499,0.1,8496.6,Cash,cancelled,Marketplace,4,
+10185,Akash Rao,akashrao312@example.com,9546650213,Male,25,Jaipur, Rajasthan ,Corporate,ORD-100184,2024-04-17,hEADPHONES,Accessories,3.0,499,0.15,1272.45,UPI,Cancelled,Store,4,
+10186,Kiran Das,kirandas723@example.com,9585811477,Female,22,Ahmedabad,Gujarat,Small Business,ORD-100185,2026-01-09,Mouse,accessories,4.0,799,0.15,2716.6,CREDIT CARD,completed,Website,3,
+10187,Sneha Joshi,snehajoshi173@example.com,9455397438,Other,45,Delhi,Delhi,  Student,ORD-100186,2025-07-19,Webcam,Accessories,2.0,7999,0.05,15198.1,Debit Card,Returned,Mobile App,2,
+10188,Divya Verma,divyaverma449@example.com,9517509245,Male,63,Bengaluru,Karnataka,Corporate,ORD-100187,2025-08-29,Webcam,ACCESSORIES,5.0,"₹1,499",0.15,6370.75,Debit Card,Cancelled,,5,Good
+10189,Shreya Kumar,shreyakumar696@example.com,9625579419,Other,58,Pune,Maharashtra,Small Business,ORD-100188,2024-09-25,Mouse,Accessories,2.0,4999,0.0,9998.0, Net Banking ,Returned,Social Media,4,
+10190,,snehagowda614@example.com,9191001735, m ,26,Pune,Maharashtra,Small Business,ORD-100189,2025-09-21,Smartwatch,Wearables,5.0,999,0.1,4495.5,Credit Card,Pending,Store,1,
+10191,Kavya Rao,kavyarao598@example.com,9512005439,,unknown,dELHI,Delhi,Student,ORD-100190,2024-05-21,Printer,  Electronics,4.0,3499,0.2,11196.8,PayPal,Shipped,Mobile App,5,Fast delivery
+10192, ,meerareddy896@example.com,9485515372,Male,49,Delhi,Delhi,Corporate,ORD-100191,2024-02-24,Headphones,Accessories,3.0,4999,0.2,11997.6,Debit Card,  RETURNED,Social Media,5,
+10193,Meera Verma,meeraverma588@example.com,9133136428,Male,36,Ahmedabad,Gujarat,Consumer,ORD-100192,2024-03-25,Tablet,Electronics,0,4999,0.05,18996.2,UPI,Pending,Social Media,3,Fast delivery
+10194,Sanjay Mehta,sanjaymehta284@example.com,9932271276,Other,41,Ahmedabad,Gujarat,Consumer,ORD-100193,2024-04-26,Printer,Electronics,5.0,799,0.2,3196.0,PayPal,Returned,sOCIAL mEDIA,2,Urgent
+10195,Sneha Rao,sneharao892@example.com,9976955647,Male,46,Hyderabad,Telangana,consumer,ORD-100194,2024-12-22,Keyboard,Accessories,1.0,4999,0.1,4499.1,Debit  Card,Pending,Social Media,3,
+10196,Isha Joshi,ishajoshi221@example.COM,9964835149,Male,54,Kolkata, West Bengal ,small business,ORD-100195,2026-04-13,Headphones,aCCESSORIES,5.0,999,0.05,4745.25,Net Banking,CANCELLED,Social Media,5,Fast delivery
+10197,Amit Rao,amitrao844@example.com,9202247242,Male,44,Chennai,Tamil Nadu,Consumer,ORD-100196,2025-11-26,Keyboard,electronic,5.0,1999,0.2,7996.0,UPI  ,Pending,Mobile App,2,Fast delivery
+10198,Amit Iyer,amitiyer657@example.com,9388532840,Other,44,Hyderabad,Telangana,Student,ORD-100197,2025-08-14,usb hUB,Accessories,5 ,4999,0.05,18996.2,Cash,Completed,Website,4,
+10199,Rohit Rao,rohitrao899@example,9931221434,Other,23,Pune,Maharashtra,Student,ORD-100198,2024-01-03,SMARTWATCH,Wearables,4.0,2499,,7996.8,PayPal,Cancelled,web site,5,Urgent
+10200,Kiran Verma,kiranverma570@example.com,720551525,Male,54,Hyderabad,Telangana,Student,ORD-100199,2024-12-11,Smartwatch,Wearables,3.0,2499,0.1,6747.3,UPI,Completed,Website,1,
+10201,Sanjay Sharma,sanjaysharma217@example.com,9839369897,Male,59,Mumbai,Maharashtra,sMALL bUSINESS,ORD-100200,2025-03-14,Headphones,storage,4.0,4999,0.0,19996.0,Debit Card,  Cancelled,Website,3,Customer happy
+10202,Arjun Gowda,arjungowda726@example.com,9910924352, f ,45,Delhi,Delhi,Consumer,ORD-100201,2026-01-13,Laptop,Electronics,4.0,19999,10%,71996.4, ,Completed,Website,2,Urgent
+10203,Arjun Kumar,arjunkumar18@example.com,9846891707,Female,25,MYSURU,Karnataka,Student,ORD-100202,2024-01-10,Monitor,Electronics,5 ,19999,0.15,84995.75,PayPal, Pending ,Marketplace,1,Fast delivery
+10204, ,manishpatel401@example.com,9930496866,Male,59,Mumbai,Maharashtra,Corporate,ORD-100203,2024-05-20,Smartphone,Electronics  ,3.0,2499,0.1,6747.3,Credit Card,Shipped,Social Media,1,
+10205,ananya nair,ananyanair640@example.com,9837194815,Female,31,Pune,MAHARASHTRA,Consumer,ORD-100204,2025-02-25,Webcam,Accessories,2.0,19999,0.05,37998.1,Credit Card,Pending,Website,5,
+10206,Manish  Gowda,manishgowda96@example.com,,Other,56, ,West Bengal,SMB,ORD-100205,2025-10-22, Mouse ,Accessories,2.0,1499,0.1,2698.2,PayPal,Completed,Store,2,
+10207,Isha Das,ishadas929@example.com,9952312670,Male,,Hyderabad,Telangana,Student,ORD-100206,2026-03-13,Webcam,Accessories,4.0,1999,0.0,7996.0,Credit Card,Pending,marketplace,5,Good
+10208,Nikhil Bhat,nikhilbhat869@example.com,9710293796,Female,150,Bengaluru,Karnataka,Corporate,ORD-100207,2026-05-31,Mouse,wearable,3.0,999,0.15,2547.45,Cash,Completed,Website,5,Good
+10209,Rahul Reddy,rahulreddy653@example.com,9865179645,Other,44,Hyderabad,TELANGANA  ,Student,ORD-100208,2024-10-20,Laptop,Electronics,,3499,0.2,2799.2,PayPal,Returned,Website,5,
+10210,Isha Kumar,ishakumar837@example.com,9266834924,Other,38,Chennai,Tamil Nadu,Student,ORD-100209,2024-07-27,Smartphone,Electronics,-2.0,799,0.2,1917.6,Net Banking,Completed,Store,4,
+10211,neha sharma,nehasharma633@example.com,9159086532,fEMALE,60,Hyderabad,Telangana,Corporate,ORD-100210,2025-09-18,Smartphone,Electronics,4.0,,0.15,2716.6,CreditCard,Completed,  Mobile App,1,Fast delivery
+10212,Meera Gowda,meeragowda777@example.com,9938725480,Female,64,Jaipur,RAJASTHAN,Consumer,ORD-100211,2024-05-09,Printer,Electronics,3.0,999,0.1,2697.3,Credit Card,Cancelled,mARKETPLACE,3,
+10213,  Arjun Reddy,arjunreddy378@example.com,9159527291,Female,54,Mysuru,Karnataka,Corporate,ORD-100212,2025-06-07,USB Hub,Accessories,1.0,4999,0.15,4249.15,UPI,Pending,Store,1,
+10214,Sneha Singh,snehasingh493@example.com,9490816787,Female,27,Jaipur,Rajasthan,cORPORATE,ORD-100213,2024-02-17,Laptop  ,Electronics,1.0,499,0.05,474.05,Credit Card,Shipped,Marketplace,2,Customer happy
+10215,Neha Verma,nehaverma524@example.com,9822977979,,29, ,mAHARASHTRA  ,Corporate,ORD-100214,2024-05-02,Keyboard,Accessories,1.0,12999,0.1,11699.1,Net Banking,Completed,Marketplace,,Urgent
+10216,Pooja Shetty,,9315469014,Female,54,Chennai,Tamil Nadu,Small Business,ORD-100215,2024-01-09,Mouse,Accessories,1.0,"7,999",0.15,6799.15,PayPal,Shipped,Mobile App,4,Customer happy
+10217,Akash Nair,akashnair964@example.com,9540272920,Male,32,Hyderabad,Telangana,Small Business,ORD-100216,2024-01-07,wEBCAM,Accessories,5.0,1499,0.05,7120.25,PayPal,Completed  ,,1,
+10218,Manish Iyer,manishiyer513@example.com,9164311845, m ,63,Chennai,Tamil Nadu,Small Business,ORD-100217,2025-05-03,Smartphone,Electronics,2.0,7999,0.1,15198.1, Credit Card ,Completed,Mobile App,5,Urgent
+10219,KAVYA NAIR,kavyanair849@example.com,9523431477,Male,55,Mumbai,Maharashtra,Consumer ,ORD-100218,2025-10-14,  External HDD,Storage,1.0,7999,,7599.05,Cash,Pending,Mobile App,3,Customer happy
+10220,Amit Bhat,  amitbhat249@example.com,9180195016,Male,26,Kolkata,West Bengal,Consumer,ORD-100219,2024-10-05,WEBCAM,Accessories,3.0,2499,0.15,6372.45, Debit Card ,Completed,Mobile App,4,Urgent
+10221,AMIT VERMA,amitverma484@example.com,9384550090,Male,23,  Mumbai,Maharashtra,Corporate,ORD-100220,2024-11-11,pRINTER,Electronics,3.0,1499,0.15,3822.45,PayPal,Cancelled,  Social Media,4 ,Fast delivery
+10222,Amit Kumar,amitkumar60@example.com,9827120114,Female,34,Mumbai,Maharashtra,  Corporate,ORD-100221,2025-06-09,Webcam,  Accessories,2.0,2499,,4248.3,Credit Card,pending ,Marketplace,5,
+10223,Shreya Singh,shreyasingh73@example.com,9991605503,Male,26,Mumbai,Maharashtra,Corporate,ORD-100222,2024-01-13,Smartwatch,Wearables,1.0,999,0.0,999.0,Cash,Cancelled,Website,5,
+10224,Rohit Bhat,,9198761306, f ,25,Mumbai,Maharashtra,Consumer,ORD-100223,2026-04-08,  Laptop,wearable,1.0,1499,0.15,1274.15,Cash,Completed,Mobile  App,5,Urgent
+10225,Manish Nair,manishnair940@example.com,,Female,35, ,Karnataka,sTUDENT,ORD-100224,2024-08-07,Tablet,Electronics,4.0,999,0.1,3596.4, Debit Card , Completed ,Social Media,5,
+10226,  Neha Joshi,nehajoshi99@example.com,9400407178,Female,26,Chennai,Tamil Nadu,Student,ORD-100225,2024-03-03,  Smartwatch,Wearables,-2,7999,0.15,27196.6,net banking,Shipped,mobile app,5,
+10227,Rahul Verma,rahulverma524@example.com,9445320116,female,35, ,Maharashtra,Corporate,ORD-100226,2025-08-02,Smartwatch,Wearables,5.0,4999,0.1,22495.5,Credit Card,cancelled,Social Media,2,Good
+10228,Rohit Sharma  ,rohitsharma112@example.com,9366134484,Other,33,Ahmedabad,Gujarat,student,ORD-100227,2024-06-12,,Electronics,3.0,12999,5 %,37047.15,credit card,Completed,Mobile App,5,
+10229,Manish Gowda,manishgowda765@example,9849070816,Female,55,Delhi,Delhi,Consumer,ORD-100228,2026-04-05,Headphones, Accessories ,2.0,12999,0.1,23398.2,PayPal,cancelled,Social Media,5,Fast delivery
+10230,Akash Singh,akashsingh102@example.com,9160309911,Male,56,Ahmedabad,Gujarat,Corporate,ORD-100229,2024-02-08,Printer,Electronics,3.0,999,0.15,2547.45,Credit Card,Shipped,Marketplace,1,Customer happy
+10231,Isha Singh,ishasingh161@example.com,9729866807,Other,27,Delhi, Delhi ,Consumer,ORD-100230,2024-01-23,mouse,Accessories,2.0,2499,0.0,4998.0,Net Banking,Cancelled,Website,3,
+10232,Manish Mehta,manishmehta759@example.com,9569083854,Other,49, MUMBAI ,Maharashtra, Small Business ,ORD-100231,2024-06-10,Mouse,Accessories,3.0,2499,0.05,7122.15,Debit Card,Shipped  ,Social Media,3,Fast delivery
+10233,Akash  Iyer,akashiyer191@example.com,9882576281,Male,62,Delhi,Delhi,Student,ORD-100232,2024-05-10,Tablet,Electronics,3.0,49999,0.1,134997.3,Net Banking,Completed,Mobile App,5,Customer happy
+10234,Isha Singh,ishasingh89@example.com,9355546183,Female,38,Mysuru,Karnataka,SMB,ORD-100233,2026-02-02,Smartphone,Electronics,4.0,999,0.1,3596.4,PayPal,Completed,Store,4,Good
+10235,Rohit Singh,ROHITSINGH120@EXAMPLE.COM,873538202,male,21, Hyderabad ,Telangana, Student ,ORD-100234,2026-03-16,Webcam,electronics,1.0,2499,0.1,2249.1,Cash,Returned,Mobile App,4,Urgent
+10236,Manish Gowda,manishgowda786@example.com,9837832868,Male,28,Jaipur,Rajasthan,Student,ORD-100235,2025-10-28,,Electronics,1.0,4999,,3999.2,Credit Card,Completed,Store,1,Customer happy
+10237, ,rohitpatel86@example.com,9687386446,Male,39,Mumbai,Maharashtra,sTUDENT,ORD-100236,2026-01-19,MOUSE,Accessories,2.0,3499,0.05,6648.1,PayPal,Completed,app,2,
+10238,Divya Kumar,divyakumar723@example.com,9694973692,Other,0,Bengaluru,Karnataka,Small Business,ORD-100237,2025-02-23,SMARTPHONE,Electronics,-2,1499,0.05,4272.15, PayPal ,Cancelled,Store,2,
+10239,Priya Verma,priyaverma13@example.com,9559138405,FEMALE,36,Mysuru,Karnataka,Student,ORD-100238,2025-01-04,Printer,Electronics,4.0,999,0.0,3996.0,Debit Card,Completed,Website,2,Fast delivery
+10240,pooja patel,poojapatel926@example.com,9809786356,Female,23,aHMEDABAD,Gujarat,Student,ORD-100239,2025-05-15,Smartphone,Electronics,3.0,3499,0.15,8922.45,Debit Card,cancelled,Marketplace,3,Fast delivery
+10241,Sanjay Sharma,sanjaysharma285@example.com,9705855162,Male,27,CHENNAI,Tamil Nadu,Consumer,ORD-100240,2026-05-07,Smartwatch,Wearables,4.0,1999,0.05,7596.2,credit card,Cancelled,Social Media,4,
+10242, ,akashsingh713@example.com,9609838807,Other,33,Jaipur,Rajasthan, Student ,ORD-100241,2025-07-02,Laptop  ,Electronics,4.0,7999,0.15,27196.6,UPI, Completed ,Marketplace,1,
+10243,Akash Bhat,akashbhat469@example.com,9285627380,male,31,Jaipur,Rajasthan,Corporate,ORD-100242,2026-02-14,External HDD,Storage,5.0,999,0.0,4995.0,dEBIT cARD,Completed,MARKETPLACE,1,
+10244,Divya Singh,divyasingh407@example.com,9697391512,Female,53,Delhi,Delhi,Small Business,ORD-100243,2024-03-30,External HDD,Storage,3.0,2499,0.0,7497.0,UPI,Shipped,Marketplace,1,
+10245,Isha Mehta,ishamehta590@example.com,9731289471,Other,24,Jaipur,Rajasthan,Consumer,ORD-100244,2024-05-31,Tablet,Electronics,1.0,3499,0.05,3324.05,Net Banking,Completed,Store,5,Customer happy
+10246,Divya Reddy,divyareddy48@example.com,9284898049,female,43,Kolkata,West Bengal,Corporate,ORD-100245,2025-04-29, USB Hub ,Accessories,4.0,12999,0.2,41596.8,Net Banking,Shipped,Marketplace,1,Urgent
+10247,Amit Rao,amitrao355@example.com,9977661452,Female,37,Hyderabad,Telangana,Small Business,ORD-100246,2024-01-21,Laptop,Electronics,4.0,1999,0.1,7196.4,Cash,Completed,Mobile App,2,Customer happy
+10248,Sanjay Shetty,sanjayshetty462@example.com,9326978821,Female,65,Pune,  Maharashtra,Student,ORD-100247,2024-07-11,Keyboard, Accessories ,4.0,12999,0.0,51996.0,NET BANKING,Cancelled,Website,5,
+10249,Ananya Patel, ananyapatel881@example.com ,9662948033,Other,0, ,Tamil Nadu,corporate,ORD-100248,2026-03-10,Webcam,storage,5.0,3499,0.05,16620.25, ,Pending,Website,2,Good
+10250,  Sanjay Sharma,sanjaysharma485@example.com,98765ABCDE,Female,58,Pune,Maharashtra,SMB,ORD-100249,2026-04-23,Webcam, aCCESSORIES ,2.0,1999,0.1,3598.2,PayPal,Completed,Mobile  App,3,Urgent
+10251,ISHA NAIR,,9999423880,Female,65,Delhi,Delhi,Consumer,ORD-100250,2024-12-18,Smartwatch,Wearables,5.0,7999,0.1,35995.5,UPI, Completed ,Marketplace,1,Fast delivery
+10252,Akash Shetty,akashshetty677@example.com,9539705006,Other,19,Hyderabad,Telangana  ,Consumer ,ORD-100251,2024-10-02,Monitor,wearable,2.0,"19,999",0.05,37998.1,Cash,Pending,Mobile App,5,
+10253,Rahul Singh,rahulsingh926@example.com,9504237434,Female,, ,tamil nadu,Small Business,ORD-100252,2025-03-09,External HDD, Storage ,3.0,49999,0.1,134997.3,Debit Card,Returned,Store,5,
+10254, Isha Verma , ishaverma672@example.com ,9737558411,Other,36,Mysuru,karnataka,Small Business,ORD-100253,2025-07-28,Smartphone,Electronics,1.0,7999,0.1,7199.1,UPI ,Completed,Marketplace,1,Customer happy
+10255,rOHIT jOSHI,rohitjoshi163@example.com,9655439758,Male,21,Pune, Maharashtra ,student,ORD-100254,2024-07-11,Keyboard,Accessories,3.0,19999,0.1,53997.3,PayPal,cancelled, Mobile App ,1,
+10256,Meera Reddy,meerareddy735@ example.com,9714225883,Male,,Chennai,  Tamil Nadu,Corporate,ORD-100255,2025-08-20,Tablet,Electronics,4.0,3499,0.0,13996.0,PayPal, Shipped ,Marketplace,3,
+10257, ,poojaiyer492 @example.com,9237378973,Other,34,Delhi,Delhi,Corporate,ORD-100256,2024-04-09,USB Hub,Accessories,5.0,999,0.1,4495.5,net banking,Cancelled,Website,2,Customer happy
+10258,Neha Rao,neharao311@example.com,9597959181,Male,48,Chennai,Tamil Nadu,Consumer,ORD-100257,2025-08-22,Tablet,Electronics,3.0,2499,0.1,6747.3,PayPal,Shipped,Social Media,5,Good
+10259,Meera Bhat,meerabhat315@example.com,9543570539,Male,27,Hyderabad,tELANGANA,Corporate,ORD-100258,2025-06-26,Printer,Electronics,1.0,19999,0.15,16999.15,Debit Card,Cancelled,Marketplace,5,
+10260,Vikram Gowda,vikramgowda659@example.com,9162291621,,46,Delhi  ,Delhi,Small Business,ORD-100259,2024-11-16,Smartphone,Electronics,4.0,2499,0.05,9496.2,Debit Card,Pending  ,Social Media,2,
+10261,arjun kumar,arjunkumar402@example.com,9105013454,Male,52,Mysuru,Karnataka,Corporate,ORD-100260,2025-05-03,Tablet,Electronics,4.0,3499,0.15,11896.6,Paypal,  Cancelled,Website,3,
+10262, Nikhil Singh ,nikhilsingh720@example.com,9469742752,female,26, , Karnataka ,consumer,ORD-100261,2024-08-19,USB Hub,Accessories,1.0,19999,0.05,18999.05, ,Shipped,sOCIAL mEDIA,3,Fast delivery
+10263,Arjun Iyer,arjuniyer546@example.COM,+91-9462747729,Female,61,Bengaluru,Karnataka,Corporate,ORD-100262,2025-09-02,kEYBOARD,Accessories,3.0,4999,0.2,11997.6,UPI,Returned,Store,2,Fast delivery
+10264,Manish Sharma,manishsharma526@example.com,9281445989,Male,41,Hyderabad,Telangana,consumer,ORD-100263,2025-08-26,Monitor,Electronics,2.0,1499,0.0,2998.0,Cash,CANCELLED,Social Media,4 ,Good
+10265,Isha Sharma,ishasharma464@example.com  ,9508294370,MALE,53,Mumbai,Maharashtra,Small  Business,ORD-100264,2025-03-02,USB Hub,wearable,1.0,499,0.0,499.0,upi,Pending,Mobile App,1,Customer happy
+10266,Divya Joshi,divyajoshi727@example.com,9247278210,Female,24,Mumbai,Maharashtra,Consumer,ORD-100265,2025-12-09,USB Hub,Accessories,5.0,1999,5 %,7996.0,UPI,Completed,Website,4,
+10267,ISHA SINGH,ishasingh174@example.com,9142311558,Other,49,Chennai,Tamil Nadu,Corporate,ORD-100266,2024-10-29,Printer,Electronics,2.0, 2499 ,0.15,4248.3, ,,Store,2,
+10268,Rahul Joshi,rahuljoshi982@example.com,+91 9196725534,Other,22,Mumbai,Maharashtra,Consumer,ORD-100267,2024-06-01,Smartphone,storage,5.0,19999,0.15,84995.75,UPI,PENDING,Marketplace,3,Customer happy
+10269, Sanjay Sharma ,  sanjaysharma703@example.com,9435766697,Female,65, ,Maharashtra,Consumer,ORD-100268,2026-03-31,Headphones,Accessories,1.0,1999,0.1,1799.1,Credit Card,Completed,Website,2,
+10270,Ananya Gowda,ananyagowda844@example.com,9467995726,Male,25,Pune,Maharashtra,Student,ORD-100269,2025-01-16,Smartwatch,Wearables,5.0,1999,0.0,9995.0,Cash,Returned,Store,4,
+10271,Meera Shetty,meerashetty753@example.com,9162971085,Male,24,Kolkata,West Bengal,Student,ORD-100270,2025-12-13,USB Hub,Accessories,2.0,799,0.05,1518.1,Net Banking,pending ,Social Media,4,Fast delivery
+10272,Isha Verma  ,ishaverma952@example.com,9624117847,Male,44,  Pune,Maharashtra,student,ORD-100271,2025-05-09,External HDD  ,Storage,1.0,19999,0.05,18999.05,Credit Card,cOMPLETED,Store,3,Good
+10273,Nikhil Shetty,nikhilshetty545@example.com,9838993835,Other,57,Mysuru  ,Karnataka,Consumer,ORD-100272,2025-06-15,Webcam,Accessories,5.0, 1499 ,0.1,6745.5,Cash,Pending,Marketplace,3,
+10274, Manish Kumar ,manishkumar879@example.com,9603895158,Female,28,Jaipur,Rajasthan,Consumer,ORD-100273,2025-06-01,External HDD,Storage  ,1.0,499,0.05,474.05,Cash,Cancelled,website,3,Customer happy
+10275,  Priya Das,priyadas480@example.com,9576944168,Other,46,Hyderabad,TELANGANA,Consumer,ORD-100274,2024-03-21,Printer  ,Electronics,4.0,3499,0.05,13296.2,Cash,Returned,Store,1,Urgent
+10276,Rahul Patel,rahulpatel855@example.com,9197598351,Other,57,Kolkata,West Bengal,Small Business,ORD-100275,2024-01-01,Tablet,Electronics,1.0,7999,0.2,6399.2,Net Banking,Shipped,Mobile App,4,Customer happy
+10277,Kavya Iyer,kavyaiyer644@example.com,97441 92644,Female,63,Bengaluru,Karnataka,Small Business,ORD-100276,2026-02-24,Monitor  ,Electronics,4.0,2499,0.2,7996.8,PayPal,Returned,Website,1,
+10278,Neha Sharma  ,nehasharma728@example.com,9214162630,Male,28,Pune,,Student,ORD-100277,2025-01-17,Mouse,Accessories,5 ,7999,0.2,19197.6,CreditCard,Returned,Website,3,
+10279,Kiran Singh,kiransingh356@example.com,9215712585,Female,0,mumbai,Maharashtra,Consumer,ORD-100278,2026-01-03,Tablet,Electronics,2.0,4999,0.05,9498.1,Cash,rETURNED,Social Media,5,Fast delivery
+10280,Meera Sharma,,9618544245,Other,29,Jaipur,rAJASTHAN,corporate,ORD-100279,2026-05-08,Webcam,Accessories,1.0,7999,0.15,6799.15,PayPal,Pending,Website,4,
+10281,Isha Mehta,ishamehta790@example.com,9366544373, f ,43,Pune,Maharashtra,Small Business,ORD-100280,2025-12-10,Printer,ELECTRONICS,4.0,3499,0.2,11196.8,UPI,Returned,Mobile App,2,Urgent
+10282,iSHA rAO,isharao232@example.com,9315703009,Male,57,Jaipur,Rajasthan,sMALL bUSINESS,ORD-100281,2025-10-09,Keyboard,Accessories,5.0,2499,0.2,9996.0,PayPal,cancelled,mOBILE aPP,2,
+10283,Shreya Rao,shreyarao606@example.com,9712718094,,63,Pune,Maharashtra,Student,ORD-100282,2025-05-06,  Webcam,Accessories,1.0,2499,0.2,1999.2,PayPal,Shipped,website,4,
+10284, Rahul Das ,rahuldas67 @example.com,9314643586,Female,28,mUMBAI,Maharashtra, Small Business ,ORD-100283,2025-11-17,Laptop,Electronics,-2,999,0.0,3996.0,PayPal,Cancelled,Mobile App,0,
+10285,Pooja Singh,poojasingh898@example.com,9825340529,Other,53,Jaipur,Rajasthan,Corporate,ORD-100284,2025-09-22,Laptop,Electronics,3.0,4999,0.0,14997.0,PayPal,Shipped,Marketplace,2,
+10286,Pooja Rao,poojarao65@example.com,9113921319,,0,Bengaluru,Karnataka,Corporate,ORD-100285,2025-07-19,Tablet,Electronics,4.0,3499,0.1,12596.4,Net Banking,RETURNED,Mobile App,3,
+10287,Akash Das,akashdas709@example.com,9179960473,Male,150,Mysuru,Karnataka,Consumer,ORD-100286,2024-06-30,Monitor, Electronics ,2.0,1999,0.15,3398.3,Cash,Completed,Marketplace,3,
+10288,Rohit Kumar,rohitkumar736@example.com,9266221352,mALE,27,Delhi,Delhi,Small Business,ORD-100287,2025-04-22,External HDD,STORAGE,0,499,0.1,1347.3,Net Banking, Completed ,Social Media,3,Urgent
+10289,Akash Das,akashdas543@example.com,9173203925,Other,28,Pune,Maharashtra,Student,ORD-100288,2024-07-07,Smartphone,Electronics  ,3.0,7999,0.05,22797.15,Net Banking,Shipped,Marketplace,1,Customer happy
+10290, Neha Bhat ,nehabhat233@example.com,9908157894,MALE,51,Hyderabad,Telangana,Student,ORD-100289,2024-10-27,USB Hub,Accessories,3.0,2499,0.1,6747.3,Net Banking,Completed,Website,3,Urgent
+10291,Neha Bhat,nehabhat947@example.com,9954920307,Male,25 years,Mysuru,Karnataka,Small Business,ORD-100290,2025-01-25,External HDD,Storage,2.0,499,0.1,898.2,Net Banking,Cancelled,Website,5,
+10292,Kavya Das,kavyadas207@example.com,9443933202,Other,23,Jaipur,rAJASTHAN,cONSUMER,ORD-100291,2025-10-29,Smartwatch,Wearables,4.0,499,0.1,1796.4, Debit Card ,shipped,  Social Media,1,
+10293,Arjun Singh,arjunsingh858@example.com,9854564401,Other,45,Hyderabad,Telangana,Consumer,ORD-100292,2025-07-04,USB Hub,Accessories,4.0,799,0.05,3036.2, ,Pending, Website ,4,
+10294, Amit Sharma ,amitsharma82@example.com,9717361056,Male,34,Mumbai  ,Maharashtra,Corporate ,ORD-100293,2025-07-25,Smartphone,Electronics,1.0,999,0.1,899.1,Cash,Returned,STORE,4,Customer happy
+10295,Rahul Verma,rahulverma784@example.com,9900958822,Other,20,Mumbai,Maharashtra,Consumer,ORD-100294,2024-05-03, Printer ,Electronics,1.0,19999,0.2,15999.2,UPI,,mobileapp,3,
+10296,Pooja Mehta,poojamehta686@example.com,9133091814,fEMALE,0,Mumbai,mAHARASHTRA,Corporate,ORD-100295,2026-04-21,Keyboard,Accessories  ,4.0,3499,0.15,11896.6,Debit Card,Returned,Social Media,0,
+10297,Vikram Reddy, vikramreddy52@example.com ,9105400747,Other,56,Pune,  Maharashtra,Student,ORD-100296,2024-05-06,Laptop, Electronics ,three,7999,0.05,37995.25,,shipped,Website,3,Fast delivery
+10298,Kavya Singh,kavyasingh236@example.com,9762375136,Female,0,Kolkata,West Bengal,CONSUMER,ORD-100297,2024-07-07,USB Hub,Accessories,,999,0.05,4745.25, Debit Card ,Shipped,,5,Urgent
+10299,Shreya Patel,shreyapatel753@example.com,9723409836,Female,39,Chennai,Tamil Nadu,Small Business,ORD-100298,2024-07-21,USB Hub,Accessories,1.0,1999,0.0,1999.0,Debit Card,  Pending,WEBSITE,3,
+10300,ARJUN BHAT,arjunbhat685@example.com,9428216558,Other,,  Hyderabad,Telangana,Corporate,ORD-100299,2025-09-23,Mouse,Accessories,4.0,4999,0.1,17996.4,  Net Banking,Shipped,Store,3,Urgent
+10301,Ananya Sharma,ananyasharma870@example.com,9485995156,Male,61, ,Maharashtra,Small Business  ,ORD-100300,2024-10-10,Monitor,Electronics,2.0,49999,0.15,84998.3,Cash,Returned, Marketplace ,3,
+10302,Pooja Nair,poojanair871@example.com,9401309071,Male,52,Jaipur,rAJASTHAN,Corporate,ORD-100301,2024-03-24,Smartphone,Electronics,2.0,19999,0.2,31998.4,UPI,Completed  ,Website,1,
+10303,Nikhil Joshi,  nikhiljoshi938@example.com,9139359410,Other,34,Bengaluru,Karnataka,Student,ORD-100302,2024-08-05,External HDD,Storage,5.0,3499,0.2,13996.0,paypal,Pending,Store,4,Fast delivery
+10304,Akash Rao,akashrao416@example.com,9490697670,FEMALE,18,Chennai,Tamil Nadu,CORPORATE,ORD-100303,2024-04-02,Headphones,ACCESSORIES,4.0,7999,0.2,25596.8,Net Banking,Pending,social media,2,Urgent
+10305,Ananya Kumar,ananyakumar51@example.com,9334955233,male,32,Mysuru,Karnataka,Consumer,ORD-100304,2025-01-02,External HDD,Storage,2.0,49999,0.15,84998.3,UPI,Cancelled,Mobile App  ,1,
+10306,Kiran Das,kirandas674@example.com,9447968711,Male,150,Pune,Maharashtra,Small Business,ORD-100305,2024-02-10,,storage,4.0,4999,0.0,19996.0,pAYpAL,Cancelled,Social Media,5,
+10307,,ananyaverma267@example.com,9504079950,Male,51,kOLKATA,West Bengal, Student ,ORD-100306,2025-06-13,MOUSE,aCCESSORIES,5.0,19999,0.0,99995.0,UPI,Cancelled,mobileapp,4,
+10308,Rahul Das  ,rahuldas668@example.com,9401516912,Male,27,Delhi,Delhi,Corporate,ORD-100307,2025-06-10,,Wearables,2.0,1499,0.0,2998.0,debit card,Cancelled,Social Media,1,
+10309,Neha Verma,nehaverma225@example.com,9734356903,Male,59,Pune,Maharashtra,Student,ORD-100308,2025-05-05,Webcam,Accessories,1.0,4999,0.15,4249.15,CreditCard,PENDING,Website,2,
+10310,Akash Kumar,akashkumar67@example.com,9278607682, m ,29,DELHI,Delhi,Student,ORD-100309,2024-05-30,USB Hub,storage,5.0,499,0.2,1996.0,Net Banking,Shipped,Website,3,Good
+10311,Kiran Nair,kirannair430@example.com,+91 9745145663,Male,55,Mysuru,kARNATAKA,Corporate,ORD-100310,2026-04-30,Smartwatch,Wearables,4.0,999,0.05,3796.2,Net Banking,Shipped,Store,2,
+10312,Amit Bhat,amitbhat404@example.com,9241962842,Male,19,Ahmedabad,Gujarat,Corporate,ORD-100311,2025-01-22,EXTERNAL HDD,Storage,5.0,799,0.05,3795.25,Net Banking,Shipped,Marketplace,2,
+10313,Sneha Kumar,snehakumar780@example.com,9226182283,FEMALE,48,Ahmedabad,Gujarat,Corporate,ORD-100312,2025-05-30, External HDD ,Storage,5.0,499,0.2,1996.0,Net Banking,Shipped,Website,4,
+10314,Divya Gowda,divyagowda503@example.com  ,9947778851,Female,40,bENGALURU,Karnataka,Consumer,ORD-100313,2026-04-01,Webcam,Accessories,5.0,3499,0.05,16620.25,Cash,Pending,Store,4,
+10315,Neha Bhat,nehabhat203@example.com,9105872776, m ,65,Mumbai, Maharashtra ,Consumer,ORD-100314,2024-09-20,Keyboard,Accessories,5.0,7999,0.15,33995.75,Net Banking,Shipped,market place,5,Good
+10316,Manish Joshi,manishjoshi168@example.com,955-749-0881,Other,55,Hyderabad,Telangana,Small Business,ORD-100315,2024-04-19,Webcam,Accessories,3.0,3499,0.1,9447.3,UPI,Shipped,marketplace,5,Customer happy
+10317,Isha Reddy,ishareddy193@example.com,9497513146,Other,53,Kolkata,West Bengal,STUDENT,ORD-100316,2025-05-09,Monitor,Electronics,4.0,7999,0.2,25596.8,UPI,Cancelled,Social Media,3,
+10318,Manish Rao,manishrao811@example.com,9850879936,male,24,Delhi,Delhi,Corporate,ORD-100317,2025-04-02,USB Hub,Accessories,1.0,49999,5 %,47499.05,Net Banking,Returned, Store ,5,
+10319,Priya Kumar,priyakumar958@example.com,9744508634,Female,23,Kolkata,wEST bENGAL,Consumer,ORD-100318,2025-04-27,Usb Hub,Accessories,1.0,799,0.05,759.05,UPI,  Pending,Store,1,
+10320,Priya Rao,priyarao738@example.com,9741531280,Male,29,Kolkata,West Bengal,Student,ORD-100319,2024-10-20,Tablet,Electronics,5.0,19999,0.2,79996.0,Cash, Completed ,Mobile App,5,Customer happy
+10321,Kiran Sharma,kiransharma183@example.com,9823728171,Male,41,Mysuru,Karnataka,Corporate,ORD-100320,2025-09-21,Printer,Electronics,5.0,49999,0.05,237495.25,PayPal,Completed,mobile app,1,
+10322,Manish Gowda,manishgowda764@example.com,9855508288,Male,23,Kolkata,West Bengal,Small Business,ORD-100321,2024-01-16,Tablet,Electronics,5.0,,0.2,5996.0,PayPal,Shipped,Social Media,3,Customer happy
+10323,Rohit Singh,rohitsingh277@example.com,9287942172,Female,50,Mysuru,Karnataka,Consumer,ORD-100322,2024-01-05,Monitor,eLECTRONICS,4.0, 3499 ,0.2,11196.8,Net Banking,COMPLETED,Social  Media,3,Customer happy
+10324,Sneha Shetty,snehashetty463@example.com,9504886868,Other,48,Jaipur, Rajasthan ,corporate,ORD-100323,2025-12-11,Keyboard,  Accessories,5.0,12999,0.1,58495.5,UPI,Returned,Marketplace,5,
+10325,rahul nair,rahulnair728@example.com,9346885603,Female,44,Mumbai,Maharashtra,Small Business,ORD-100324,2025-11-24,Keyboard,Accessories,1.0,3499,0.05,3324.05,nET bANKING,Shipped,STORE,3,Fast delivery
+10326,Pooja Patel,poojapatel497@example.com,9437018334,Female,31,Kolkata,West Bengal  ,Small Business,ORD-100325,2024-07-01,usb hUB,Accessories,3.0,799,0.2,1917.6,Debit Card,Pending,MARKETPLACE,2,Fast delivery
+10327,Neha Iyer,nehaiyer643@example.com,9482281482,Male,24,Chennai,Tamil Nadu,Consumer,ORD-100326,2026-05-06,Monitor,Electronics,2.0,1499,0.05,2848.1,Credit Card,Returned  ,Social Media,1,
+10328,Shreya Sharma,shreyasharma899@example.com,9394992351,Female,29,Ahmedabad,Gujarat,  SMALL BUSINESS,ORD-100327,2025-08-11,  Mouse,Accessories  ,5.0,2499,0.15,10620.75,,Pending,Social Media,2,Good
+10329,  Nikhil Shetty,nikhilshetty413@example.com,9836950507,Male,47,Kolkata,West Bengal,Consumer,ORD-100328,2024-12-21,Smartwatch,Wearables,5.0,499,0.2,1996.0,PayPal,Shipped,Marketplace,3,
+10330,Rahul Sharma,rahulsharma637@example.com,9378851582,Male,53,Hyderabad,Telangana,Small Business,ORD-100329,2025-01-05,Tablet,Electronics,5.0,799,0.1,3595.5,, Cancelled ,Marketplace,5,Customer happy
+10331,Kavya Kumar,kavyakumar884@example.com,9530133026,Female,46,Ahmedabad,Gujarat,Corporate,ORD-100330,2025-01-08,Tablet,Electronics,2.0,3499,0.1,6298.2,Net Banking,Pending,Social Media,2,
+10332,Sneha Rao,sneharao159@example.com,9959033676,Other,27,Chennai,Tamil Nadu,Student,ORD-100331,2024-07-19,Monitor,Electronics,5.0,3499,0.15,14870.75,Credit Card,Pending,Marketplace,4,Fast delivery
+10333,Nikhil Das,nikhildas591@example.com,9151227475,Female,24,Pune,Maharashtra,Corporate,ORD-100332,2026-05-29,Smartwatch,Wearables,3.0,1999,0.2,4797.6,Credit Card,Pending,Store,4,
+10334,Sneha  Nair,snehanair964@example.com,9969747935,Female,40,Pune,Maharashtra,Consumer,ORD-100333,2025-07-24,Keyboard,Accessories,3.0,2499,0.2,5997.6,Cash,Completed,Store,5,Fast delivery
+10335,Akash Mehta,akashmehta532@example.com,9623442423,Other,46,Jaipur,,consumer,ORD-100334,2025-11-20,Headphones,aCCESSORIES,3.0,2499,0.1,6747.3,  Cash,Shipped,Store,4,
+10336,Vikram Iyer,vikramiyer424@example.com,9176605123,Male,28,Delhi,Delhi,Small Business,ORD-100335,2025-08-08,USB Hub,Accessories,3.0,3499,0.2,8397.6,credit-card,Cancelled,Store,3,
+10337,ROHIT MEHTA,rohitmehta998@example.com,9583493761,Female,28,Kolkata,West Bengal,Corporate,ORD-100336,2025-06-17,Keyboard  ,Accessories,4.0,2499,0.2,7996.8,Credit Card,Pending,Mobile app,0,
+10338,Arjun Singh,arjunsingh494@example.com,9688876249,Male,19,Delhi,Delhi,Student,ORD-100337,2026-06-18,Tablet,Electronics  ,1.0,799,0.0,799.0,Net Banking,COMPLETED,Website,3,
+10339,Vikram Patel,vikrampatel651@example.com,9235733540,Male,51,Kolkata,West Bengal,cORPORATE,ORD-100338,2025-03-29,Keyboard,Accessories,5 ,1499,0.1,2698.2,Credit Card,Completed,Store,3,
+10340,Meera Nair, meeranair562@example.com ,9290091645,Other,56,jAIPUR, Rajasthan ,Student,ORD-100339,2025-12-15, Keyboard ,Accessories,5.0,4999,0.1,23745.25,PayPal,  Shipped,Marketplace,5,
+10341,Shreya Reddy,shreyareddy325@example.com,42756851,Female,34,Pune,Maharashtra,Corporate,ORD-100340,2025-03-28,Smartwatch,ELECTRONICS,5.0,1499,0.0,7495.0,UPI,Completed,Website,5,
+10342,Vikram Gowda,vikramgowda498@example.com,9421704344,Male,45,Chennai,Tamil Nadu,Small Business,ORD-100341,2026-02-12,Smartwatch,accessory,5.0,499,0.15,2120.75,Net Banking,Pending,Website,5,Customer happy
+10343,Kiran Verma,kiranverma764@example.com,9793627337,Female,42,Jaipur,Rajasthan,Corporate,ORD-100342,2026-01-02,Tablet,Electronics,4.0,1499,0.05,5696.2,UPI,Completed,Marketplace,2,
+10344,Isha Shetty,ishashetty883@example.com,9173512612,Male,26,Chennai,Tamil Nadu,student,ORD-100343,2024-07-11,Keyboard,Accessories,5.0,1999,0.15,8495.75,Credit Card,Returned,Social Media,4,Customer happy
+10345,Isha Nair,ishanair32@example.com,9299648970,Male,36,Hyderabad,Telangana,student,ORD-100344,2025-07-01,Mouse,wearable,1.0,₹999,0.0,999.0,Debit Card,Returned,Website,2,Good
+10346,Vikram Sharma,vikramsharma828@example.com,9635148365,fEMALE,47,Ahmedabad,Gujarat,Consumer,ORD-100345,2026-03-15,MONITOR  ,electronics,3.0,3499,0.1,9447.3,upi,Completed,Mobile App,1,Customer happy
+10347,Manish Patel,  manishpatel400@example.com,9989328868,Male,25,Jaipur,Rajasthan,Corporate,ORD-100346,2026-04-16,Smartwatch,Wearables,2.0,,0.1,2698.2,Cash  ,PENDING,Mobile App,1,Fast delivery
+10348,Sanjay Rao,,9435124877,female,28,  Mumbai,Maharashtra,Consumer,ORD-100347,2025-11-28,Printer,ELECTRONICS,2.0,4999,0.15,8498.3,PayPal,Shipped,,1,Customer happy
+10349,Meera Joshi,meerajoshi251@example.com,9779580831,FEMALE,38,Chennai,Tamil Nadu,Consumer,ORD-100348,2024-04-25,Monitor,accessory,3.0,499,0.05,1422.15,CreditCard,Cancelled,Social Media,0,Urgent
+10350,Neha Sharma,nehasharma390@example.com,9927636977,M,33,Bengaluru,Karnataka,  Corporate,ORD-100349,2024-06-07,External HDD,Storage,4.0,49999,0.2,159996.8,Cash,Completed,Social Media,3,
+10351,Priya Sharma,priyasharma119@example.com,9235106204,Female,,Pune,maharashtra,Small Business,ORD-100350,2026-03-21,USB Hub,Accessories,2.0,49999,0.2,79998.4,Net Banking,Cancelled,Marketplace,2,Good
+10352,Manish Gowda,manishgowda311@example.com,9682756272,Other,49,Delhi,Delhi  ,Corporate,ORD-100351,2025-07-26,Keyboard,Accessories  ,1.0,4999,0.15,4249.15,CreditCard,returned ,Social Media,3,Customer happy
+10353,sANJAY rEDDY,sanjayreddy470@example.com,9417476097,Female,52,Mysuru,Karnataka,Small Business,ORD-100352,2024-06-07,PRINTER,Electronics,2.0,799,0.2,1278.4,Cash,cOMPLETED,Social Media,4,
+10354,Ananya Bhat,ananyabhat748@example.COM,9168012695,Other,52,bENGALURU,Karnataka,Student,ORD-100353,2024-11-24,External HDD,Storage,3.0,12999,0.05,37047.15,debit card,Shipped,mobileapp,5,Fast delivery
+10355,Isha Reddy,ishareddy684@example.com,9171596938,Male,26,pUNE,  Maharashtra,Corporate,ORD-100354,2025-06-19,Tablet,Electronics,3.0,799,0.0,2397.0,Credit Card,Pending,Website,4,Fast delivery
+10356,SNEHA SHARMA,snehasharma648@example.com,9853030195,Other,34,Mysuru,Karnataka,Corporate ,ORD-100355,2025-06-22,USB HUB,accessories  ,4.0,19999,0.15,67996.6,UPI,Pending,Social Media,1,Good
+10357,Kiran Joshi,kiranjoshi581@example.com,9898302819,Female,41,Ahmedabad  ,Gujarat,Consumer,ORD-100356,2025-01-04,Smartphone,Electronics,4.0,19999,0.0,79996.0,,Cancelled,Social Media,1,
+10358,arjun iyer,arjuniyer752@example.com,9348053691,Other,42,Chennai,Tamil Nadu,cORPORATE,ORD-100357,2024-04-13,Smartphone,Electronics,2.0,7999,0.0,15998.0,Debit Card,Shipped,Mobile App,5,
+10359,Ananya Das,ananyadas700@example.com,9592547487,Other,60,jAIPUR  ,Rajasthan,Student,ORD-100358,2025-01-01,Tablet,Electronics,1.0, 19999 ,0.2,15999.2,Credit Card,Pending,Mobile App,5,
+10360,Nikhil  Gowda,nikhilgowda573@example.com,9448594692,female,44,Delhi,Delhi,Student,ORD-100359,2024-11-18,Printer,Electronics,5.0,4999,0.1,22495.5,PayPal,Cancelled,Social Media  ,2,
+10361,Shreya Singh,shreyasingh992@example.com,9526372748,Male,64,kOLKATA,West Bengal,Consumer,ORD-100360,2025-04-03,Printer,Electronics,3.0,2499,,6372.45,Upi,Shipped,Website,5,
+10362,Pooja Sharma,poojasharma851@example.com,9840580333,Female,53,Chennai,Tamil Nadu,Corporate,ORD-100361,2026-01-03,,  Electronics,2.0,2499,0.0,4998.0,credit card,Completed,mARKETPLACE,3,Fast delivery
+10363,vIKRAM rEDDY,vikramreddy317@example.com,9198682372,Other,43,Pune,,Corporate,ORD-100362,2026-04-10,External HDD  ,storage,2.0,1499,0.1,2698.2,PayPal,Completed,Store,4,Fast delivery
+10364,Meera Iyer,meeraiyer758@example.com,9967949720,Other,42, Mysuru ,Karnataka,Consumer,ORD-100363,2024-02-08,Smartphone,Electronics,5.0,19999,5 %,89995.5,Credit Card,Cancelled,store,4,Urgent
+10365,Sneha Iyer,snehaiyer322@example.com,9663052341,Male,38,Hyderabad,Telangana,Corporate,ORD-100364,2024-02-25,Webcam,storage,5.0,499,10%,2120.75,UPI,Shipped,Mobile App,2,Good
+10366,Manish Nair,manishnair306@example.com,9944356532,Female,27,Mysuru,Karnataka,Corporate,ORD-100365,2025-03-18,External HDD,Storage,5.0,799,0.05,3795.25,UPI,Completed,Marketplace,5,
+10367,Priya Das,priyadas802@example.com,9849332765,Male,26,Kolkata,West Bengal,Student,ORD-100366,2025-03-20,Keyboard,Accessories,1.0,3499,0.2,2799.2,Net Banking,completed,Marketplace,4,
+10368,Akash Singh,akashsingh282@example.com, 9934052476 ,Female,38,Jaipur,Rajasthan,Consumer,ORD-100367,2024-03-14,External HDD,Storage,5.0,1499,0.05,7120.25,Credit Card,Returned,Marketplace,6,Customer happy
+10369,,kirangowda641@example.com,9982169157,Female,57,Pune,Maharashtra,corporate,ORD-100368,2024-12-24,External HDD,Storage,1.0,1999,0.05,1899.05,Cash,Completed,Mobile  App,2,
+10370,kavya  kumar, kavyakumar899@example.com ,9993830749,Female,18,Mumbai  ,Maharashtra,Small Business,ORD-100369,2024-05-31,Smartphone,electronics,1.0,1499,0.2,1199.2,PayPal,Completed,Store,4,Urgent
+10371,Rahul Gowda,rahulgowda545@example.com,+91-9905687707,Female,53,Hyderabad, Telangana ,Student,ORD-100370,2025-07-13,Webcam,Accessories,5.0,1499,0.05,7120.25,Net Banking,Pending,Website,4,
+10372,nIKHIL sHARMA,nikhilsharma723@example.com,9763534625,Female,21,CHENNAI,Tamil Nadu,Student,ORD-100371,2026-03-19,Headphones,Accessories,1.0,1999,0.05,1899.05,PayPal,Completed,Website,4,
+10373,Rohit Joshi,rohitjoshi399@example.com,9646041020,Other,24,  Pune,Maharashtra,Small Business,ORD-100372,2024-08-24,Smartphone,Electronics,1.0,1999,0.15,1699.15,Cash,Shipped,Social Media,1,Fast delivery
+10374,Kiran Das,kirandas322@example.com,9458167668,Female,43,Ahmedabad,Gujarat,Corporate,ORD-100373,2025-06-26,Printer,Electronics,1.0,499,0.05,474.05,Credit Card,Cancelled,Store,3,
+10375,Pooja Singh,poojasingh406@example,9974947794,Male,53,Jaipur,Rajasthan,SMALL BUSINESS,ORD-100374,2026-06-18,Keyboard,Accessories,1.0,19999,0.1,17999.1,Debit Card,Pending,Store,4,
+10376,  Vikram Patel,vikrampatel256@example.com,9715145139,Male,45,Kolkata,wEST bENGAL,Consumer ,ORD-100375,2025-03-03,Printer,eLECTRONICS,5.0,"₹19,999",0.05,94995.25,Net Banking,Cancelled,Marketplace,5,
+10377,Kiran Joshi,kiranjoshi151 @example.com,9431784498,Other,63,Delhi,Delhi,Corporate,ORD-100376,2026-06-02,External HDD,Storage,5.0,19999,0.05,94995.25,Cash,Pending,Social Media,2,Customer happy
+10378,Arjun  Das,arjundas910@example.com,9256253951,Other,19,Jaipur,Rajasthan  ,Small Business,ORD-100377,2026-05-09,Webcam,Accessories,1.0,999,0.1,899.1,Cash,Returned,store,4,
+10379,Rohit Kumar,rohitkumar636@example.com,9762441268,Female,56,Hyderabad,Telangana,Corporate,ORD-100378,2026-02-19, Smartphone ,Electronics,2.0, 999 ,0.0,1998.0,Net Banking,return,Mobile App,1,Customer happy
+10380,Arjun  Rao,arjunrao675@example.com,9501535849,Male,42,Ahmedabad,Gujarat,Student,ORD-100379,2025-12-30, Headphones ,Accessories,5.0,12999,0.15,55245.75,Cash,Pending,Mobile App,2,Fast delivery
+10381,Priya Verma,priyaverma219@example.com,9171013341,MALE,46,Bengaluru,Karnataka,Student,ORD-100380,2026-02-14,keyboard,Accessories,4.0,1499,0.05,5696.2,pAYpAL,Cancelled,Marketplace,2,Urgent
+10382,Manish Shetty,manishshetty636@example.com,9897218787,Other,56,Bengaluru,Karnataka,Consumer,ORD-100381,2025-02-07,External HDD,accessory,4.0,49999,0.1,179996.4,Net Banking,Completed,Marketplace,4,
+10383,Priya Bhat,priyabhat406@example.com,9654186806,Other,21,Hyderabad,Telangana, Corporate ,ORD-100382,2025-07-25,Printer,Electronics,5.0,3499,0.0,17495.0,net banking,Returned,Marketplace,3,
+10384,Pooja Nair,poojanair539@example.com,9252728624,Female,59,Delhi,DELHI,Student,ORD-100383,2025-12-07,tablet,accessories,3.0,12999,0.0,38997.0,Credit Card,Shipped,Website,2,
+10385,Akash Bhat,akashbhat35@example.com,9292069408,female,55,Jaipur,rajasthan,Corporate,ORD-100384,2025-04-06, Headphones ,Accessories,4.0,3499,0.1,12596.4,Netbanking,Completed, Store ,3,
+10386,Ananya Rao, ananyarao381@example.com ,9191597206,Other,63,Mumbai,Maharashtra,Student,ORD-100385,2025-10-11,Smartphone,Electronics,1.0,,0.15,42499.15,PayPal,Shipped,Social Media,five,Urgent
+10387, ,shreyaverma899@example.com,9255270986,F,63,BENGALURU,Karnataka,cONSUMER,ORD-100386,2024-06-15,Headphones,Accessories,3.0,12999,0.05,37047.15,Cash,Cancelled,Store,4,Customer happy
+10388,Ananya Patel,ananyapatel479 @example.com,9634323575,Female,52,Delhi,Delhi,Consumer,ORD-100387,2024-01-13,,Electronics,1.0,12999,0.1,11699.1,Net Banking,Returned,Mobile App,2,
+10389,Meera Nair,meeranair260@example.com,9687703577,Female,57,Kolkata,West Bengal,Corporate,ORD-100388,2024-01-07,Smartwatch,  Wearables,1.0,12999,0.2,10399.2,Credit Card,Pending,Mobile App,1,
+10390,Kavya Sharma,kavyasharma952@example.com,9194170046,Male,24,Delhi,Delhi,Student,ORD-100389,2024-12-05,Laptop,Electronics,5.0,12999,0.1,58495.5,Debit Card,Pending,Store,5,
+10391,Isha  Mehta,ishamehta963@example.com,+91 9138482956,Male,37,Jaipur,Rajasthan,Small Business,ORD-100390,2025-01-03,Headphones,Accessories,4.0,49999,0.2,159996.8,UPI, Returned ,Mobile app,4,
+10392,Shreya Patel,shreyapatel549@example.com,9544269173,Other,31,Chennai,Tamil Nadu,Corporate,ORD-100391,2024-03-12,Smartwatch,Wearables,2.0,799,0.1,1438.2,Net Banking,Completed,website,5,
+10393,Nikhil Patel,  nikhilpatel633@example.com,9439827006,Female,51,Ahmedabad,Gujarat,Small Business,ORD-100392,2025-03-13,Webcam,Accessories,5.0,49999,0.1,224995.5, ,Shipped,Social Media,4,
+10394,Meera Nair,meeranair11@example.com,2262350,Male,47,Delhi,Delhi,Consumer,ORD-100393,2024-07-17,External HDD,Storage,2.0,49999,0.1,89998.2,PayPal,,Social Media,4,Urgent
+10395,Priya Gowda,priyagowda298@example.com,9373178728,Male,37,Pune,Maharashtra,Small Business,ORD-100394,2025-12-07,Printer,eLECTRONICS,2.0,499,0.05,948.1,upi,Shipped,Store,1,
+10396,Amit Gowda,amitgowda189@example.com,9308322646,Female,39,Kolkata,West Bengal,Student,ORD-100395,2026-05-02,Webcam,ACCESSORIES,5.0,12999,0.0,64995.0,Cash,Completed,Mobile App,0,Fast delivery
+10397,Sanjay Bhat,sanjaybhat543@example.com,9421417903,,64,Jaipur,Rajasthan,Small Business,ORD-100396,2026-05-05,Mouse,Accessories,4.0,3499,0.0,13996.0,Net Banking,Shipped,Website,2,
+10398,Amit Shetty,amitshetty394@example.com,9772710898,Other,28,Pune,Maharashtra,corporate,ORD-100397,2024-12-13,,Electronics,2.0,1999,0.0,3998.0,Debit Card,Shipped,Website,3,
+10399,Amit Rao,amitrao253@example.com,9498984826,Female,37,Bengaluru,Karnataka,Corporate,ORD-100398,2026-06-17,Keyboard,Accessories,4.0,799,0.1,2716.6,Net Banking,Cancelled,Mobile App,1,Customer happy
+10400,Priya Shetty,priyashetty504@example.com,9636929225,Male,30,hyderabad  ,Telangana  , Small Business ,ORD-100399,2026-03-29,Smartphone,Electronics,4.0,7999,0.0,31996.0,Cash,Shipped,sTORE,3,Fast delivery
+10401, ,snehaiyer406@example.com,9866305263,Other,25,Jaipur,Rajasthan,corporate,ORD-100400,2025-04-15,USB Hub,Accessories,2.0,1499,0.0,2998.0,UPI,Completed,Social Media,1,
+10402,Sanjay Bhat,  sanjaybhat601@example.com,9914426538,Female,58,Bengaluru,Karnataka,Corporate,ORD-100401,2024-01-24,Smartphone,Electronics,5.0, 19999 ,0.1,89995.5,Upi,Pending, Mobile App ,3,
+10403,Shreya Gowda,shreyagowda290@example.com,+91 9222900917,Male,57,Ahmedabad,Gujarat,Consumer,ORD-100402,2024-06-10,,Accessories,1.0,1999,0.05,1899.05,Debit Card,Shipped,Store,5,Customer happy
+10404,Rohit Kumar,rohitkumar637@example.com,9463718119,Other,46,CHENNAI,Tamil Nadu,consumer,ORD-100403,2024-11-14,External HDD,Storage,2.0,999,0.0,1998.0,Debit Card,  Completed,Marketplace,1,Good
+10405,Manish Sharma,manishsharma654@example.com,+91 9997835424,Other,62,Mumbai, Maharashtra ,Student,ORD-100404,2025-08-29,Tablet,accessories,4.0, 999 ,0.2,3196.8,Net Banking,Cancelled,web site,3,
+10406,Kiran Rao,kiranrao842 @example.com,99615 17287,Other,47,jAIPUR  ,rAJASTHAN,Consumer,ORD-100405,2024-05-04,Smartphone,Electronics  ,4.0,12999,0.05,49396.2,Cash,returned ,marketplace,4,Fast delivery
+10407,Neha Kumar,nehakumar949@example.com,9814232253,Female,38,Mysuru,Karnataka,Student,ORD-100406,2025-12-17,Keyboard,Accessories,3.0,"₹3,499",0.05,9972.15,,Completed,Website,4,Good
+10408,,kavyanair140@example.com,9645406800,Male,43,Ahmedabad,GUJARAT,Consumer,ORD-100407,2025-08-11,Headphones, Accessories ,3.0,2499,0.2,5997.6,UPI,Shipped,Website,3,
+10409,Sanjay Verma,sanjayverma172@example.com,9617945843,Female,22,Mysuru,KARNATAKA,Small Business,ORD-100408,2025-07-15,Tablet,Electronics,three,12999,0.05,24698.1,Debit Card,Shipped,Marketplace,4,
+10410,Amit Das,amitdas508@ example.com,9222753236,Other,56,Hyderabad,Telangana,small business,ORD-100409,2026-05-06,Headphones,Accessories,1.0,49999,10%,39999.2, ,Shipped,web site,4,Fast delivery
+10411,Pooja Verma,poojaverma849@example.com,9506852607,Female,49,Mumbai,Maharashtra,Consumer ,ORD-100410,2026-02-28,External HDD,Storage,1.0,19999,0.2,15999.2,  Credit Card, Pending ,mOBILE aPP,5,
+10412,Rahul Shetty,rahulshetty409@example.com,9760965579,Other,46,Delhi,Delhi,Corporate,ORD-100411,2024-10-25,USB Hub,Accessories,5 ,4999,0.2,7998.4,Debit Card,Cancelled,Store,5,
+10413,pOOJA bHAT,poojabhat636@example.com,9648063464,Female,26,Kolkata,West Bengal,Small Business,ORD-100412,2024-01-09,Webcam,Accessories,3.0,799,0.2,1917.6,Credit Card,  CANCELLED,Social Media,1,Good
+10414,Shreya Iyer,shreyaiyer729@example.com,9733683639,Female,58,Pune,Maharashtra,Small Business,ORD-100413,2025-03-18,Smartphone,Electronics  ,,499,0.05,1422.15,PayPal,Returned,Marketplace,4,Urgent
+10415,Shreya Singh,shreyasingh873@example.com,9486856173,Female,27,Delhi,Delhi,Small Business,ORD-100414,2025-01-28,Smartwatch,WEARABLES,2.0,1499,0.2,2398.4,PayPal,Pending,Mobile App,1,Good
+10416,Rahul Kumar,rahulkumar667 @example.com,9965373223,Female,47,Ahmedabad,Gujarat,Student,ORD-100415,2024-05-20,USB Hub,electronic,4.0,999,0.0,3996.0,Net  Banking,Pending,Marketplace,5,
+10417,Shreya  Iyer,shreyaiyer629@example.com,9107977894,Other,49,Ahmedabad,,Corporate,ORD-100416,2025-03-10,Tablet,ELECTRONICS,3.0,1499,0.05,4272.15, ,Shipped, Store ,4,
+10418, ,akashgowda604@example.com,9617042023,Other,23,Bengaluru,Karnataka,Corporate,ORD-100417,2024-04-25,  Laptop,Electronics,5.0,4999,0.1,22495.5,paypal,Shipped,Store,4,
+10419,Arjun Das,arjundas658@example.com,9678958595,Other,37,Mysuru,Karnataka,Consumer,ORD-100418,2025-01-12,Smartphone,Electronics  ,2.0,4999,0.0,9998.0,UPI,Shipped,Website,4,Urgent
+10420,Nikhil Bhat,nikhilbhat311@example.com,9410535202,Male,20,Ahmedabad,Gujarat,Small Business,ORD-100419,2026-03-28,External HDD,Storage,3.0,,0.1,9447.3,PayPal,Shipped  ,Store,1,
+10421,Meera Mehta,meeramehta765@example.com,9770355280,Male,36,dELHI,Delhi,Student,ORD-100420,2026-08-04,  External HDD,Storage,1.0,19999,0.1,17999.1,Credit Card,,Social Media,1,
+10422,Rohit Reddy,rohitreddy769@example.com,9219775258,Other,29,Delhi,Delhi,Corporate,ORD-100421,2024-01-15,External HDD,accessories,3.0,1999,0.1,5397.3,PayPal,pending ,Store,0,Customer happy
+10423,nEHA  nAIR,nehanair619@example.com,9982319181,Male,49,  DELHI,Delhi,Student,ORD-100422,2024-05-28,PRINTER,Electronics,1.0,2499,0.0,2499.0,Cash,Pending,Marketplace,2,Fast delivery
+10424,AKASH RAO,akashrao485@example.com,9528148969,Female,37,PUNE,Maharashtra,Student,ORD-100423,2024-06-20,Laptop,Electronics,3.0,799,0.0,2397.0,PayPal,Shipped,Mobile App,4,
+10425,Manish Nair,manishnair959@example.com,9956104065,,42,Chennai,Tamil Nadu,Small Business,ORD-100424,2024-10-22,headphones,Accessories,5.0,3499,0.0,17495.0,Net Banking,Completed, Website ,5,
+10426,Kavya Iyer,kavyaiyer831@example.com,9205523897,Female,59,Kolkata,West Bengal,Consumer ,ORD-100425,2024-09-30,External HDD,Storage,3.0,2499,0.1,6747.3,Cash  ,Pending,Social Media,2,
+10427,aMIT jOSHI,amitjoshi79@example.com,9112843471,Female,24,Delhi,dELHI,consumer,ORD-100426,2026-05-01,Mouse,Accessories,5.0,499,0.0,2495.0,Paypal,Returned,website,2,
+10428,Pooja  Reddy,poojareddy971@example.com,9737951442,Other,31,Hyderabad,Telangana,Consumer,ORD-100427,2024-02-28,Laptop,Electronics,1.0,12999,0.0,12999.0,PayPal,Completed,Website,5,Fast delivery
+10429,MANISH JOSHI,manishjoshi311@example.com,9601389735,Other,22,Mysuru,Karnataka  ,Student,ORD-100428,2024-09-16,Headphones,  Accessories,1.0,49999,0.05,47499.05, UPI ,Returned,Store,3,Fast delivery
+10430,Arjun  Reddy,arjunreddy988@example.com,9972738280,female,29,Bengaluru  ,Karnataka,Student,ORD-100429,2024-09-21,Tablet,ELECTRONICS,4.0,2499,0.0,9996.0,Credit Card,Returned,mOBILE aPP,5,Urgent
+10431,Ananya Joshi,,9790779098,Male,46, ,Gujarat,Small Business,ORD-100430,2024-08-11,Smartphone,ELECTRONICS,2.0,7999,5 %,13598.3,CREDIT CARD,Completed,Website,1,
+10432,Rohit Shetty,rohitshetty690@example.com,9519278813,Female,27,Ahmedabad, Gujarat ,SMALL BUSINESS,ORD-100431,2024-02-08,Laptop,Electronics,4.0,999,0.0,3996.0,Cash,Completed ,Website,5,
+10433,Meera Nair,,9840088692,Female,25,Kolkata,West Bengal,Small Business,ORD-100432,2024-01-04,Tablet,Electronics,,7999,0.05,7599.05,UPI,Cancelled,Marketplace,1,
+10434,Arjun Gowda,arjungowda217@example.com,9289642463,Other,20,jaipur,Rajasthan,Student,ORD-100433,2025-10-25,Mouse,Accessories,1.0,4999,0.1,4499.1,PayPal,Pending,Store,4,
+10435,Kavya Nair,kavyanair46@example.com,9307331729,Male,64,Mumbai,Maharashtra,Corporate,ORD-100434,2024-05-23,USB HUB,ELECTRONICS,4.0,49999,0.05,189996.2,Cash,Returned,Website,5,
+10436,Pooja Nair,poojanair355@example.com  ,9945870756,FEMALE,20,Jaipur,Rajasthan,Student,ORD-100435,2024-02-27,smartwatch,Wearables,1.0,499,0.1,449.1,Credit Card,Pending,Social Media,4,
+10437,Shreya  Kumar,shreyakumar679@example.com, 9120468746 ,Female,57,Mysuru,Karnataka,Consumer,ORD-100436,2025-05-15, Monitor ,Electronics,three,499,0.05,474.05,Debit Card,pENDING,Website,2,
+10438,Priya Bhat,priyabhat615@example.com,9168673962,Male,25,Chennai,Tamil Nadu,STUDENT,ORD-100437,2026-05-05,Smartphone,Electronics,4.0,12999,0.05,49396.2,CreditCard,sHIPPED, MOBILE APP ,1,
+10439,Kiran Verma,kiranverma599@example.com,9686139340,Male,38,Pune,Maharashtra  ,cORPORATE,ORD-100438,2025-12-01,Webcam,Accessories,4.0,2499,0.0,9996.0,Credit Card,Completed ,Mobile App,3,Good
+10440,Sneha Reddy,,9571008888,Male,55,DELHI,Delhi,Consumer,ORD-100439,2025-07-20,Tablet,Electronics,2.0,49999,0.1,89998.2,,Completed,Social Media,4,
+10441,ananya sharma,ananyasharma733@example.com,,Other,36,Ahmedabad,Gujarat,Student,ORD-100440,2024-04-01,Smartphone,Electronics,1.0,499,0.05,474.05,credit card,Returned,Mobile App,2,Fast delivery
+10442,Rohit Das,rohitdas48@example.com,9740242156,M,63,Ahmedabad,Gujarat,  Student,ORD-100441,2025-12-09,Tablet  ,Electronics,2.0,999,0.2,1598.4,net banking,Completed,Store,3,Urgent
+10443, ,rahuldas380@example.com,,Other,50,Hyderabad,Telangana,corporate,ORD-100442,2025-09-25,Monitor,Electronics,1.0,7999,0.0,7999.0,Cash,Pending,Store,1,Fast delivery
+10444,Sneha Shetty,snehashetty696@example.com,9146295027,Male,59,Delhi,Delhi,Small Business,ORD-100443,2024-12-06,USB Hub,Accessories,4.0,4999,0.05,18996.2,Upi,Pending,Marketplace,3,Customer happy
+10445,Isha Shetty,ishashetty190@example.com,9269700183,Male,49,Ahmedabad,Gujarat,Corporate ,ORD-100444,2025-07-04,Laptop,Electronics,1.0,49999,0.0,49999.0,Credit Card,Pending,Marketplace,5,
+10446,Amit Verma,amitverma243@example.com,9205295567,Male,65,Hyderabad, Telangana ,Student,ORD-100445,2024-11-29,Webcam,Accessories,3.0,1499,0.0,4497.0,Debit Card,Returned,Mobile App,1,Urgent
+10447,Akash Nair,,9515892751,Female,26,Bengaluru,Karnataka,Student,ORD-100446,2025-04-10,Tablet,Electronics,2.0,1499,0.2,2398.4,PAYPAL,Pending,Store,3,Fast delivery
+10448,Amit Kumar,amitkumar123@example.com,9599863643,Female,44,Bengaluru,Karnataka  ,cORPORATE,ORD-100447,2024-05-19,webcam,Accessories,5.0,499,0.1,2245.5,UPI,Pending,Store,5,Fast delivery
+10449,Isha Bhat,ishabhat887@example.com,,Female,31,Delhi,,Student,ORD-100448,2025-02-25,External HDD,sTORAGE,5.0,1499,0.0,7495.0,cASH,Cancelled,Website,4 ,
+10450,Neha Singh,nehasingh945@example.com,9716006526,Male,44,Pune,Maharashtra  ,Consumer,ORD-100449,2024-06-01,Tablet,Electronics,5.0,1499,0.2,5996.0,Credit Card,  Returned, Social Media ,1,Urgent
+10451,Nikhil Verma,nikhilverma95@example.com,9699670808,Male,62,Ahmedabad,Gujarat,sTUDENT,ORD-100450,2024-09-03,Webcam, Accessories ,1.0,4999,0.15,4249.15,Debit Card,return,Store,3,
+10452,Arjun Sharma,arjunsharma594@example.com,9902392977,Other,19,Ahmedabad,GUJARAT,Consumer ,ORD-100451,2026-05-28,USB Hub,electronic,3.0,999,0.15,2547.45,  Cash,Pending,Marketplace,2,
+10453,Kavya Joshi,kavyajoshi924@example.com,9841687850,Female,51,Ahmedabad,Gujarat  ,Consumer,ORD-100452,2025-01-29,Webcam,Accessories,1.0,19999,0.0,19999.0,UPI  ,Returned,Store,5,
+10454,akash shetty,akashshetty964@example.com  ,9158853584,Other,61,HYDERABAD,Telangana,small business,ORD-100453,2026-01-23,USB Hub,Accessories,1.0,12999,0.1,11699.1,Credit Card,Completed,market place,3,Urgent
+10455,Isha Sharma,ishasharma78@example.com,9702109541,Other,31,PUNE,Maharashtra,Corporate,ORD-100454,2025-12-22,Mouse,accessories,2.0,19999,0.2,31998.4,UPI,Pending,Social Media,1,
+10456,Meera Rao,meerarao371@example.com,9387073305,Other,61, Mysuru ,Karnataka,Student,ORD-100455,2024-11-24,Webcam,Accessories,2.0,49999,0.05,94998.1,UPI,Completed,Website,3,Customer happy
+10457,Sanjay Nair,  sanjaynair855@example.com,9672149194,Female,46,Jaipur,Rajasthan,  Small Business,ORD-100456,2025-11-25,Printer,  Electronics,1.0,4999,0.2,3999.2,PayPal,Completed,market place,4,Good
+10458,arjun verma,arjunverma124@example.com,9848486223,Male,49,Delhi,Delhi,CORPORATE,ORD-100457,2024-10-09,Keyboard,Accessories,1.0,799,0.05,759.05,Debit Card,Shipped,Website,3,Urgent
+10459,Shreya Bhat,shreyabhat670@example.com,9123066440,Female,30,Delhi,Delhi,Consumer,ORD-100458,2026-01-25,Smartwatch,Wearables,3.0,3499,0.15,8922.45,Credit Card,Pending,Social Media,3,Urgent
+10460,Akash Gowda,akashgowda571@example.com,9578090317,Female,37,Pune  ,Maharashtra,consumer,ORD-100459,2026-05-12,Smartwatch,Wearables,5.0,19999,0.2,79996.0,Upi,Pending,Store,2,Urgent
+10461,Kavya Reddy,kavyareddy643@example.com,9272646820,OTHER,52,Bengaluru,KARNATAKA,Small Business,ORD-100460,2024-06-19,Headphones,Accessories,,1999,0.15,5097.45,Debit Card,Pending,Mobile App,2,Fast delivery
+10462,Sneha Sharma,snehasharma198@example.com,9320283891, m ,63,Pune,Maharashtra,Consumer,ORD-100461,2025-01-13,External HDD,  Storage,2.0,4999,0.1,8998.2,PayPal,Cancelled,STORE,2,Customer happy
+10463, Sanjay Das ,sanjaydas963@example.com,9636244827,MALE,47,Delhi,Delhi,Small Business,ORD-100462,2025-02-18,Printer,Electronics,3.0,799,0.0,2397.0,dEBIT cARD,Completed,Social Media,5,Customer happy
+10464,Pooja Nair,poojanair715@example.COM,9220597977,Other,48,cHENNAI,Tamil Nadu,SMB,ORD-100463,2024-12-12,External HDD,Storage,2.0,12999,0.15,22098.3,Debit Card,Shipped,Website,3,
+10465,Manish Mehta,manishmehta632@example.com,9788604221,Male,55,Hyderabad,Telangana,Corporate,ORD-100464,2024-02-26,Smartwatch,Wearables,3.0,799,,2157.3,UPI,Pending,Website,1,
+10466,Sanjay  Joshi,sanjayjoshi627@example.com,9749697362,Other,21,Mumbai,Maharashtra,Small Business,ORD-100465,2024-11-21,Printer,Electronics,4.0,1499,,5096.6,Cash,Pending,Marketplace,3,Urgent
+10467,Kavya Sharma,kavyasharma584@example.com,+91-9194058316,MALE,64,Chennai,Tamil Nadu,Student,ORD-100466,2026-06-14,Mouse,Accessories,3.0,1999,0.15,5097.45,PayPal,rETURNED,Marketplace,3,Fast delivery
+10468,dIVYA rAO,divyarao222@example.com  ,9425591954,Female,51,Kolkata,West Bengal,Small Business,ORD-100467,2024-05-27,Headphones,Accessories,5.0,12999,0.0,64995.0,Credit Card,Shipped,mobileapp,1,Good
+10469,dIVYA jOSHI,divyajoshi591@example.com,9910936792,Male,30, ,Tamil Nadu,Corporate,ORD-100468,2025-12-28,Tablet,Electronics,2.0,7999,0.15,13598.3,Cash,  Cancelled,Social Media,4,
+10470,Pooja Iyer,poojaiyer37@example.com,9949565526,Male,27,Mysuru,Karnataka,small business,ORD-100469,2024-08-17,Keyboard,electronics,4.0,7999,10%,27196.6,UPI,Returned,website,3,Urgent
+10471,Ananya Nair,ananyanair623@example.COM,9900544937,Female,55,Hyderabad,telangana,Student,ORD-100470,2024-03-09,Laptop,Electronics,1.0,1999,0.15,1699.15,credit card,Returned,Store,4,
+10472,Sneha Gowda,snehagowda605@example.com,9162825060,Male,38,Jaipur,rajasthan,sTUDENT,ORD-100471,2024-06-15,WEBCAM,Accessories,5.0,499,0.1,2245.5,PayPal, Pending ,Store,2,Good
+10473,Rohit Gowda,rohitgowda552@example.com,9786063606,FEMALE,50,Kolkata,West Bengal,Corporate,ORD-100472,2024-10-25,USB Hub,Accessories,3.0,499,0.1,1347.3,PayPal,Pending,Website,5,
+10474,Ananya Das, ananyadas557@example.com ,9722820339,Female,27,Pune,Maharashtra,Consumer,ORD-100473,2024-04-08,Mouse,Accessories,3.0,1999,0.1,5397.3,Debit Card,Shipped,Store,3,
+10475,Meera Verma,meeraverma236@example.com,9992895309,F,53,  Pune,maharashtra,cONSUMER,ORD-100474,2025-05-30,Headphones,Accessories,1.0,1499,0.05,1424.05,Cash,Returned,Website,4 ,
+10476,Vikram Bhat,vikrambhat846@example.com,9574527208,F,51,Bengaluru,Karnataka,small business,ORD-100475,2024-05-22,Smartwatch, Wearables ,3.0,"1,999",0.1,5397.3,credit card,Cancelled,Website,1,Fast delivery
+10477,Vikram Iyer,vikramiyer143@example.com,9184401435,Female,62,Delhi,Delhi,Consumer,ORD-100476,2024-08-02,Webcam,Accessories,2.0,1999,0.05,3798.1,Credit Card,Completed,Marketplace,4,Good
+10478,Kiran Patel,kiranpatel131@example.com,9371670077,Male,22,Bengaluru,Karnataka,Small Business,ORD-100477,2025-04-25,USB Hub,Accessories  ,5.0,12999,0.0,64995.0,Paypal,Completed,Website,1,
+10479,Kiran Mehta,kiranmehta876@example.com,9901224008,Female,55,Hyderabad,Telangana,Small Business,ORD-100478,2024-05-29,Headphones,Accessories,3.0,499,0.0,1497.0,UPI,Pending,Social  Media,5,Fast delivery
+10480,Nikhil Mehta,nikhilmehta742@example.com,9305672580,Female,-5,Mumbai,Maharashtra,CONSUMER,ORD-100479,2024-10-08, Smartphone ,Electronics,5.0,499,0.2,1996.0,PayPal,Completed,Mobile App,5,
+10481,Meera Gowda,meeragowda864@example.com,+91 9480987586,Female,45,Mysuru,Karnataka,Corporate,ORD-100480,2024-07-04,Headphones,Accessories,4.0,"19,999",0.0,79996.0,CreditCard,Pending,Marketplace,1,
+10482,Amit Patel,amitpatel379@example.com,9856699057,Female,53,AHMEDABAD,Gujarat,Consumer,ORD-100481,2026-02-19,Smartphone,Electronics,5.0,999,0.15,4245.75,Credit Card,Cancelled,Marketplace,1,Urgent
+10483,Pooja Nair,poojanair577@example.com,9537315952,Female,45, Mysuru ,Karnataka,Consumer ,ORD-100482,2024-08-19,Webcam,Accessories,3.0,,0.15,50997.45,Credit Card,Returned,Store,2,Good
+10484,Meera Joshi,meerajoshi156@example.com,9523925579,Female,62,Mumbai,Maharashtra,Consumer,ORD-100483,2024-05-02,Tablet  ,  Electronics,4.0,7999,0.0,31996.0,CreditCard,Pending,market place,3,Fast delivery
+10485,Amit Singh,  amitsingh521@example.com,9399056778,Other,55,Mysuru,Karnataka,Small Business,ORD-100484,2026-01-12,Tablet,Electronics,1.0, 1499 ,0.15,1274.15,PayPal,Returned,website,4,
+10486,isha verma,ishaverma135@example.com,9369176186,FEMALE,49,ahmedabad,Gujarat,Corporate,ORD-100485,2024-04-20,Printer,electronics,3.0,999,0.15,2547.45,PayPal,Pending,Website,1,
+10487,Priya Iyer,priyaiyer705@example.com,9451066210,,,Mumbai,  Maharashtra,Consumer,ORD-100486,2025-09-11,Smartwatch,Wearables,1.0,999,0.15,849.15,Credit Card,Shipped,WEB,4,Fast delivery
+10488,Pooja Joshi,poojajoshi838@example.com,9680388580,FEMALE,19,Ahmedabad,Gujarat,Consumer,ORD-100487,2024-12-17,Smartwatch,Wearables,5.0,1999,0.2,7996.0,Cash,Completed,Marketplace,4,Customer happy
+10489,  Manish Nair,manishnair891@example.com,9936855553,fEMALE,63,AHMEDABAD, Gujarat ,Corporate,ORD-100488,2025-11-06,Laptop,Electronics,1.0,999,0.2,799.2,Cash,CANCELLED,Mobile App,3,
+10490,Manish Nair,manishnair562@example.com,9714406057,Female,48,Mumbai,Maharashtra,Corporate,ORD-100489,2025-12-02,External HDD,Storage,4.0,19999,0.2,63996.8,Net Banking,Completed,,3,Urgent
+10491,akash verma,  akashverma38@example.com,9734005271,MALE,26,Mysuru,Karnataka  ,Small Business,ORD-100490,2024-03-03,USB Hub,Accessories,3.0,1999,0.1,5397.3,UPI,Shipped,,3,Urgent
+10492,Sneha Verma,snehaverma260@example.com  ,9365873433,Male,59,Pune,Maharashtra,sMALL bUSINESS,ORD-100491,2025-11-08,Mouse,Accessories,4.0,2499,0.0,9996.0,Net Banking,Completed,Website,3,Good
+10493,Amit Kumar,amitkumar894@example.com,95536 26970,Other,50, ,Karnataka,Student,ORD-100492,2025-11-04,Printer,Electronics,3.0,499,0.1,1272.45,UPI,Completed,Marketplace,5,Good
+10494,Amit Verma,amitverma510@example.com,9207435042,Other,61,Mysuru,Karnataka,Corporate,ORD-100493,2026-04-07, Tablet ,Electronics,3.0,12999,0.0,38997.0,UPI,Returned,STORE,3,Fast delivery
+10495,Isha Reddy,,9675347404,Male,36,Pune,Maharashtra,  Small Business,ORD-100494,2026-05-10,Tablet,accessories,2.0,4999,0.0,9998.0,Credit Card,,Social Media,4,
+10496,Neha Mehta,nehamehta289@example.com,9172230370,Other,51,Mumbai,Maharashtra,Student,ORD-100495,2024-12-10,  WEBCAM,Accessories,5.0,799,0.2,3196.0,Cash,pENDING,,1,
+10497,Pooja Das,poojadas421@example.com,9369793513,Other,50,Chennai,Tamil Nadu,Student,ORD-100496,2025-02-28,Tablet,Electronics,5.0,2499,0.05,11870.25,PayPal,Shipped,Mobile App,1,
+10498,NIKHIL IYER,nikhiliyer969@example.com,978-496-8212,Other,57,Delhi,Delhi,Student,ORD-100497,2024-10-01,External HDD,Storage,4.0,1499,0.15,5096.6,Net Banking,Completed,Social Media,2,Customer happy
+10499,Sanjay Kumar,sanjaykumar890@example.com,9991435903,Male,58,Hyderabad,Telangana,Corporate,ORD-100498,2024-11-22,Headphones,Accessories,3.0,3499,0.15,8922.45, Cash ,Cancelled,Store,2,Customer happy
+10500,iSHA  sINGH,ishasingh261@example.com,9955820291,Female,47,Kolkata,West Bengal,Student,ORD-100499,2024-01-29,Monitor,Electronics,1.0,999,0.05,949.05,Net  Banking,Returned,Marketplace,1,Fast delivery
+10501,ANANYA REDDY,ananyareddy669@example.com,9145346658,Other,49,Delhi,Delhi,cONSUMER,ORD-100500,2024-06-29,Laptop,ELECTRONICS,3.0,1999,0.2,4797.6,Credit Card,Completed,Store,5,Customer happy
+10502,Arjun Bhat,arjunbhat124@example.com,9713077996,Other,50,Kolkata,West Bengal,Consumer,ORD-100501,2024-08-29,Mouse,Accessories,1.0,"3,499",0.05,3324.05,net banking,Shipped,Social Media,3,Urgent
+10503,Arjun Singh,arjunsingh409@example.com,9965265838,Other,65,Mysuru,Karnataka,Corporate,ORD-100502,2026-01-24,Smartphone,ELECTRONICS,3.0,2499,0.2,5997.6,Cash,Pending,Mobile App,1,Fast delivery
+10504,Kiran Reddy,kiranreddy556@example.com,9502336411,Other,25,Ahmedabad,Gujarat,Small Business,ORD-100503,2025-05-17,tablet  ,Electronics,3.0,12999,0.0,38997.0,Net Banking,Returned,Marketplace,2,Customer happy
+10505,Vikram Gowda,,9750488622,mALE,65,Ahmedabad,Gujarat,Consumer,ORD-100504,2025-10-22,Webcam,Accessories,3.0, 1999 ,0.0,5997.0,PayPal,Pending,Store,5,Urgent
+10506,Pooja Joshi,poojajoshi463@example.com,95171 17581,Male,43,Pune,Maharashtra,Small Business,ORD-100505,2026-05-28,USB Hub,ACCESSORIES,1.0,7999,0.05,7599.05,UPI,Completed,Mobile App,3,Fast delivery
+10507,ANANYA  BHAT,ananyabhat44@example.com,9394244475,Male,49,Ahmedabad,Gujarat,Student,ORD-100506,2026-03-19,USB Hub,storage,3.0,19999,0.15,50997.45,PayPal,Returned,web site,4,
+10508,Sneha Iyer,snehaiyer440@example.com,9746517065,Other,53,Delhi,Delhi,Small Business,ORD-100507,2024-12-26,Webcam,ACCESSORIES,3.0,7999,0.0,23997.0,Cash,Completed,Website,2,
+10509,Sanjay Shetty,sanjayshetty599@example.com,9188295994,Male,28,Delhi,Delhi,Corporate,ORD-100508,2024-11-17,Laptop,Electronics,4.0,1499,0.1,5396.4,Net Banking,Pending,Social Media,4,
+10510,Amit Nair,amitnair617@example.COM,9987736032,Female,36,  Ahmedabad,Gujarat,Corporate,ORD-100509,2025-12-04,Webcam,Accessories,2.0,"1,999",0.05,3798.1,Credit Card,CANCELLED,Store,2,Urgent
+10511,Manish Iyer,manishiyer636@example.com,9772836002,MALE,23,Mysuru,Karnataka,Student,ORD-100510,2025-10-24,Monitor,Electronics,1.0,499,0.2,399.2,Debit Card,completed,Mobile App,1,Urgent
+10512,Isha Verma,ishaverma979@example.com,9709072427,Male,18,Mysuru,Karnataka,Student,ORD-100511,2024-06-23,Keyboard,Accessories,2.0,799,0.1,1438.2,net banking,Returned,Website  ,2,
+10513,Kiran Singh,kiransingh886@example.com,9321841455,other,31,Chennai,Tamil Nadu,Small Business,ORD-100512,2025-03-17,Keyboard,Accessories,4.0,3499,0.05,13296.2,CreditCard,Pending,Marketplace,2,Urgent
+10514,Vikram Sharma,vikramsharma388@ example.com,9725887408,Other,59,Chennai,Tamil Nadu,sTUDENT,ORD-100513,2024-09-11,,Accessories,2.0,12999,0.15,22098.3,Credit Card,Completed,Marketplace,2,
+10515, Amit Rao ,amitrao443@example.com,9890385760,Other,34,Kolkata,west bengal,Consumer,ORD-100514,2025-12-26,,Accessories,2.0,49999,0.15,84998.3,Credit Card,Shipped,Website,1,Customer happy
+10516,Neha Nair,nehanair269@example.com,9641747843,Other,42,Pune,Maharashtra,Small Business,ORD-100515,2024-01-06,External HDD,Storage,5.0,49999,0.0,249995.0, ,Cancelled,Mobile App,5,Good
+10517,Akash Kumar, akashkumar489@example.com ,9241647522,Male,38,Chennai,Tamil Nadu,Student,ORD-100516,2026-06-17,Headphones,ACCESSORIES,5.0,4999,0.1,22495.5, ,Cancelled,wEBSITE,3,Good
+10518,Vikram Nair,vikramnair279@example.com,9758130257,Female,51, ,Tamil Nadu,SMALL BUSINESS,ORD-100517,2026-06-16,Webcam,  Accessories,3.0,3499,0.1,9447.3,net banking,Pending,Store,4,
+10519,Vikram Das,vikramdas197@example.com,98765ABCDE,Female,34,aHMEDABAD,Gujarat,Corporate,ORD-100518,2024-08-23,Laptop,ELECTRONICS,2.0, 999 ,0.0,1998.0,PayPal,Returned,Marketplace,1,Urgent
+10520,Priya Nair,  priyanair125@example.com,9872840670, f ,25,Pune,Maharashtra,Small Business,ORD-100519,2025-05-19,Webcam,Accessories,5.0,4999,0.15,21245.75,Credit Card,Pending,web site,2,
+10521,Ananya Rao,ananyarao607@example.com,9104429962,Other,54,Jaipur  ,Rajasthan,Corporate,ORD-100520,2024-08-05,Keyboard,Accessories,5.0,19999,0.2,79996.0,Cash,return,Mobile App,4,
+10522,,snehabhat392@example.com,9733871129,Male,38,Pune,Maharashtra,Corporate,ORD-100521,2025-02-07,Laptop,Electronics,3.0,19999,0.0,59997.0,Credit Card,Completed,app,4,Urgent
+10523,Rohit Mehta,rohitmehta342@example.com,9885490692,Other,-5,Bengaluru,Karnataka,Corporate,ORD-100522,2025-04-08,Mouse,  Accessories,1.0,19999,0.2,15999.2,Debit Card,Completed,website,3,
+10524,Priya Rao,priyarao271@example.com,9291137642,Male,43,Mumbai,Maharashtra,Consumer,ORD-100523,2025-02-12,Printer,Electronics,5.0,3499,0.0,17495.0,Credit Card,Pending,Mobile App,4,
+10525,Manish Reddy,manishreddy835@example.com,9432968743,Other,56,Delhi,Delhi,cORPORATE,ORD-100524,2026-01-23,Smartphone,accessory,3.0,4999,0.15,12747.45,UPI,Completed,  Store,5,
+10526,Meera Nair  ,meeranair102@example.com,9912275640,Female,41,  Kolkata,West Bengal,Corporate,ORD-100525,2025-03-09,Smartwatch,Wearables,3.0,12999,0.2,31197.6,Cash,Returned,Website,1,
+10527,Amit  Nair,amitnair672@example.com,9663368481,Male,36,Hyderabad,Telangana,Student,ORD-100526,2025-10-06,USB Hub,Accessories,2.0,4999,0.2,7998.4,Cash,Completed,mARKETPLACE,3,Fast delivery
+10528, Vikram Joshi ,vikramjoshi58@example.com,9691625661,Male,20,Chennai,Tamil Nadu,Consumer,ORD-100527,2025-08-05,Monitor,Electronics,5.0,3499,0.1,15745.5,Net Banking,RETURNED,Marketplace,1,Urgent
+10529,akash iyer,akashiyer525 @example.com  ,9117468377,F,65,Chennai,tamil nadu,  Student,ORD-100528,2026-02-26,Mouse,Accessories,3.0,12999,0.0,38997.0,DEBIT CARD,CANCELLED,Marketplace,1,Good
+10530,Divya Bhat,divyabhat696@example.com,9583127884,Other,34,Chennai,TAMIL NADU,Small Business,ORD-100529,2026-02-14,Mouse,Accessories,5.0,49999,0.15,212495.75,Debit Card,PENDING,Mobile App,1,
+10531,Isha Reddy,ishareddy129@example.com,9114285707,Male,59,Mumbai,Maharashtra,Student,ORD-100530,2025-02-08,Tablet,Electronics,5.0,499,0.0,2495.0,upi,Returned,Social Media,4,Customer happy
+10532,Isha Iyer,ishaiyer148@example.com,9114899158,MALE,25,Mysuru,Karnataka,Consumer,ORD-100531,2024-05-08, Mouse ,accessories,4.0,1999,0.0,7996.0,PayPal,Pending,Website,2,Urgent
+10533,Vikram Joshi,vikramjoshi798@example.com,9597599404,Male,48,Hyderabad,Telangana,Student,ORD-100532,2024-11-04,Tablet,  Electronics,5.0,1499,0.0,7495.0,Credit Card,Completed,Mobile App,2,
+10534,Sanjay Nair, sanjaynair311@example.com ,9711421299,Female,21,Ahmedabad,Gujarat,Small Business,ORD-100533,2024-07-25,Laptop,Electronics,4.0,12999,0.05,49396.2,Credit Card,Completed,Marketplace,4,
+10535,Meera Rao,meerarao419@example.com,9621946930,Other,55, ,Karnataka,Student,ORD-100534,2025-05-14,external hdd,Storage,5.0,1999,0.0,9995.0,Debit Card,pending ,Social Media,1,Urgent
+10536,  Akash Gowda,akashgowda129@example.com,9631275428,Other,59,JAIPUR,Rajasthan,Small Business,ORD-100535,2025-04-29,sMARTPHONE,Electronics,3.0,,0.15,50997.45,Cash,Returned,Website,2,Customer happy
+10537,Kiran Nair,kirannair940@example.com,9835485325,Female,56, ,Maharashtra,Student,ORD-100536,2025-08-24,SMARTWATCH,Wearables,2.0,7999,0.05,15198.1,Debit Card,Cancelled,Marketplace,4,
+10538,Kavya Shetty  ,kavyashetty777@example.com,9192547842,Other,48,Ahmedabad,Gujarat,Corporate,ORD-100537,2025-12-08,,Accessories,5.0,"1,499",,6745.5,Debit Card,Pending,Mobile App,5,Urgent
+10539,sneha shetty,snehashetty58@example.com,+91 9119467577,,34,Kolkata,West Bengal,Small Business,ORD-100538,2025-07-24,Smartwatch,Wearables,3.0,1499,0.05,4272.15,PayPal,Pending,,5,Good
+10540,Arjun Gowda,arjungowda239@example.com,96222 30767,female,39,Kolkata,west bengal,  SMALL BUSINESS,ORD-100539,2025-07-29,Smartphone,Electronics,5.0,1499,0.0,7495.0,Credit Card,Shipped,Store,2,
+10541,Nikhil Mehta,nikhilmehta783@example.com,9219111087,Male,57,Mumbai,Maharashtra,Consumer,ORD-100540,2026-05-11,Webcam,Accessories,1.0,4999,0.15,4249.15,Net Banking,COMPLETED,Social Media,1,Fast delivery
+10542,Sneha Iyer,,9918153355,Other,49,Hyderabad,Telangana,Consumer,ORD-100541,2025-12-26,Mouse,ACCESSORIES,2.0,49999,0.1,89998.2,Debit Card,CANCELLED, Store ,2,Good
+10543,kIRAN nAIR,kirannair527@example.com,9283890958,Male,35,Kolkata,West Bengal,Small Business,ORD-100542,2024-10-20,LAPTOP,Electronics,2.0,4999,0.1,8998.2,paypal,Returned,store,,Fast delivery
+10544,Nikhil Verma,nikhilverma984@example.com,9654217523,Other,41,Hyderabad,Telangana,Consumer,ORD-100543,2025-04-14,Headphones,Accessories,4.0,3499,0.15,11896.6,Cash,pending,Website,5,Good
+10545,Arjun Gowda  ,arjungowda787@example.com,9139829091,Other,59,Pune,Maharashtra,Corporate  ,ORD-100544,2025-06-02,Tablet,Electronics,2.0,3499,0.0,6998.0,net banking,Completed,Social Media,3,Urgent
+10546,Manish Bhat,manishbhat296@example.com,9666712063,Other,27,Jaipur,Rajasthan,Student,ORD-100545,2026-04-26,KEYBOARD,Accessories,3.0,2499,0.0,7497.0,Cash,,  Social Media,5,
+10547,Isha Joshi,ishajoshi212@example.com,9423766892,Male,20,Ahmedabad,Gujarat,SMALL BUSINESS,ORD-100546,2026-05-03,Webcam,Accessories,3.0,19999,0.15,50997.45,Cash,CANCELLED,  Social Media,5,Customer happy
+10548,Kiran Patel,kiranpatel660@example.com,9271828050,Male,19,Jaipur,Rajasthan,Small Business,ORD-100547,2026-02-14,Printer,Electronics,3.0,7999,0.1,21597.3,Debit Card,Cancelled,Marketplace,5,Good
+10549,Priya Iyer,priyaiyer784@example.com,9798965570,Male,46, Pune ,Maharashtra,Small Business,ORD-100548,2024-02-18,  Keyboard,Accessories,5.0,2499,0.0,12495.0,upi,Completed,Marketplace  ,3,Fast delivery
+10550,Akash Mehta,akashmehta692@example.com,9942661053,Other,54,Jaipur,RAJASTHAN,Corporate,ORD-100549,2024-10-18,External HDD,Storage,2.0,2499,0.1,4498.2,PayPal,Returned,Social Media,2,Good
+10551,Amit Das,amitdas738@example.com,9557083443, f ,23, ,Karnataka,SMB,ORD-100550,2024-05-30,Monitor,Electronics,3.0,4999,0.0,14997.0,Credit Card,Returned,Mobile App,,Fast delivery
+10552,Sanjay Patel,sanjaypatel541@example.com,,Female,34,Pune,Maharashtra,Student,ORD-100551,2025-07-26,USB Hub,Accessories,5.0,3499,,13996.0,credit-card,Returned,MARKETPLACE,4 ,
+10553,Divya Iyer,divyaiyer478@example.com,9238926282,Other,50,Delhi,Delhi,Consumer ,ORD-100552,2025-12-29,Headphones,Accessories,5.0,999,0.15,4245.75,Paypal,Pending,Marketplace,4,
+10554,Ananya Das,ananyadas388@example.com,9713927729,Female,150,Pune,Maharashtra,Corporate,ORD-100553,2024-05-03,Smartphone,Electronics,5.0,3499,0.0,17495.0,Credit Card  ,Cancelled,Store,6,Customer happy
+10555,Pooja Nair  ,poojanair969@example.com,9427667311,male,31, ,Karnataka,Corporate,ORD-100554,2024-02-19,Headphones,electronic,2.0,12999,0.15,22098.3,Paypal,Returned,Website,1,
+10556,Kavya Patel,kavyapatel473@example.com,9462734944,Female,48,Bengaluru,Karnataka,Corporate,ORD-100555,2025-08-02,tABLET,Electronics,4.0,12999,0.1,46796.4,Debit Card,Shipped,Marketplace,4,
+10557,Sanjay Kumar,sanjaykumar406@example.com,9349991019,Female,39,Pune,Maharashtra,Consumer,ORD-100556,2025-02-23, Smartphone ,ELECTRONICS,5.0,19999,0.2,79996.0,PayPal,Returned,Store,1,
+10558,Ananya Rao,ananyarao582@ example.com,9191431302,Male,57,Bengaluru,Karnataka  ,Consumer,ORD-100557,2025-10-21,External HDD,Storage,3.0,7999,0.0,23997.0,Net Banking,return,Mobile App,,
+10559,Rahul Patel,rahulpatel859@example.com,9857651237,Other,46,Jaipur,Rajasthan,Consumer,ORD-100558,2024-09-08,Headphones,Accessories,1.0,1999,0.05,1899.05,Net Banking,Shipped,Store,4,
+10560,Priya Nair,priyanair890@example.com,9666830194,Female,42,Bengaluru,Karnataka,Small  Business,ORD-100559,2024-01-25,Mouse,Accessories,4.0,999,0.15,3396.6,Credit Card,Completed,Website,5,Fast delivery
+10561,Pooja Kumar,  poojakumar704@example.com,928-166-7509,Male,57,Delhi,Delhi,Small Business  ,ORD-100560,2025-02-21,Keyboard,aCCESSORIES,1.0,999,0.1,899.1,Debit Card,Completed, Website ,3,Urgent
+10562,Sneha Gowda,snehagowda931@example.com,+91 9229886539,Male,30,Delhi, Delhi ,student,ORD-100561,2026-04-27,Tablet,Electronics,3.0,1999,0.15,5097.45,Net Banking,Shipped,Mobile App,4,
+10563,Nikhil Verma,nikhilverma426@example.com,9170285223,Female,19,Mumbai,Maharashtra,Student,ORD-100562,2025-07-20,Keyboard,Accessories,1.0,2499,0.15,2124.15,credit-card,Pending,Website,3,
+10564,Akash Joshi,  akashjoshi591@example.com,9536740105,Female,23, , Maharashtra ,Corporate,ORD-100563,2024-11-07,Monitor,Electronics,5.0,19999,0.05,94995.25,Debit  Card,Cancelled,sOCIAL mEDIA,2,
+10565,Neha Das,nehadas485@example.com,9990531175,Other,36,Kolkata,West Bengal,Corporate,ORD-100564,2026-04-12,Printer,eLECTRONICS,4.0,499,0.0,1996.0,Credit Card,Completed,Marketplace,6,
+10566,Rohit Iyer,rohitiyer56@example.com,9273319432,Other,52,Kolkata,West Bengal,Consumer,ORD-100565,2024-10-15,Mouse,wearable,2.0,12999,0.2,20798.4,UPI,Completed ,Marketplace,1,
+10567,Vikram Rao,vikramrao990@example.com,9961201669,Female,61,Jaipur,Rajasthan,small business,ORD-100566,2025-05-31,kEYBOARD,Accessories,4.0,1499,0.2,4796.8,PayPal,Cancelled,Marketplace,3,
+10568,Amit Gowda,amitgowda146@example.com,9794113197,Male,56,Hyderabad,Telangana,SMB,ORD-100567,2025-12-09,sMARTWATCH,Wearables,5.0,2499,0.1,12495.0,Credit Card,Completed,Mobile App,4,
+10569,Meera Shetty,meerashetty41@example.com,9993443242,Other,46,Kolkata,West Bengal,Consumer,ORD-100568,2025-07-05,Printer,Electronics,1.0,19999,0.0,19999.0,UPI,Returned,Social Media,3,Urgent
+10570,Ananya Iyer,  ananyaiyer19@example.com,9337856110,Other,19,Bengaluru,Karnataka,Small Business,ORD-100569,2025-03-31,Smartphone,electronic,4.0,2499,0.05,9496.2,PayPal,Cancelled,Mobile App,1,
+10571,ISHA JOSHI,ishajoshi47@example.com,9401459841,Female,63,Chennai,Tamil Nadu  ,Corporate,ORD-100570,2025-01-06,Webcam,Accessories,2.0,1499,0.15,2548.3,Credit Card,Pending,Marketplace,1,
+10572,Rohit Mehta,rohitmehta766@example.com,9707423317,Other,61,Jaipur,Rajasthan,Corporate,ORD-100571,2025-06-11,Smartwatch,Wearables,2.0,7999,0.05,15198.1,Credit Card,Shipped  ,Mobile  App,1,Fast delivery
+10573,Rohit Bhat,rohitbhat878@example.com,9827974104,Male,62,Mysuru,Karnataka,Small Business,ORD-100572,2024-07-15,Monitor,Electronics,5.0,"49,999",0.1,224995.5,PayPal,Shipped,  Marketplace,1,Urgent
+10574,Priya Iyer,priyaiyer540@example.com,+91-9600993686,Female,41, ,Maharashtra,Consumer,ORD-100573,2025-11-27,Tablet,Electronics,4.0,1999,0.0,7996.0, PayPal ,PENDING,Website,3,Urgent
+10575,Shreya Nair,shreyanair911@example.com,9713986637,Male,65,Pune,Maharashtra,Corporate,ORD-100574,2024-03-24, Laptop ,Electronics,4.0,1499,0.1,5396.4,PayPal,Returned,Website,2,
+10576,Ananya Gowda,ananyagowda837@example.com,,M,58,Chennai,tAMIL nADU,Small Business,ORD-100575,2025-03-18,,Electronics,1.0,499,0.15,424.15,  UPI,Pending,WEBSITE,4,Fast delivery
+10577,Amit Iyer,amitiyer624@example.com,9765254520, f ,24,Bengaluru,Karnataka,student,ORD-100576,2026-03-05,Mouse,Accessories,5.0,1499,0.0,7495.0,Net Banking,Completed,website,1,Good
+10578,Manish Gowda,manishgowda635@example.com,9772361249,Female,22,Mumbai,MAHARASHTRA,Consumer,ORD-100577,2024-11-04,Headphones,Accessories,1.0,4999,0.0,4999.0, ,Completed,Social Media,1,
+10579,Manish Verma, manishverma685@example.com ,9770023660,Male,47,Mumbai,Maharashtra,SMB,ORD-100578,2026-03-17,External HDD,Storage,4.0,1499,0.2,4796.8,Cash,Returned,Social Media,5,Good
+10580,Amit Joshi,AMITJOSHI120@EXAMPLE.COM,9210262182,Male,56,Bengaluru,Karnataka,Consumer,ORD-100579,2024-07-16,Smartwatch,electronics,5.0,2499,0.2,9996.0,Net Banking,Pending,Social Media,2,
+10581,Nikhil Reddy,nikhilreddy200@example.com,9361082984, m ,20,Pune,Maharashtra,Consumer,ORD-100580,2025-03-31,Tablet,Electronics,4.0,49999,0.2,159996.8,Debit Card,Cancelled, Social Media ,4,
+10582,KAVYA REDDY,kavyareddy627@example.com,9468186412,Female,41,Mysuru,Karnataka,CONSUMER,ORD-100581,2024-12-11,Printer,Electronics,2.0,999,0.15,1698.3,NET BANKING,Shipped,Mobile App,1,Fast delivery
+10583,Nikhil Iyer,nikhiliyer665@example.com,9316102606,male,39,Jaipur,Rajasthan,Corporate,ORD-100582,2024-07-24,Laptop,Electronics,4.0,2499,0.05,9496.2,PayPal,Returned,,5,
+10584,Amit Iyer,amitiyer346@ example.com,+91-9274246814,Male,47,Mysuru,Karnataka,Consumer,ORD-100583,2025-03-04,External HDD,Storage,3.0,12999,0.1,35097.3, Cash ,complete,Website,2,
+10585,Neha Nair,nehanair767@example.com,9503632224,Male,43,mysuru,Karnataka,Corporate,ORD-100584,2026-04-06,Monitor,ELECTRONICS,2.0,4999,0.1,8998.2,Credit Card,Cancelled  ,wEBSITE,1,Customer happy
+10586,Rahul Das,rahuldas609@example.com,9921984514,Female,20,Mumbai,Maharashtra,Consumer,ORD-100585,2025-08-10,Headphones,Accessories,3.0,4999,0.05,14247.15,Debit Card,Pending,sTORE,2,Fast delivery
+10587,Rohit Rao,rohitrao32@example.com,9289061692,FEMALE,24,Delhi,Delhi, Consumer ,ORD-100586,2024-07-19,Mouse,Accessories,5.0,1499,0.05,7120.25,PayPal,Pending,mobileapp,1,
+10588,Kiran Reddy,kiranreddy828@example.com,9769159960,Female,63,Ahmedabad,Gujarat,Consumer ,ORD-100587,2025-06-23,Monitor,Electronics,3.0,2499,0.05,7122.15,Credit Card,Pending,WEB,2,Fast delivery
+10589,Shreya Verma,shreyaverma791@example.com,9761455036,Other,30,Pune,Maharashtra,Small Business,ORD-100588,2024-02-17,Mouse,accessories,5.0,3499,0.05,16620.25,net banking,Cancelled,Mobile App,1,
+10590,Rohit Iyer,rohitiyer93@example.com,98765ABCDE,Female,60,Delhi,Delhi,Consumer,ORD-100589,2026-01-14,Printer,Electronics,5.0,4999,0.05,23745.25,Debit Card,Shipped,WEB,5,
+10591,Meera Das,meeradas721@example.com,9618936257,Other,49,Ahmedabad,Gujarat,Student,ORD-100590,2025-06-22,Headphones,Accessories,3.0,49999,,134997.3,UPI,Shipped,Marketplace,5,
+10592,  Priya Singh,priyasingh323@example.com,9556364808,Female,54,Hyderabad,Telangana,consumer,ORD-100591,2024-08-11,Monitor,Electronics,4.0,1499,0.15,5096.6,credit-card,complete,Social Media,1,Fast delivery
+10593,Arjun Reddy,arjunreddy486@example.com,9650037226,Other,39,Ahmedabad, Gujarat ,Student,ORD-100592,2024-02-12,Printer,Electronics,3.0,1499,0.2,3597.6,Cash,Returned,Marketplace,4,Customer happy
+10594,Meera Gowda  ,,9792944501,Male,40,CHENNAI,Tamil  Nadu,Consumer,ORD-100593,2024-08-27,tABLET,accessory,1.0, 999 ,0.15,849.15,upi,Shipped,Social Media,5,
+10595, Arjun Shetty ,arjunshetty49@example.com,98765ABCDE,Male,39,Chennai  ,Tamil Nadu,Corporate,ORD-100594,2025-01-03,Monitor,  Electronics,1.0,799,,799.0,PayPal,Cancelled  ,Store,3,
+10596,Rohit Singh,rohitsingh316@example.com,9402629052,Female,43,Mysuru,Karnataka,Student,ORD-100595,2026-02-27,Headphones,electronic,5.0,1999,0.0,9995.0,Net Banking,Completed,Marketplace,5,
+10597,Vikram Iyer,vikramiyer249@example.com,9653863250,Other,53,Kolkata,West Bengal,Student,ORD-100596,2025-04-30,Monitor,  Electronics,2.0,49999,0.05,94998.1,PayPal,Returned,Store,1,Customer happy
+10598,,kiranverma393@example.com,9249196669,Other,26,Kolkata,West Bengal,Small Business,ORD-100597,2024-01-31,,Electronics,4.0,4999,0.2,15996.8,PayPal,Completed,Marketplace,3,Customer happy
+10599,Neha Verma,nehaverma343@example.com,9730238228,Male,54,Kolkata,West Bengal, Consumer ,ORD-100598,2024-11-02,USB Hub,Accessories,4.0,49999,0.2,159996.8,Debit Card,Pending,Store,5,
+10600,iSHA bHAT,ishabhat75@example.com,9673904893,Female,30,Mysuru,Karnataka,Student,ORD-100599,2025-02-04, External HDD ,Storage,4.0,3499,0.05,13296.2,Credit Card,cancelled,SOCIAL MEDIA,4,
+10601,Pooja Patel,poojapatel715 @example.com,9747857066,Female,19,Delhi,Delhi,Corporate,ORD-100600,2026-04-26,Smartphone,Electronics,5.0,999,0.0,4995.0,CreditCard,Completed,market place,3,Fast delivery
+10602,Neha Reddy,nehareddy21@example.com,9284496457,Female,44,Jaipur,Rajasthan,Student,ORD-100601,2025-06-14,SMARTPHONE,Electronics,5 ,499,0.1,1796.4,Debit Card,  completed,Mobile App,5,Urgent
+10603,Meera Rao,meerarao452@example.com,9978209248,Other,60,Mumbai,MAHARASHTRA,Student,ORD-100602,2024-11-13,Tablet,Electronics,2.0,999,0.05,1898.1,Debit Card,Shipped,Social Media,3,
+10604,Kiran Das,kirandas75@example.com,9985388850,FEMALE,56,Ahmedabad,Gujarat,Corporate,ORD-100603,2025-04-01,Keyboard,Accessories,5 ,499,0.05,948.1,NET BANKING,Cancelled,Social Media,4,Urgent
+10605,Sanjay Mehta,sanjaymehta727@example.com,,female,43,Bengaluru,Karnataka,Corporate,ORD-100604,2024-12-21,  Webcam,storage,1.0,"1,999",0.15,1699.15,Cash, Pending ,Mobile App,5,
+10606,  divya nair,divyanair412@example.com,9850164093,Male,33,Kolkata, West Bengal ,Corporate,ORD-100605,2024-04-07,USB Hub,Accessories,2.0,"49,999",0.2,79998.4,UPI,Shipped,Store,1,
+10607,Kiran Bhat,kiranbhat783@example.com,9212984008,Other,38,Ahmedabad,Gujarat,STUDENT,ORD-100606,2024-03-19,tABLET,Electronics,5.0,799,0.1,3595.5,Cash,Pending,Store,2,
+10608,Priya Nair,priyanair418@example.com,9308739262,Female,20,Bengaluru,Karnataka,Consumer,ORD-100607,2026-02-02,Smartphone,Electronics,4.0,3499,0.1,12596.4,UPI,Completed,Mobile App,3,
+10609, Sanjay Nair ,sanjaynair982@example.com,9570002192,Male,48,Ahmedabad,Gujarat,Small Business,ORD-100608,2025-12-31,Smartphone,Electronics,1.0,7999,0.05,7599.05,Debit Card,Pending  ,Website,5,Good
+10610,Ananya Reddy,ananyareddy791@example.com,9112037305,Other,35,Mumbai,Maharashtra,Corporate,ORD-100609,2025-11-18,Printer,Electronics,4.0,999,0.1,3996.0,Cash,Cancelled,Mobile App,2,
+10611,Priya Bhat,priyabhat660@example.com,9971354190,MALE,59,Jaipur,Rajasthan  ,Consumer,ORD-100610,2026-05-06,Monitor,eLECTRONICS,4.0,49999,0.0,199996.0,cash,Cancelled,  Marketplace,1,
+10612,Rahul Sharma,rahulsharma103@example.com,9117221150,Female,19,Kolkata  ,West  Bengal,Consumer,ORD-100611,2024-07-23,,eLECTRONICS,2.0,2499,0.1,4748.1,UPI,complete,website,2,Good
+10613,Ananya Rao  ,ananyarao344@example.com,9446474552,other,58,Delhi,Delhi  ,Corporate,ORD-100612,2026-04-15,Laptop,Electronics  ,4.0,7999,0.0,31996.0,Net Banking,Pending,STORE,4,Urgent
+10614,Sneha Singh,snehasingh421@example.com,9802219378,Female,18,Hyderabad,Telangana,Student,ORD-100613,2024-01-16,Smartphone,electronics,3.0,2499,0.05,7122.15,Debit Card,rETURNED,MOBILE APP,1,
+10615,Rohit Joshi,rohitjoshi318@example.com,+91 9924145310,Other,49,Mysuru,Karnataka,Consumer,ORD-100614,2025-02-24,Mouse,Accessories,1.0,799,0.05,759.05,credit-card,Shipped,Social  Media,2,Customer happy
+10616,Sneha Mehta,snehamehta189@example.com,9782205574,Other,38,Pune,Maharashtra,Student,ORD-100615,2024-12-06,USB Hub,Accessories,4.0,19999,0.05,75996.2,Credit Card,Cancelled,WEBSITE,5,
+10617,Sanjay Verma,sanjayverma23@example.com,9349758689,Male,57,Jaipur,,consumer,ORD-100616,2025-12-22,USB Hub,accessories,2.0,7999,,12798.4,UPI,Pending,Marketplace,2,
+10618,Arjun Sharma,arjunsharma394@example.com,93194 57073,Other,20,Delhi,Delhi,Corporate,ORD-100617,2024-06-04,Mouse,Accessories,4.0,1999,0.05,7596.2,,Shipped,Marketplace,3,Fast delivery
+10619,Rohit Gowda,,9345897637,Other,39,Bengaluru,karnataka,Small Business,ORD-100618,2026-02-07,Printer,  Electronics,5 ,19999,0.1,71996.4,Debit Card,Pending,Social Media,1,
+10620,Neha Shetty,nehashetty462@example.com,9776223826,Male,22,Hyderabad,Telangana,Student,ORD-100619,2024-06-07,External HDD,Storage,4.0,7999,0.1,28796.4,Credit Card,Pending,Website,2,Fast delivery
+10621,Vikram Patel,vikrampatel90@example.com,9557671519,other,47,Delhi,dELHI,student,ORD-100620,2025-06-03,External HDD,Storage,5.0,1499,0.05,7120.25,UPI ,Pending,Mobile App,4,
+10622,Isha Singh,ishasingh893@example.com,9938902595,Female,23,Chennai,Tamil Nadu,Small Business,ORD-100621,2024-10-05,Keyboard,accessory,5.0,4999,0.05,23745.25,Cash,Returned,Mobile App,4,Urgent
+10623,Divya Das,divyadas790@example.com,9509545868,Female,23,Mysuru,KARNATAKA,SMB,ORD-100622,2024-01-21,Webcam,ACCESSORIES,4.0,999,0.15,3396.6,Net Banking,Shipped,Mobile App,5,
+10624, Ananya Reddy ,ananyareddy585@example.com,9750714773,Female,22,Kolkata,West Bengal,Small Business,ORD-100623,2025-01-19,Smartwatch,Wearables,3.0,4999,0.1,13497.3,Debit Card,Returned,Mobile App,2,Fast delivery
+10625,,rahulsharma972@example.com,,Other,41,Jaipur,Rajasthan,Student,ORD-100624,2025-03-01,WEBCAM,Accessories,3.0,4999,0.15,12747.45,Cash,Cancelled,Social Media,1,Urgent
+10626,Priya Bhat,priyabhat456@example.com,9374081636,Other,40, ,Maharashtra,Student,ORD-100625,2026-02-20,Tablet,Electronics,0.0,999,0.05,4745.25,,Cancelled,Website,4,Urgent
+10627,Neha Singh,nehasingh691@example.com,9792921609,mALE,34,Ahmedabad,Gujarat,Student,ORD-100626,2025-12-15,Laptop,Electronics,3.0,19999,0.0,59997.0,Netbanking,,Store,2,
+10628,Akash Joshi,akashjoshi733@example.com,9729384966,Male,51,Delhi,Delhi,Corporate,ORD-100627,2025-02-11,Laptop,Electronics,1.0,799,0.15,679.15,Cash,return,Marketplace,3,
+10629,Pooja Das,poojadas431@example.com  ,9907950191,Other,23,Jaipur,Rajasthan, Consumer ,ORD-100628,2026-01-21,USB Hub,ACCESSORIES,4.0,12999,0.1,46796.4,PayPal,Shipped,Store,2,Customer happy
+10630,Kiran Bhat,kiranbhat513@example.com,9101694991,Male,22, ,West Bengal,Student,ORD-100629,2026-04-15,Webcam,Accessories,3.0,499,0.05,1422.15,Net Banking,rETURNED,Store,4,Fast delivery
+10631,Ananya Gowda,ananyagowda524@example.com,218367418,Female,54,Delhi,Delhi,Corporate,ORD-100630,2024-07-05,Webcam,Accessories,2.0,1499,0.15,2548.3,Debit Card,Pending,Website,2,
+10632,Kiran Reddy,kiranreddy310@example.com,9192027258,Female,25,Kolkata,West Bengal,Consumer ,ORD-100631,2024-03-22,Smartwatch,Wearables,5.0,799,0.05,3795.25,Credit Card,Cancelled,Website,5,Fast delivery
+10633,Meera Nair,meeranair606@example.com,9947404741,,24,Mumbai,Maharashtra  ,Corporate,ORD-100632,2025-11-12,Laptop,Electronics,1.0,1999,0.0,1999.0,Net Banking,Completed  ,Marketplace,5,
+10634,Rohit Bhat,rohitbhat389@example.com,9832141597,Female,38,Ahmedabad,Gujarat,Corporate,ORD-100633,2024-12-10,,wearables,3.0,12999,0.15,33147.45,UPI,Returned,marketplace,5,Good
+10635,Kavya Iyer,kavyaiyer865@example.com,,Male,56,Pune,Maharashtra,Consumer,ORD-100634,2026-01-12,Smartphone,Electronics,1.0,4999,0.15,4249.15,upi,Cancelled  ,Mobile App,3,Urgent
+10636,Isha Joshi,ishajoshi663@example.com,9972543056, m ,19,Ahmedabad,Gujarat,Small Business,ORD-100635,2024-01-04,Printer,ELECTRONICS,4.0,19999,0.05,75996.2,,  Cancelled,Marketplace,2,
+10637,Meera Verma,meeraverma887@example.com,9851082116,Male,25 years,mysuru,Karnataka,sTUDENT,ORD-100636,2025-11-05,  Smartphone,Electronics,3.0,3499,0.15,8922.45,UPI,Shipped,Mobile App,2,
+10638,Nikhil  Bhat,nikhilbhat825@example.com,9193512060,fEMALE,61,  Mysuru,Karnataka,Student  ,ORD-100637,2025-05-24,wEBCAM,Accessories,5.0,499,0.05,2370.25,DEBIT CARD,Returned,Website,4,
+10639,Shreya Singh,shreyasingh455@example.com,9868546986,male,28,Hyderabad,Telangana, Small Business ,ORD-100638,2024-04-18,Monitor,Electronics,2.0,19999,0.0,39998.0,Cash,cANCELLED,mOBILE aPP,3,
+10640,Meera Bhat, meerabhat824@example.com ,9842798005,Female,32,Mumbai,Maharashtra,Consumer,ORD-100639,2024-04-02, USB Hub ,Accessories,2.0,7999,0.15,13598.3,PayPal,Cancelled,Marketplace,4,
+10641,Shreya Iyer,  shreyaiyer99@example.com,9219596078,Male,39,Kolkata,west bengal,Corporate,ORD-100640,2024-10-24,Monitor,Electronics,2.0,1999,0.0,3998.0,PayPal  ,Completed,Social Media,3,Fast delivery
+10642,aMIT vERMA,amitverma558@example.com,9303858121,Female,45,Mysuru,Karnataka,Small Business,ORD-100641,2025-08-27,Webcam,Accessories,1.0,1999,0.0,1999.0,UPI,Pending,Social Media,5,
+10643,Neha Patel,nehapatel845@example.com,9418711858,Male,49,Kolkata,wEST bENGAL, sTUDENT ,ORD-100642,2024-05-28,,eLECTRONICS,5.0,4999,0.1,22495.5,Debit Card,shipped,Store,4 ,
+10644,Priya Mehta,priyamehta878@example.com,9858622505,F,48,Pune,Maharashtra,Corporate,ORD-100643,2024-10-07,Keyboard,Accessories,5.0,49999,0.0,249995.0,Cash,CANCELLED,Marketplace,1,
+10645,Amit Kumar,AMITKUMAR804@EXAMPLE.COM,9292221507,Female,64,Hyderabad,Telangana,Student,ORD-100644,2026-06-05,Webcam,Accessories,2.0,49999,0.0,99998.0,credit card,Pending,website,5,Urgent
+10646,Amit Verma,amitverma754@example.com,+91-9403911749,Female,62, ,Gujarat,Corporate  ,ORD-100645,2025-06-24,Mouse,ACCESSORIES,4.0,3499,0.0,13996.0,PayPal,Shipped,Marketplace,1,Fast delivery
+10647,Amit Shetty,amitshetty150@example.com,9574469049,OTHER,48,Mysuru,Karnataka,SMB,ORD-100646,2025-08-14, Laptop ,Electronics,3.0,4999,0.05,14247.15,credit-card,Completed ,Mobile App,2,
+10648,Rahul Gowda,rahulgowda871@example.com,9280627976,F,24,Mysuru,,Small Business  ,ORD-100647,2025-11-26,Smartphone,ELECTRONICS,2.0,3499,0.15,5948.3,  Cash, Pending ,Website,1,
+10649,Amit Mehta,amitmehta256@example.com,9525894109,Female,37,Kolkata,West Bengal  ,Corporate,ORD-100648,2024-05-01,Headphones,Accessories,4.0,1499,10%,5996.0,credit card,Returned,wEBSITE,4,
+10650,manish reddy,manishreddy134@example.com,9625294300,Other,60,Ahmedabad,Gujarat,corporate,ORD-100649,2024-03-25,Mouse,Accessories,1.0,799,5 %,799.0,Credit Card,Shipped, Social Media ,5,Urgent
+10651,Rohit Rao,rohitrao729@example.com,9565635101, f ,54,Mumbai,Maharashtra,Corporate,ORD-100650,2025-10-22,External Hdd,Storage,2.0,3499,0.15,5948.3,UPI ,Cancelled,Website,5,Fast delivery
+10652,Manish Iyer,manishiyer75@example.com,9657165824,MALE,52,Bengaluru,Karnataka,Consumer ,ORD-100651,2025-05-15,,Electronics,,7999,0.2,31996.0,Debit Card,Completed,Mobile App,5,
+10653, Ananya Sharma ,ananyasharma598@example.com,9321437670,OTHER,28,Jaipur,Rajasthan,Consumer,ORD-100652,2024-05-11,Smartwatch,Wearables,3.0,799,0.0,2397.0,net banking,Cancelled,Website,1,Good
+10654,Nikhil Reddy,nikhilreddy317@example.com,9149570642,oTHER,36,Pune,Maharashtra,Student,ORD-100653,2024-09-11,Printer,Electronics,2.0,3499,0.0,6998.0,,Shipped,Marketplace,3,
+10655,Kavya Mehta,kavyamehta849@example.com,9148034439,Male,20,Jaipur,Rajasthan,Corporate,ORD-100654,2025-11-09,Printer,Electronics,2.0,49999,0.0,99998.0,Debit Card,Cancelled,web site,2,
+10656,Shreya Singh,shreyasingh86@example.com,9690395452,female,34,Mysuru,Karnataka  ,Student,ORD-100655,2025-03-08,Mouse,Accessories,3.0,999,0.2,2397.6,PayPal,Pending,Marketplace,4,Good
+10657,Rohit Joshi,rohitjoshi654@example.COM,886703684,Female,58,Kolkata,West Bengal,Corporate,ORD-100656,2024-03-13,webcam,Accessories,2.0,7999,0.05,15198.1,,Cancelled, sOCIAL mEDIA ,5,
+10658,Ananya Verma, ananyaverma263@example.com ,98765ABCDE,M,25,Delhi,DELHI,Consumer,ORD-100657,2025-09-10,Mouse,Accessories,4.0,3499,0.0,13996.0,PayPal,Shipped,Marketplace,1,Customer happy
+10659,Arjun  Gowda,arjungowda110@example.com,9504968149,Male,42,Pune,Maharashtra,Consumer,ORD-100658,2024-01-11,Keyboard,Accessories  ,2.0,1499,0.1,2698.2,Credit Card  ,Pending,Social Media,3,
+10660,,meerapatel632@example.com,9206371470,Male,28,Jaipur,Rajasthan,Small Business,ORD-100659,2024-10-04,Mouse,Accessories,5.0,1999,0.2,7996.0,Cash,Pending,Store,5,
+10661,,  ishabhat713@example.com,9651436667,Other,27,Kolkata,  West Bengal,Corporate,ORD-100660,2024-10-01,Smartwatch,storage,5.0,999,0.1,4495.5,Debit Card,Returned,Social Media,3,Good
+10662,Kavya Rao,kavyarao459@example.com,9480106125,Female,50,Hyderabad,Telangana,Small Business,ORD-100661,2024-07-06,USB Hub, Accessories ,5.0,3499,0.15,14870.75,UPI,Returned,Social Media,2,Customer happy
+10663,Arjun Reddy,arjunreddy757@example.com,9357737486,mALE,28,Kolkata,West Bengal,Consumer,ORD-100662,2024-03-19,Mouse,storage,1.0,19999,0.0,19999.0,Credit Card,Cancelled,web site,4,
+10664,Rahul Verma,rahulverma711@example.com,9826680721,Other,62,Jaipur,Rajasthan,Consumer,ORD-100663,2025-06-11,Webcam,Accessories,2.0,4999,0.15,8498.3,Cash,Completed,Social Media,2,
+10665,Rahul Rao,rahulrao766@example.com,+91-9809930293,Other,61,Kolkata,,Consumer  ,ORD-100664,2024-09-07,Webcam,Accessories,5.0,49999,0.1,224995.5,Net Banking,Returned,Mobile App,5,
+10666,Ananya Patel,ananyapatel517@example.com,9507049911,Male,-5, ,Maharashtra,Consumer,ORD-100665,2025-03-08,Headphones,Accessories,5.0,2499,0.0,12495.0,UPI,pENDING,Social Media,1,Customer happy
+10667,Pooja Nair,,9427297760,other,50,Chennai,Tamil Nadu,Consumer,ORD-100666,2025-02-07,kEYBOARD,Accessories,2.0,499,0.2,798.4,Cash,Shipped,Marketplace,1,Customer happy
+10668,Rahul Mehta,rahulmehta368@example.com,9875707160,Male,43,Ahmedabad,Gujarat,Small Business,ORD-100667,2024-01-06,  Mouse,ACCESSORIES,3.0,2499,0.0,7497.0,Credit Card,Completed,Marketplace,4,Fast delivery
+10669,ARJUN DAS,arjundas169@example.com,9926188073,Other,34,Jaipur,Rajasthan,Corporate,ORD-100668,2024-08-01,Headphones,Accessories,4.0,799,0.15,2716.6,Cash,returned ,Store,3,Customer happy
+10670,Divya Bhat,divyabhat869@example.com,9571755668,Male,26,Delhi,Delhi,consumer,ORD-100669,2025-11-03,Printer,Electronics,3.0,799,0.15,2037.45,PayPal,Returned,Website,3,
+10671,Kiran Patel  ,kiranpatel771@example.com,9455637797,Male,28,Hyderabad,Telangana,Corporate,ORD-100670,2025-07-03,Keyboard,Accessories,1.0,999,0.15,849.15, ,completed,WEBSITE,4,Urgent
+10672,Shreya Nair,shreyanair122@example.com,9215834822,male,26,Delhi,dELHI,Corporate,ORD-100671,2024-05-14,Mouse,Accessories,4.0,7999,0.15,27196.6,CreditCard,Shipped,Website,2,
+10673,Amit Verma,amitverma298@example.com,98765ABCDE,Male,45,Mysuru,Karnataka,Corporate,ORD-100672,2024-10-23,Webcam, Accessories ,1.0,3499,0.15,2974.15,Net Banking,Pending,Social Media,2,Fast delivery
+10674,Rohit Shetty,rohitshetty495@example.com,9858556609,male,62,Mumbai,Maharashtra,Corporate  ,ORD-100673,2024-07-22,Keyboard,Accessories,2.0,19999,0.15,33998.3,Debit Card,,Mobile App,2,Good
+10675,Vikram Verma, vikramverma641@example.com ,9314365568,Male,21,Bengaluru,KARNATAKA,Student,ORD-100674,2024-01-19,Keyboard,aCCESSORIES,2.0,999,0.15,1698.3,Cash,Shipped,website,2,
+10676,Amit Verma,amitverma122@example.com,9389100789,M,35,Ahmedabad,Gujarat,Small Business  ,ORD-100675,2024-07-11,Laptop,Electronics,5.0,3499,5 %,17495.0,PayPal,Returned,mobile app,,Good
+10677,Ananya Sharma,ananyasharma296@example.com,+91-9751247855,M,45,  Bengaluru,Karnataka,Corporate,ORD-100676,2025-04-28,,Electronics,3.0,1499,0.1,4047.3,UPI,returned,Store,3,Customer happy
+10678,SNEHA PATEL,snehapatel769@example.com,6768720,M,65,Bengaluru,Karnataka,Small Business,ORD-100677,2025-01-04,USB Hub,Accessories,5.0,999,0.1,4495.5,Debit Card,Cancelled,web site,5,Urgent
+10679,Arjun Bhat,arjunbhat944@example.com,9802608498,Male,30,Mumbai,  Maharashtra,Student,ORD-100678,2025-08-23,Headphones,Accessories,5.0,799,0.0,3995.0,Credit Card,Completed,Social Media,5,
+10680, Pooja Rao ,poojarao140@example.com,9305843534,Female,53,Ahmedabad,Gujarat,Small Business,ORD-100679,2024-02-14,Monitor,Electronics,5.0,49999,0.05,237495.25,  Net Banking,CANCELLED,Store,4,
+10681,sneha bhat,snehabhat819 @example.com,9123487997,Male,56,Kolkata,West Bengal,small business,ORD-100680,2025-05-30,Smartphone,Electronics,4.0,3499,0.2,11196.8,PayPal,PENDING,Store,1,
+10682,Priya Shetty,priyashetty535@example.com,+91-9180515099,MALE,46,Hyderabad,  telangana,Student,ORD-100681,2026-06-10,Webcam,Accessories,4.0,4999,0.2,15996.8,Net Banking,Returned,Marketplace,5,Customer happy
+10683,Kiran Kumar,kirankumar19@example.com,9948950616,Other,47,Bengaluru,Karnataka,Small Business,ORD-100682,2025-12-14,headphones,Accessories,5.0,1499,0.2,5996.0,UPI,Pending,Store,3,
+10684,Sneha Kumar,snehakumar664@example.com,9259063545,Female,26,Hyderabad,Telangana,Small Business,ORD-100683,2024-02-10,Laptop,Electronics,5.0,1499,0.1,6745.5,Credit Card,PENDING,Mobile App,5,Good
+10685,Rahul Joshi,rahuljoshi979@example.com,9857483748,female,34,Pune,Maharashtra,Corporate,ORD-100684,2024-03-26,USB Hub,ACCESSORIES,5.0,2499,0.1,11245.5,Cash,Shipped,Store,3,Good
+10686,Rahul Iyer,rahuliyer560@example.com,9805789384,Other,24,pune,  Maharashtra,Student,ORD-100685,2024-01-17,Monitor,Electronics,3.0,999,0.1,2697.3,PayPal,Cancelled,Social Media,5,Fast delivery
+10687,Sanjay  Singh,,,Other,64, ,Maharashtra,Student,ORD-100686,2024-06-08,keyboard,Accessories,2.0,12999,0.15,22098.3,UPI,cancelled,Marketplace,1,Urgent
+10688,Ananya Nair,ananyanair194@example.com,+91 9795316843,Female,19,Delhi,Delhi,Small Business,ORD-100687,2026-01-16,Headphones,Accessories,,12999,0.15,22098.3,DEBIT CARD,Pending,  Marketplace,5,Fast delivery
+10689,arjun kumar,arjunkumar751@example.COM,9665624165,Male,25 years,mUMBAI,Maharashtra,Consumer,ORD-100688,2024-04-12,Tablet,Electronics,2.0,4999,0.15,8498.3,Net Banking,Completed,Marketplace,4,Good
+10690,  Sneha Iyer,snehaiyer95@example.com,9387393957,Male,58,Bengaluru,Karnataka,  Consumer,ORD-100689,2026-02-27,USB Hub,Accessories,1.0,999,0.05,949.05,cREDIT cARD,Completed,Social Media,3,
+10691,Arjun Singh,arjunsingh349@example.com,9614223965,Male,33,delhi, Delhi ,Consumer,ORD-100690,2024-11-10,Smartwatch,WEARABLES,5.0,4999,0.05,23745.25,Net Banking,Cancelled,Social Media,1,Good
+10692,Priya Patel,priyapatel11@example.com,9340853982,Male,32,Jaipur,Rajasthan,Student,ORD-100691,2024-05-25,Keyboard,Accessories,1.0,"₹7,999",0.15,6799.15,Cash  ,Completed ,Store,3,Fast delivery
+10693,Manish Joshi,manishjoshi989@example.com,9402595772,Female,22, ,Maharashtra,Small Business,ORD-100692,2024-04-14,Smartwatch,Wearables,2.0,799,0.05,1518.1,Credit  Card,Cancelled,Website,1,
+10694,Vikram Kumar,vikramkumar445@example.com,9261297535,Other,61,Kolkata,West Bengal,sMALL bUSINESS,ORD-100693,2025-11-26,printer,Electronics,-2,12999,0.05,37047.15,Net Banking,Completed ,Store,1,Customer happy
+10695,Meera Joshi,,9257398836,Female,27,Pune,Maharashtra,Student,ORD-100694,2026-03-07,Keyboard,Accessories,1.0,499,0.05,474.05,Cash,Returned,Website,1,
+10696,Divya Rao,divyarao795@example.com,9513409285,Female,38,Chennai,Tamil Nadu,Student,ORD-100695,2024-07-05,Headphones,Accessories,1.0,2499,0.05,2374.05,Cash,Returned,Marketplace,5,
+10697,Amit Kumar,amitkumar556@example.com,9628926733,Other,52,Hyderabad,Telangana,Corporate,ORD-100696,2025-07-05,Tablet,Electronics,4.0,7999,0.15,27196.6,Cash,Completed,sOCIAL mEDIA,4,
+10698,Akash Shetty,akashshetty218@example.com,9118419668,Female,,Hyderabad,Telangana,Student,ORD-100697,2024-01-03,Webcam,Accessories,1.0,1499,0.1,1349.1,Debit Card,Completed,Website,3,
+10699,Vikram Reddy,vikramreddy857@example.com,9341148670,Male,65,Ahmedabad,Gujarat,Corporate,ORD-100698,2024-08-03,, Accessories ,5.0,3499,0.05,16620.25,Credit Card,Pending,Marketplace,1,
+10700,Divya Gowda,divyagowda498@example.com,9999191343,other,28,Bengaluru,Karnataka,Consumer,ORD-100699,2024-03-16,Webcam,  accessories,1.0,19999,0.2,15999.2,debit card,CANCELLED,Mobile App,1,Fast delivery
+10701,Arjun Sharma, arjunsharma153@example.com ,9903273909,Other,62,Mysuru,Karnataka,Small Business,ORD-100700,2026-01-31,Tablet,Electronics,2.0,999,0.15,1698.3,Cash,, Store ,4,
+10702,Rahul Reddy,rahulreddy779@example.com,9286380321,Other,28,Mumbai,mAHARASHTRA,Consumer,ORD-100701,2025-09-10,Headphones,Accessories  ,1.0,19999,0.0,19999.0,Cash,Returned,market place,5,
+10703,Rohit Bhat,rohitbhat963@example.com,9268363403,M,23,Mysuru,Karnataka,Student,ORD-100702,2025-03-09,Printer,Electronics,3.0,,0.05,142497.15,Debit Card,Pending, Marketplace ,5,Good
+10704,Neha Verma,nehaverma719@example.com,9602979426,Female,38,Delhi,Delhi,student,ORD-100703,2026-04-16,Webcam,Accessories,5.0,12999,0.0,64995.0,Cash,Pending,Website,3,
+10705,Divya Singh,divyasingh807@example.com,9460209952,Male,33,Chennai,Tamil Nadu,small business,ORD-100704,2025-09-09,Smartphone,Electronics,1.0,799,0.1,719.1,Debit Card,Shipped,Website,1,Fast delivery
+10706,Isha Sharma,ishasharma285@example.com,9191310308,Other,54,Chennai,Tamil Nadu  ,Consumer,ORD-100705,2024-09-03,Monitor,Electronics  ,5.0,1499,0.0,7495.0,Net Banking,Returned,Website,1,Customer happy
+10707,Arjun Reddy,arjunreddy332@example.com,9907284495,Female,64,Bengaluru, Karnataka ,Small Business,ORD-100706,2024-07-18,Mouse,Accessories,3.0,3499,0.2,8397.6,UPI ,Completed,Store,4,
+10708,nikhil patel,nikhilpatel610@example.com,+91-9140166847,Female,28,Jaipur,Rajasthan,Corporate,ORD-100707,2025-05-03,Headphones,Accessories,1.0,12999,0.15,11049.15,PayPal,Returned,mobileapp,1,
+10709, nEHA bHAT ,nehabhat538@example.com,9882457827,Other,59,Hyderabad, Telangana ,Small Business,ORD-100708,2025-05-28,USB Hub,ACCESSORIES,2.0,49999,0.05,94998.1,Cash,Pending  ,Store,3,Customer happy
+10710,isha iyer,ishaiyer631@example.com,9180528798,male,54,Kolkata,West Bengal,Student,ORD-100709,2025-09-17,LAPTOP,Electronics,4.0,1499,0.05,5696.2,net banking,Completed,Mobile App,3,
+10711,Arjun Nair,arjunnair79@example.com,9400773683,Other,41,Mumbai,Maharashtra,Small Business,ORD-100710,2024-06-14,Smartwatch,Wearables,3.0,999,0.1,2697.3,Credit Card,Completed,,4,
+10712,Meera Reddy,  meerareddy50@example.com,9490275201,Female,43,Ahmedabad,Gujarat,Student,ORD-100711,2025-05-14,Usb Hub,Accessories,2.0,799,0.2,1278.4,Net Banking  ,Pending,mobileapp,3,
+10713,Isha Gowda,ishagowda908@example.com,9832888487,Male,57,Pune,Maharashtra,Consumer,ORD-100712,2024-09-26,  SMARTPHONE,ELECTRONICS,4.0,7999,,27196.6,PayPal,Pending  ,Social Media,1,Fast delivery
+10714,Sneha Reddy,snehareddy407@example.com,9596367839,Other,23,Kolkata,West Bengal,Small Business,ORD-100713,2024-08-16,Headphones,Accessories,5.0,3499,0.0,17495.0,Cash,complete,Social Media,4,Good
+10715,Arjun Kumar,arjunkumar76@example.com,9440682024,Female,56,Mumbai,Maharashtra,Student,ORD-100714,2024-12-02,Tablet,Electronics,4.0,1499,0.15,5096.6,dEBIT cARD,Returned,Website,3,Urgent
+10716,Priya Das,priyadas591@example.com,98765ABCDE,Other,-5,Delhi,Delhi,Consumer,ORD-100715,2024-11-23,Smartwatch,WEARABLES,2.0,19999,0.05,37998.1, ,Returned,market place,2,Good
+10717,kiran iyer,kiraniyer190@example.com,9189755462,Male,22,Bengaluru,Karnataka,corporate,ORD-100716,2025-10-12,usb hub,Accessories,4.0,1999,0.1,7196.4,Cash,Completed,Store,4,
+10718,Divya Das,divyadas926@example.com,9560135199,Female,37,Hyderabad,tELANGANA,Corporate,ORD-100717,2024-04-04,USB Hub,Accessories,3.0,999,0.0,2997.0,Debit Card,Cancelled,Marketplace,4,Urgent
+10719,Shreya Rao,shreyarao852@example.com,9110663879,Other,56,Delhi,Delhi,Corporate,ORD-100718,2025-02-02,Webcam,  Accessories,4.0,2499,0.2,7996.8,credit card,Shipped,Social Media,2,Customer happy
+10720,Amit Sharma  ,AMITSHARMA821@EXAMPLE.COM  ,9823643269,Female,34,Delhi,DELHI,Consumer,ORD-100719,2024-04-26,Smartwatch,electronic,2.0,4999,5 %,8998.2,Cash,Pending,,5,Good
+10721,Priya Singh,priyasingh231@example.com,9473754019,Male,30,Hyderabad,Telangana, Consumer ,ORD-100720,2025-01-21,Tablet,wearable,5.0,999,0.2,3996.0,UPI,Cancelled,Website,3,Customer happy
+10722,Nikhil Iyer,nikhiliyer430@example.com,9477666117,Female,52,Mumbai,  Maharashtra,Student,ORD-100721,2025-02-27,Webcam,Accessories,4.0,19999,0.15,67996.6,Net Banking,Cancelled  ,Website,2,Urgent
+10723,Divya Gowda,divyagowda400@example.com,9406046409,other,62,Delhi,Delhi,Student,ORD-100722,2025-03-22,Printer,Electronics,5.0, 999 ,0.2,3996.0,upi,Cancelled,social media,1,Good
+10724,Sneha Patel,snehapatel779@example.com,9769827731,Other,0,Bengaluru,Karnataka,student,ORD-100723,2026-02-06,External HDD,Storage,4.0, 799 ,0.15,2716.6,Net Banking,Shipped,website,3,
+10725,Divya Singh,  divyasingh886@example.com,9604201501,Male,40,hyderabad,Telangana,Student,ORD-100724,2024-07-19,Smartwatch,  Wearables,5.0,,0.0,17495.0,Cash, Returned ,  Website,3,
+10726,Neha Das,nehadas257@example.com,9104464143,Female,20,Chennai,Tamil Nadu,Consumer,ORD-100725,2025-11-20,Keyboard,Accessories,3.0,1999,0.15,5097.45,Credit Card,PENDING,Store,5,
+10727,Isha Gowda,ishagowda410@example.com,9306867533,Other,59,Pune,Maharashtra,Student,ORD-100726,2025-07-23,hEADPHONES, accessories ,5.0,3499,0.05,16620.25,upi,Shipped,STORE,2,
+10728,Manish Rao,manishrao246@example.com,9206920983,Other,26,  Delhi,Delhi,Consumer,ORD-100727,2025-03-23,Tablet,Electronics,3.0,7999,0.05,22797.15,PayPal,Shipped,Marketplace,3,
+10729,Shreya Kumar,shreyakumar21@example.com,9775269926,Other,27,Pune,Maharashtra,Consumer,ORD-100728,2025-03-23,,Electronics,1.0,799,0.0,799.0,NET BANKING,PENDING,Website,5,Urgent
+10730,Rahul Rao,rahulrao929@example.com,9338107857,Female,30,Delhi,Delhi,Corporate,ORD-100729,2025-10-30,Smartwatch,Wearables,0,999,0.05,2847.15,PayPal,Returned,Store,1,Customer happy
+10731,Arjun Bhat,arjunbhat115@example.com,9219111815,Female,56,Delhi,Delhi,Consumer,ORD-100730,2026-06-06,USB Hub,Accessories,1.0,19999,,15999.2,Netbanking,Pending,Store,3,Fast delivery
+10732,Arjun Patel,arjunpatel824@example.com,9123576118,Female,22,Ahmedabad,Gujarat,STUDENT,ORD-100731,2025-05-17,Mouse,Accessories,2.0,3499,10%,6998.0,,Completed,Mobile App,4,Urgent
+10733,Amit Joshi,  amitjoshi685@example.com,9709127131,Other,56,ahmedabad,,Consumer,ORD-100732,2024-07-01,HEADPHONES,accessories,2.0,1999,0.0,3998.0,Credit Card,Cancelled,Store,4,
+10734,Isha Das,ishadas207@example.com,9750806493,Male,52,Bengaluru,karnataka, Consumer ,ORD-100733,2024-05-04,Headphones,Accessories,5.0,"₹49,999",0.1,224995.5,Net Banking,Shipped,Mobile App,2,
+10735,Kavya Patel,kavyapatel755@example.com,9842601693,Male,35,Hyderabad,Telangana  ,Small Business,ORD-100734,2024-03-26,Laptop,Electronics,3.0,999,0.05,2847.15,Cash,Pending,Website,3,
+10736,Shreya Joshi,shreyajoshi954@ example.com,9307290415,female,29,Chennai,Tamil Nadu,Corporate,ORD-100735,2025-02-13,Smartwatch,Wearables,4.0,3499,0.2,11196.8,PayPal,Cancelled,Marketplace,1,
+10737,Akash Reddy,akashreddy620@example.com,9902170256,Female,38,Delhi,Delhi,Consumer,ORD-100736,2025-03-09,Monitor,Electronics,4.0,3499,0.15,11896.6,Net Banking,returned,Marketplace,2,
+10738,Kavya Gowda,kavyagowda610@example.com,9540028278,Female,56,Mumbai,Maharashtra,Small Business,ORD-100737,2024-09-16,Smartwatch,Wearables,2.0,499,0.2,798.4,Cash,PENDING, Website ,2,
+10739,Amit Verma, amitverma390@example.com ,9499393610,Male,38, Delhi , Delhi ,Consumer  ,ORD-100738,2025-11-03,Mouse,Accessories,2.0,799,0.05,1518.1,Credit Card,CANCELLED,Website  ,3,Fast delivery
+10740,Sanjay Mehta,SANJAYMEHTA626@EXAMPLE.COM,9327821348,Other,31,Pune  ,Maharashtra,Corporate ,ORD-100739,2024-10-17,Monitor,Electronics,5.0,799,0.15,3395.75,Net Banking,Cancelled,Social Media,1,
+10741,Divya Joshi,divyajoshi831@example.com,9630357875,Female,20,Kolkata,West Bengal,Small Business,ORD-100740,2024-02-20,Mouse,Accessories,3.0,1499,0.05,4272.15, Cash ,Completed,website,4,Fast delivery
+10742,Isha Gowda,ishagowda28@example.com, 9791131756 ,Other,18,Mysuru,Karnataka, Student ,ORD-100741,2024-10-18,Tablet,Electronics,2.0,12999,0.0,25998.0,UPI,Pending,Marketplace,1,
+10743,Nikhil Sharma  ,nikhilsharma859@example.com,9961692077,male,64,PUNE,Maharashtra,Small Business,ORD-100742,2024-04-07,USB Hub,Accessories,1.0,799,0.15,679.15,UPI,Cancelled,Store,4,Good
+10744,Shreya Shetty,  shreyashetty723@example.com,9588103427,Female,59,Pune,Maharashtra,Consumer,ORD-100743,2024-11-01,Smartwatch,Wearables,5.0,499,0.15,2120.75,,Shipped,website,1,Fast delivery
+10745,Priya Iyer,priyaiyer184@example.com,9194507238,Male,64,bENGALURU,Karnataka,Small Business,ORD-100744,2024-08-19,Headphones,Accessories,1.0,2499,0.15,2124.15,Net Banking,Completed,Website,0,
+10746,Priya Patel,priyapatel637@example.com,995-000-3908,Female,35,Bengaluru,Karnataka,small business,ORD-100745,2025-12-05,Keyboard,Accessories,1.0,1999,0.1,1799.1,Debit Card,Shipped,Marketplace,1,Fast delivery
+10747,Amit Iyer,amitiyer135@example.com,+91-9660239511,Other,33,Delhi,DELHI, Student ,ORD-100746,2025-11-15,External HDD,Storage,4.0,19999,0.15,67996.6,PayPal,rETURNED,Store,3,
+10748,Meera Singh,meerasingh581@example.com,9997156491,,60,Mumbai, Maharashtra ,Corporate,ORD-100747,2024-12-27,Keyboard,Accessories,3.0,49999,0.0,149997.0, ,Completed, Website ,4,
+10749,Kiran Sharma,kiransharma358@example.com,324048532,Other,51,  Hyderabad,Telangana,Small Business,ORD-100748,2024-04-17,Smartwatch,Wearables,4.0,1499,0.15,5096.6,UPI,Returned,mobile  app,5,Good
+10750,Vikram Singh,vikramsingh808@example.com,9529716747,Male,22,  Pune,Maharashtra,Small Business,ORD-100749,2024-07-26,Tablet,ELECTRONICS,4.0,12999,0.2,41596.8,Cash,PENDING,Store,5,
+10699,Vikram Reddy,vikramreddy857@example.com,9341148670,Male,65,Ahmedabad,Gujarat,Corporate,ORD-100698,2024-08-03,Headphones, Accessories ,5.0,3499,0.05,16620.25,Credit Card,Pending,Marketplace,1,
+10410,Amit Das,amitdas508@ example.com,9222753236,Other,56,Hyderabad,Telangana,small business,ORD-100409,2026-05-06,Headphones,Accessories,1.0,49999,10%,39999.2, ,Shipped,web site,4,Fast delivery
+10316,Manish Joshi,manishjoshi168@example.com,955-749-0881,Other,55,Hyderabad,Telangana,Small Business,ORD-100315,2024-04-19,Webcam,Accessories,3.0,3499,0.1,9447.3,UPI,Shipped,marketplace,5,Customer happy
+10271,Meera Shetty,meerashetty753@example.com,9162971085,Male,24,Kolkata,West Bengal,Student,ORD-100270,2025-12-13,USB Hub,Accessories,2.0,799,0.05,1518.1,Net Banking,pending ,Social Media,4,Fast delivery
+10219,KAVYA NAIR,kavyanair849@example.com,9523431477,Male,55,Mumbai,Maharashtra,Consumer ,ORD-100218,2025-10-14,  External HDD,Storage,1.0,7999,,7599.05,Cash,Pending,Mobile App,3,Customer happy
+10421,Meera Mehta,meeramehta765@example.com,9770355280,Male,36,dELHI,Delhi,Student,ORD-100420,2026-08-04,  External HDD,Storage,1.0,19999,0.1,17999.1,Credit Card,,Social Media,1,
+10708,nikhil patel,nikhilpatel610@example.com,+91-9140166847,Female,28,Jaipur,Rajasthan,Corporate,ORD-100707,2025-05-03,Headphones,Accessories,1.0,12999,0.15,11049.15,PayPal,Returned,mobileapp,1,
+10480,Nikhil Mehta,nikhilmehta742@example.com,9305672580,Female,-5,Mumbai,Maharashtra,CONSUMER,ORD-100479,2024-10-08, Smartphone ,Electronics,5.0,499,0.2,1996.0,PayPal,Completed,Mobile App,5,
+10065,Sanjay Bhat,sanjaybhat886@example.com,9932734539,Female,20, ,,Small Business,ORD-100064,2024-08-27,Monitor,Electronics,2.0,12999,0.15,22098.3,PayPal,Returned,Marketplace,4,
+10554,Ananya Das,ananyadas388@example.com,9713927729,Female,150,Pune,Maharashtra,Corporate,ORD-100553,2024-05-03,Smartphone,Electronics,5.0,3499,0.0,17495.0,Credit Card  ,Cancelled,Store,6,Customer happy
+10407,Neha Kumar,nehakumar949@example.com,9814232253,Female,38,Mysuru,Karnataka,Student,ORD-100406,2025-12-17,Keyboard,Accessories,3.0,"₹3,499",0.05,9972.15,Cash,Completed,Website,4,Good
+10735,Kavya Patel,kavyapatel755@example.com,9842601693,Male,35,Hyderabad,Telangana  ,Small Business,ORD-100734,2024-03-26,Laptop,Electronics,3.0,999,0.05,2847.15,Cash,Pending,Website,3,
+10269, Sanjay Sharma ,  sanjaysharma703@example.com,9435766697,Female,65, ,Maharashtra,Consumer,ORD-100268,2026-03-31,Headphones,Accessories,1.0,1999,0.1,1799.1,Credit Card,Completed,Website,2,
+10117,Arjun Rao,arjunrao310@example.com  ,9444898148,Male,23,Kolkata,West Bengal,Small Business,ORD-100116,2025-12-07,Smartphone  ,Electronics,4.0,12999,0.05,49396.2, PayPal ,Cancelled,Store,4,
+10212,Meera Gowda,meeragowda777@example.com,9938725480,Female,64,Jaipur,RAJASTHAN,Consumer,ORD-100211,2024-05-09,Printer,Electronics,3.0,999,0.1,2697.3,Credit Card,Cancelled,mARKETPLACE,3,
+10175,Manish Rao,manishrao103@example.com,9105578324,Female,46,Delhi,Delhi,small business,ORD-100174,2024-04-19,,Accessories,4.0,2499,0.1,8996.4,UPI,Completed,Mobile App,1,Fast delivery
+10473,Rohit Gowda,rohitgowda552@example.com,9786063606,FEMALE,50,Kolkata,West Bengal,Corporate,ORD-100472,2024-10-25,USB Hub,Accessories,3.0,499,0.1,1347.3,PayPal,Pending,Website,5,
+10327,Neha Iyer,nehaiyer643@example.com,9482281482,Male,24,Chennai,Tamil Nadu,Consumer,ORD-100326,2026-05-06,Monitor,Electronics,2.0,1499,0.05,2848.1,Credit Card,Returned  ,Social Media,1,
+10326,Pooja Patel,poojapatel497@example.com,9437018334,Female,31,Kolkata,West Bengal  ,Small Business,ORD-100325,2024-07-01,usb hUB,Accessories,3.0,799,0.2,1917.6,Debit Card,Pending,MARKETPLACE,2,Fast delivery
+10474,Ananya Das, ananyadas557@example.com ,9722820339,Female,27,Pune,Maharashtra,Consumer,ORD-100473,2024-04-08,Mouse,Accessories,3.0,1999,0.1,5397.3,Debit Card,Shipped,Store,3,
+10101,Neha Rao,neharao382@example.com,,Female,42,Ahmedabad,,Student,ORD-100100,2024-06-11,Smartwatch,WEARABLES,-2, 7999 ,0.2,31996.0,UPI,Shipped,Website,3,Good
+10068,Arjun Singh,arjunsingh658@example.com,9855797020,Male,46,cHENNAI,Tamil Nadu,Corporate,ORD-100067,2026-02-17,Monitor,Electronics,1.0,3499,0.0,3499.0,PayPal,Cancelled,Website,1,
+10701,Arjun Sharma, arjunsharma153@example.com ,9903273909,Other,62,Mysuru,Karnataka,Small Business,ORD-100700,2026-01-31,Tablet,Electronics,2.0,999,0.15,1698.3,Cash,, Store ,4,
+10495,Isha Reddy,,9675347404,Male,36,Pune,Maharashtra,  Small Business,ORD-100494,2026-05-10,Tablet,accessories,2.0,4999,0.0,9998.0,Credit Card,,Social Media,4,
+10572,Rohit Mehta,rohitmehta766@example.com,9707423317,Other,61,Jaipur,Rajasthan,Corporate,ORD-100571,2025-06-11,,Wearables,2.0,7999,0.05,15198.1,Credit Card,Shipped  ,Mobile  App,1,Fast delivery
+10737,Akash Reddy,akashreddy620@example.com,9902170256,Female,38,Delhi,Delhi,Consumer,ORD-100736,2025-03-09,Monitor,Electronics,4.0,3499,0.15,11896.6,Net Banking,returned,Marketplace,2,
+10398,Amit Shetty,amitshetty394@example.com,9772710898,Other,28,Pune,Maharashtra,corporate,ORD-100397,2024-12-13,,Electronics,2.0,1999,0.0,3998.0,Debit Card,Shipped,Website,3,
+10237, ,rohitpatel86@example.com,9687386446,Male,39,Mumbai,Maharashtra,sTUDENT,ORD-100236,2026-01-19,MOUSE,Accessories,2.0,3499,0.05,6648.1,PayPal,Completed,app,2,
+10131,Nikhil Nair,nikhilnair527@example.com,9590947659,Male,31,Ahmedabad,Gujarat,Small Business,ORD-100130,2025-02-06,KEYBOARD,Accessories,4.0,499,0.0,1996.0,Credit Card,Completed,Store,4,
+10376,  Vikram Patel,vikrampatel256@example.com,9715145139,Male,45,Kolkata,wEST bENGAL,Consumer ,ORD-100375,2025-03-03,Printer,eLECTRONICS,5.0,"₹19,999",0.05,94995.25,Net Banking,Cancelled,Marketplace,5,
+10562, Sneha Gowda,snehagowda931@example.com,+91 9229886539,Male,30,delhi, Delhi ,student,ORD-100561,2026-04-27,Tablet,Electronics,3.0,1999,0.15,5097.45,Net Banking,Shipped,Mobile App,4,
+10437, Shreya  Kumar,shreyakumar679@example.com, 9120468746 ,Female,57,mysuru,Karnataka,Consumer,ORD-100436,2025-05-15, Monitor ,Electronics,three,499,0.05,474.05,,pENDING,Website,2,
+10085, Sneha Iyer,snehaiyer433@example.com,9463925049,Female,43,jaipur,Rajasthan,Student,ORD-100084,2024-08-21,wEBCAM,Accessories,2.0,3499,0.15,5948.3,PayPal,Completed,Store,4,Customer happy
+10564, Akash Joshi,  akashjoshi591@example.com,9536740105,Female,23, , Maharashtra ,Corporate,ORD-100563,2024-11-07,Monitor,Electronics,5.0,19999,0.05,94995.25,Debit  Card,Cancelled,sOCIAL mEDIA,2,
+10349, Meera Joshi,meerajoshi251@example.com,9779580831,FEMALE,38,chennai,Tamil Nadu,Consumer,ORD-100348,2024-04-25,Monitor,accessory,3.0,499,0.05,1422.15,CreditCard,Cancelled,Social Media,0,Urgent
+10275, Priya Das,priyadas480@example.com,9576944168,Other,46,hyderabad,TELANGANA,Consumer,ORD-100274,2024-03-21,Printer  ,Electronics,4.0,3499,0.05,13296.2,Cash,Returned,Store,1,Urgent
+10592, Priya Singh,priyasingh323@example.com,9556364808,Female,54,hyderabad,Telangana,consumer,ORD-100591,2024-08-11,Monitor,Electronics,4.0,1499,0.15,5096.6,credit-card,complete,Social Media,1,Fast delivery
+10363, vIKRAM rEDDY,vikramreddy317@example.com,9198682372,Other,43, ,,Corporate,ORD-100362,2026-04-10,External HDD  ,storage,2.0,1499,0.1,2698.2,PayPal,Completed,Store,4,Fast delivery
+10667, Pooja Nair,,9427297760,other,50,chennai,Tamil Nadu,Consumer,ORD-100666,2025-02-07,kEYBOARD,Accessories,2.0,499,0.2,798.4,Cash,Shipped,Marketplace,1,Customer happy
+10490, Manish Nair,manishnair562@example.com,9714406057,Female,48,mumbai,Maharashtra,Corporate,ORD-100489,2025-12-02,External HDD,Storage,4.0,19999,0.2,63996.8,Net Banking,Completed,,3,Urgent
+10435, Kavya Nair,kavyanair46@example.com,9307331729,Male,64,mumbai,Maharashtra,Corporate,ORD-100434,2024-05-23,USB HUB,ELECTRONICS,4.0,49999,0.05,189996.2,Cash,Returned,Website,5,
+10063, Pooja Das,poojadas574@example.com,9255308128,Female,30,chennai,Tamil Nadu,Corporate,ORD-100062,2025-04-12,Tablet,Electronics,4.0,4999,0.05,18996.2, Credit Card ,Cancelled,Marketplace,3,
+10017, Priya Joshi,priyajoshi507@example.com,9616854671,Male,43,  jaipur,Rajasthan,Consumer,ORD-100016,2025-02-20,Laptop,electronic,1.0,1499,0.05,1424.05,Debit Card,Returned,  Website,4,Customer happy
+10701, Arjun Sharma, arjunsharma153@example.com ,9903273909,Other,62,mysuru,Karnataka,Small Business,ORD-100700,2026-01-31,Tablet,Electronics,2.0,999,0.15,1698.3,Cash,, Store ,4,
+10289, Akash Das,akashdas543@example.com,9173203925,Other,28,pune,Maharashtra,Student,ORD-100288,2024-07-07,Smartphone,Electronics  ,3.0,7999,0.05,22797.15,Net Banking,Shipped,Marketplace,1,Customer happy
+10065, Sanjay Bhat,sanjaybhat886@example.com,9932734539,Female,20, ,,Small Business,ORD-100064,2024-08-27,Monitor,Electronics,2.0,12999,0.15,22098.3,PayPal,Returned,Marketplace,4,
+10130, Sanjay Singh,sanjaysingh640@example.com,+91 9548968760,Male,28,delhi,Delhi,Small Business,ORD-100129,2026-06-03,sMARTPHONE,eLECTRONICS,1.0,1999,0.15,1699.15,Net  Banking,return,Mobile App,2,Urgent
+10310, Akash Kumar,akashkumar67@example.com,9278607682, m ,29,delhi,Delhi,Student,ORD-100309,2024-05-30,USB Hub,storage,5.0,499,0.2,1996.0,Net Banking,Shipped,Website,3,Good
+10506, Pooja Joshi,poojajoshi463@example.com,95171 17581,Male,43,pune,Maharashtra,Small Business,ORD-100505,2026-05-28,USB Hub,ACCESSORIES,1.0,7999,0.05,7599.05,UPI,Completed,Mobile App,3,Fast delivery
+10099, Arjun Reddy,arjunreddy303@example.com,+91-9182389284,Other,23,ahmedabad,Gujarat,Student,ORD-100098,2026-05-01, Smartwatch ,Wearables,1.0,499,0.1,449.1,Cash,Shipped,Social Media,1,Urgent
