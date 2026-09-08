@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.streamlit/secrets.toml
+
+# DataClean Pro local history
+data/history/*
+!data/history/.gitkeep
+
+# Temporary/local files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
